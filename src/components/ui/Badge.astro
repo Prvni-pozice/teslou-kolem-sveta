@@ -1,0 +1,45 @@
+---
+interface Props {
+  variant?: 'sky' | 'amber' | 'green' | 'neutral' | 'outline'
+    | 'continent-evropa' | 'continent-asie' | 'continent-afrika'
+    | 'continent-ameriky' | 'continent-oceanie';
+  class?: string;
+}
+
+const { variant = 'neutral', class: cls } = Astro.props;
+
+const variantClass: Record<string, string> = {
+  sky:                 'badge badge-sky',
+  amber:               'badge badge-amber',
+  green:               'badge badge-green',
+  neutral:             'badge badge-neutral',
+  outline:             'badge badge-outline',
+  'continent-evropa':  'badge badge-europe',
+  'continent-asie':    'badge badge-asia',
+  'continent-afrika':  'badge badge-africa',
+  'continent-ameriky': 'badge badge-americas',
+  'continent-oceanie': 'badge badge-oceania',
+};
+---
+
+<span class:list={[variantClass[variant] ?? 'badge badge-neutral', cls]}>
+  <slot />
+</span>
+
+<style>
+  .badge-outline {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.7rem;
+    border-radius: 100px;
+    background: transparent;
+    border: 1.5px solid var(--border-strong);
+    color: var(--text-muted);
+  }
+</style>

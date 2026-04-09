@@ -1,0 +1,80 @@
+---
+import VideoCard from '../travel/VideoCard.astro';
+
+const YT_CHANNEL_ID = 'UCxxxxxxxxxxxxxxxxxxxxxx'; // TODO: replace with real channel ID
+const YT_RSS = `https://www.youtube.com/feeds/videos.xml?channel_id=${YT_CHANNEL_ID}`;
+
+interface YTVideo {
+  id: string;
+  title: string;
+  published: string;
+  thumbnail: string;
+  isShort: boolean;
+}
+
+let videos: YTVideo[] = [];
+
+try {
+  const res = await fetch(YT_RSS, { signal: AbortSignal.timeout(4000) });
+  if (res.ok) {
+    const text = await res.text();
+    const entries = [...text.matchAll(/<entry>([\s\S]*?)<\/entry>/g)];
+    videos = entries.slice(0, 6).map(([, entry]) => {
+      const id = entry.match(/watch\?v=([^"&<]+)/)?.[1]
+               ?? entry.match(/<yt:videoId>([^<]+)<\/yt:videoId>/)?.[1]
+               ?? '';
+      const title = entry.match(/<title>([^<]+)<\/title>/)?.[1] ?? '';
+      const published = entry.match(/<published>([^<]+)<\/published>/)?.[1] ?? '';
+      const thumbnail = `https://img.youtube.com/vi/${id}/mqdefault.jpg`;
+      const isShort = title.toLowerCase().includes('#short') || title.includes('⚡');
+      return { id, title, published, thumbnail, isShort };
+    }).filter(v => v.id);
+  }
+} catch {
+  // RSS fetch failed — use empty array, no build failure
+}
+
+// Static fallback if RSS empty
+const fallbackVideos: YTVideo[] = [
+  { id: 'dQw4w9WgXcQ', title: 'Nordkapp Teslou — 7200 km za 12 dní', published: '2021-09-15', thumbnail: '', isShort: false },
+  { id: 'dQw4w9WgXcQ', title: 'Nabíjení v Norsku — tipy', published: '2021-10-01', thumbnail: '', isShort: false },
+  { id: 'dQw4w9WgXcQ', title: 'Geirangerfjord výhled', published: '2021-10-15', thumbnail: '', isShort: true },
+];
+
+const displayVideos = videos.length > 0 ? videos : fallbackVideos;
+---
+
+<section class="yt-section section" aria-labelledby="yt-heading">
+  <div class="container">
+    <div class="flex-between section-header">
+      <div>
+        <h2 id="yt-heading">Videa z cest</h2>
+        <p>Sledujte naše výpravy v pohybu</p>
+      </div>
+      <a
+        href="https://youtube.com/@tesloukolemsveta"
+        class="btn btn-outline"
+        target="_blank"
+        rel="noopener"
+        aria-label="Přejít na YouTube kanál Teslou kolem světa"
+      >
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+        </svg>
+        YouTube kanál →
+      </a>
+    </div>
+
+    <div class="grid-3">
+      {displayVideos.slice(0, 3).map(v => (
+        <VideoCard
+          youtubeId={v.id}
+          title={v.title}
+          thumbnail={v.thumbnail}
+          pubDate={v.published ? new Date(v.published) : undefined}
+          isShort={v.isShort}
+        />
+      ))}
+    </div>
+  </div>
+</section>

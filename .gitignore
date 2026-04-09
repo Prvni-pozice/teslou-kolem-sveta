@@ -1,0 +1,47 @@
+# Astro build output
+dist/
+.astro/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/
+
+# ─────────────────────────────────────────────
+# RAW SOURCE DATA — never commit, never expose
+# ─────────────────────────────────────────────
+# Facebook export (raw archive, may contain personal data)
+source-data/facebook-export/
+
+# YouTube local metadata snapshots
+source-data/youtube/
+
+# Media staging area (unreviewed photos/videos from import)
+source-data/media-staging/
+
+# Generated draft articles (before editorial review)
+source-data/drafts/
+
+# Processed/normalized metadata CSVs or JSON (may contain personal data)
+source-data/normalized/
+
+# Keep folder structure but not contents
+!source-data/.gitkeep
+!source-data/facebook-export/.gitkeep
+!source-data/youtube/.gitkeep
+!source-data/media-staging/.gitkeep

@@ -1,0 +1,130 @@
+---
+interface Props {
+  youtubeId: string;
+  title: string;
+  description?: string;
+  thumbnail?: string;
+  duration?: string;
+  isShort?: boolean;
+  pubDate?: Date;
+}
+
+const { youtubeId, title, description, thumbnail, duration, isShort = false, pubDate } = Astro.props;
+
+const thumbUrl = thumbnail ?? `https://img.youtube.com/vi/${youtubeId}/mqdefault.jpg`;
+const ytUrl = isShort
+  ? `https://youtube.com/shorts/${youtubeId}`
+  : `https://www.youtube.com/watch?v=${youtubeId}`;
+
+const formattedDate = pubDate?.toLocaleDateString('cs-CZ', {
+  day: 'numeric', month: 'long', year: 'numeric',
+});
+---
+
+<article class:list={['video-card card', { 'video-card--short': isShort }]}>
+  <a href={ytUrl} class="video-thumb-link" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+    <div class="video-thumb-wrap">
+      <img src={thumbUrl} alt={`${title} — YouTube video`} loading="lazy" class="video-thumb" />
+      <div class="play-overlay" aria-hidden="true">
+        <svg width="44" height="44" viewBox="0 0 44 44" fill="none">
+          <circle cx="22" cy="22" r="22" fill="rgba(255,255,255,0.9)"/>
+          <path d="M17 13l14 9-14 9V13z" fill="#1e293b"/>
+        </svg>
+      </div>
+      {duration && <span class="video-duration">{duration}</span>}
+    </div>
+  </a>
+
+  <div class="card-body">
+    {formattedDate && <time class="video-date">{formattedDate}</time>}
+    <h3 class="video-title">
+      <a href={ytUrl} target="_blank" rel="noopener">{title}</a>
+    </h3>
+    {description && <p class="video-desc">{description}</p>}
+  </div>
+</article>
+
+<style>
+  .video-card { position: relative; }
+
+  .video-thumb-link { display: block; text-decoration: none; }
+
+  .video-thumb-wrap {
+    position: relative;
+    overflow: hidden;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  }
+
+  .video-thumb {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s var(--ease);
+  }
+
+  .video-card--short .video-thumb {
+    aspect-ratio: 9/16;
+  }
+
+  .video-card:hover .video-thumb { transform: scale(1.03); }
+
+  .play-overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity var(--duration) var(--ease);
+    background: rgba(14, 165, 233, 0.15);
+  }
+
+  .video-card:hover .play-overlay { opacity: 1; }
+
+  .video-duration {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    background: rgba(0,0,0,0.75);
+    color: #fff;
+    font-size: 0.75rem;
+    font-family: var(--font-sans);
+    font-weight: 600;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+  }
+
+  .video-date {
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    font-family: var(--font-sans);
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  .video-title {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    margin: 0 0 0.4rem;
+  }
+
+  .video-title a {
+    color: var(--text-heading);
+    text-decoration: none;
+    transition: color var(--duration) var(--ease);
+  }
+
+  .video-title a:hover { color: var(--accent); }
+
+  .video-desc {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    max-width: none;
+    margin: 0;
+  }
+</style>

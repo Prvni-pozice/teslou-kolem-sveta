@@ -1,0 +1,365 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import RelatedStories from '../components/travel/RelatedStories.astro';
+import Badge from '../components/ui/Badge.astro';
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  story: CollectionEntry<'stories'>;
+}
+
+const { story } = Astro.props;
+const { title, description, pubDate, updatedDate, category, tags,
+        readingTime, continent, country, youtubeId, heroImage, heroImageAlt, heroCaption } = story.data;
+
+const allStories = await getCollection('stories', ({ data }) => !data.draft);
+const related = allStories
+  .filter(s => s.slug !== story.slug && (s.data.continent === continent || s.data.country === country))
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 3);
+
+const formattedDate = pubDate.toLocaleDateString('cs-CZ', {
+  day: 'numeric', month: 'long', year: 'numeric',
+});
+
+const categoryLabels: Record<string, string> = {
+  cesta: 'Cesta',
+  pruvodce: 'Průvodce',
+  technika: 'Technika',
+  zamysleni: 'Zamyšlení',
+};
+
+const continentLabels: Record<string, string> = {
+  evropa: 'Evropa', asie: 'Asie', afrika: 'Afrika',
+  ameriky: 'Ameriky', oceanie: 'Oceánie',
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  ogImage={heroImage}
+  type="article"
+  pubDate={pubDate}
+  continent={continent}
+  country={country}
+>
+  <!-- Schema: Article + BreadcrumbList -->
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": title,
+    "description": description,
+    "datePublished": pubDate.toISOString(),
+    ...(updatedDate && { "dateModified": updatedDate.toISOString() }),
+    "image": heroImage ? `https://www.tesloukolemsveta.cz${heroImage}` : undefined,
+    "author": {
+      "@type": "Person",
+      "name": "Teslou kolem světa",
+      "url": "https://www.tesloukolemsveta.cz"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Teslou kolem světa",
+      "url": "https://www.tesloukolemsveta.cz"
+    },
+    "mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href },
+    "keywords": tags.join(', ')
+  })} />
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Domů", "item": "https://www.tesloukolemsveta.cz/" },
+      { "@type": "ListItem", "position": 2, "name": "Příběhy", "item": "https://www.tesloukolemsveta.cz/pribehy/" },
+      { "@type": "ListItem", "position": 3, "name": title, "item": Astro.url.href }
+    ]
+  })} />
+
+  <!-- Reading progress bar -->
+  <div class="reading-progress-wrap" aria-hidden="true">
+    <div id="readingProgress" class="reading-progress-bar"></div>
+  </div>
+
+  <!-- Story hero -->
+  {heroImage && (
+    <div class="story-hero-image">
+      <img src={heroImage} alt={heroImageAlt ?? title} loading="eager" />
+      {heroCaption && <p class="hero-caption">{heroCaption}</p>}
+    </div>
+  )}
+
+  <!-- Article header -->
+  <div class="story-header-wrap">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Domů</a>
+        <span aria-hidden="true">›</span>
+        <a href="/pribehy/">Příběhy</a>
+        <span aria-hidden="true">›</span>
+        <span aria-current="page">{title}</span>
+      </nav>
+
+      <div class="story-badges">
+        <Badge variant="sky">{categoryLabels[category] ?? category}</Badge>
+        {continent && <Badge variant="outline">{continentLabels[continent] ?? continent}</Badge>}
+      </div>
+
+      <h1 class="story-title">{title}</h1>
+      <p class="story-lead">{description}</p>
+
+      <div class="story-meta">
+        <time datetime={pubDate.toISOString()}>
+          {formattedDate}
+        </time>
+        {readingTime && <span>{readingTime} min čtení</span>}
+        {updatedDate && (
+          <span class="meta-updated">
+            Aktualizováno: {updatedDate.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}
+          </span>
+        )}
+      </div>
+    </div>
+  </div>
+
+  <!-- Article body -->
+  <div class="story-body">
+    <div class="container">
+      <div class="story-layout">
+        <article class="prose">
+          <slot />
+        </article>
+
+        <aside class="story-sidebar">
+          <div class="sidebar-sticky">
+            <!-- YouTube embed if available -->
+            {youtubeId && (
+              <div class="sidebar-video">
+                <h4 class="sidebar-label">Video k článku</h4>
+                <div class="yt-embed">
+                  <iframe
+                    src={`https://www.youtube-nocookie.com/embed/${youtubeId}`}
+                    title={title}
+                    loading="lazy"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                  ></iframe>
+                </div>
+              </div>
+            )}
+
+            <!-- Tags -->
+            {tags.length > 0 && (
+              <div class="sidebar-tags">
+                <h4 class="sidebar-label">Témata</h4>
+                <div class="tags-list">
+                  {tags.map(tag => <span class="tag">{tag}</span>)}
+                </div>
+              </div>
+            )}
+
+            <!-- CTA -->
+            <div class="sidebar-cta">
+              <p>Sledujte naše výpravy naživo</p>
+              <a
+                href="https://youtube.com/@tesloukolemsveta"
+                class="btn btn-primary"
+                target="_blank"
+                rel="noopener"
+                aria-label="Teslou kolem světa YouTube kanál"
+              >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                </svg>
+                YouTube kanál
+              </a>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+
+  <!-- Related stories -->
+  {related.length > 0 && (
+    <section class="related-section">
+      <div class="container">
+        <RelatedStories stories={related} />
+      </div>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  /* Reading progress */
+  .reading-progress-wrap {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    z-index: 9999;
+    background: var(--slate-100);
+  }
+  .reading-progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--sky) 0%, var(--amber) 100%);
+    transform: scaleX(0);
+    transform-origin: left;
+    will-change: transform;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .reading-progress-wrap { display: none; }
+  }
+
+  /* Hero image */
+  .story-hero-image {
+    width: 100%;
+    max-height: 560px;
+    overflow: hidden;
+    position: relative;
+  }
+  .story-hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .hero-caption {
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    padding: 0.5rem 1rem;
+    background: linear-gradient(to top, rgba(0,0,0,0.55), transparent);
+    color: #fff;
+    font-size: 0.82rem;
+    text-align: center;
+  }
+
+  /* Story header */
+  .story-header-wrap {
+    padding-top: calc(80px + 2.5rem);
+    padding-bottom: 2.5rem;
+    background: var(--bg-base);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 1.25rem;
+    flex-wrap: wrap;
+  }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  .breadcrumb span[aria-current] { color: var(--text-dim); }
+
+  .story-badges {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .story-title {
+    font-size: clamp(1.75rem, 4vw, 2.75rem);
+    margin-bottom: 0.75rem;
+    max-width: 820px;
+  }
+
+  .story-lead {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    max-width: 65ch;
+    margin-bottom: 1.25rem;
+  }
+
+  .story-meta {
+    display: flex;
+    gap: 1.25rem;
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    flex-wrap: wrap;
+  }
+  .meta-updated { color: var(--text-dim); font-size: 0.8rem; }
+
+  /* Body layout */
+  .story-body { padding-block: 3rem; }
+
+  .story-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  @media (min-width: 1024px) {
+    .story-layout { grid-template-columns: 1fr 300px; align-items: start; }
+  }
+
+  /* Sidebar */
+  .sidebar-sticky {
+    position: sticky;
+    top: 96px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+  .sidebar-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 0.75rem;
+    font-family: var(--font-sans);
+  }
+  .sidebar-video .yt-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .sidebar-video .yt-embed iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  .sidebar-tags {
+    background: var(--bg-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+  }
+  .tags-list { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .tag {
+    background: var(--bg-card);
+    border: 1px solid var(--border-strong);
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    padding: 0.2rem 0.65rem;
+    border-radius: 100px;
+    font-family: var(--font-sans);
+  }
+  .sidebar-cta {
+    background: var(--sky-light);
+    border: 1px solid var(--border-accent);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+    text-align: center;
+  }
+  .sidebar-cta p {
+    font-size: 0.9rem;
+    color: var(--slate-700);
+    margin-bottom: 0.75rem;
+    max-width: none;
+  }
+
+  /* Related */
+  .related-section {
+    padding-block: 3rem 5rem;
+    border-top: 1px solid var(--border);
+    background: var(--bg-2);
+  }
+</style>

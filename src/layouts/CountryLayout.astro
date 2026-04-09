@@ -1,0 +1,236 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import StoryCard from '../components/travel/StoryCard.astro';
+import Badge from '../components/ui/Badge.astro';
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  country: CollectionEntry<'countries'>;
+}
+
+const { country } = Astro.props;
+const {
+  title, description, nameCs, nameEn, isoCode, continent,
+  visited, visitedDate, visitCount, evInfrastructure,
+  chargerNetworks, highlights, capital, currency, language,
+  heroImage, heroImageAlt, heroCaption,
+} = country.data;
+
+const allStories = await getCollection('stories', ({ data }) => !data.draft);
+const countryStories = allStories
+  .filter(s => s.data.country === isoCode || s.data.relatedCountry === country.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const evLabels: Record<string, string> = {
+  excellent: 'Výborná', good: 'Dobrá', limited: 'Omezená', poor: 'Slabá',
+};
+const evColors: Record<string, string> = {
+  excellent: 'green', good: 'sky', limited: 'amber', poor: 'neutral',
+};
+const continentLabels: Record<string, string> = {
+  evropa: 'Evropa', asie: 'Asie', afrika: 'Afrika', ameriky: 'Ameriky', oceanie: 'Oceánie',
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  ogImage={heroImage}
+  continent={continent}
+>
+  <!-- Schema: BreadcrumbList + Country TouristDestination -->
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Domů",    "item": "https://www.tesloukolemsveta.cz/" },
+      { "@type": "ListItem", "position": 2, "name": "Země",    "item": "https://www.tesloukolemsveta.cz/zeme/" },
+      { "@type": "ListItem", "position": 3, "name": nameCs,    "item": Astro.url.href }
+    ]
+  })} />
+
+  <!-- Country hero -->
+  {heroImage && (
+    <div class="country-hero">
+      <img src={heroImage} alt={heroImageAlt ?? `${nameCs} — cestování Teslou`} loading="eager" />
+      {heroCaption && <p class="hero-caption">{heroCaption}</p>}
+    </div>
+  )}
+
+  <!-- Country header -->
+  <div class="country-header-wrap">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Domů</a>
+        <span aria-hidden="true">›</span>
+        <a href="/zeme/">Země</a>
+        <span aria-hidden="true">›</span>
+        <span aria-current="page">{nameCs}</span>
+      </nav>
+
+      <div class="country-header-inner">
+        <div class="country-title-area">
+          <div class="country-badges">
+            <Badge variant={`continent-${continent}`}>{continentLabels[continent ?? ''] ?? continent}</Badge>
+            {visited && <Badge variant="green">Navštíveno</Badge>}
+          </div>
+          <h1>{nameCs}</h1>
+          <p class="country-lead">{description}</p>
+        </div>
+
+        <div class="country-facts">
+          {capital && (
+            <div class="fact">
+              <span class="fact-label">Hlavní město</span>
+              <span class="fact-value">{capital}</span>
+            </div>
+          )}
+          {currency && (
+            <div class="fact">
+              <span class="fact-label">Měna</span>
+              <span class="fact-value">{currency}</span>
+            </div>
+          )}
+          {visitCount > 0 && (
+            <div class="fact">
+              <span class="fact-label">Počet návštěv</span>
+              <span class="fact-value">{visitCount}×</span>
+            </div>
+          )}
+          {evInfrastructure && (
+            <div class="fact">
+              <span class="fact-label">EV infrastruktura</span>
+              <Badge variant={evColors[evInfrastructure] as any}>{evLabels[evInfrastructure]}</Badge>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Highlights + charger networks -->
+  {(highlights.length > 0 || chargerNetworks.length > 0) && (
+    <section class="country-highlights section-sm">
+      <div class="container">
+        <div class="highlights-grid">
+          {highlights.length > 0 && (
+            <div class="highlight-block">
+              <h2>Hlavní tipy</h2>
+              <ul>
+                {highlights.map(h => <li>{h}</li>)}
+              </ul>
+            </div>
+          )}
+          {chargerNetworks.length > 0 && (
+            <div class="highlight-block">
+              <h2>Nabíjecí sítě</h2>
+              <ul>
+                {chargerNetworks.map(n => <li>{n}</li>)}
+              </ul>
+            </div>
+          )}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Long-form content from markdown -->
+  <section class="country-content section-sm">
+    <div class="container">
+      <div class="prose">
+        <slot />
+      </div>
+    </div>
+  </section>
+
+  <!-- Stories from this country -->
+  {countryStories.length > 0 && (
+    <section class="country-stories section-sm">
+      <div class="container">
+        <div class="section-header">
+          <h2>Články o {nameCs}</h2>
+          <p>{countryStories.length} {countryStories.length === 1 ? 'příběh' : 'příběhů'} z této destinace</p>
+        </div>
+        <div class="grid-3">
+          {countryStories.map(story => <StoryCard story={story} />)}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  .country-hero {
+    width: 100%;
+    max-height: 480px;
+    overflow: hidden;
+    position: relative;
+  }
+  .country-hero img {
+    width: 100%; height: 100%; object-fit: cover;
+  }
+  .hero-caption {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    padding: 0.5rem 1rem;
+    background: linear-gradient(to top, rgba(0,0,0,0.5), transparent);
+    color: #fff; font-size: 0.82rem; text-align: center;
+  }
+
+  .country-header-wrap {
+    padding-top: calc(80px + 2rem);
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg-base);
+  }
+
+  .breadcrumb {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.25rem;
+  }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  .breadcrumb span[aria-current] { color: var(--text-dim); }
+
+  .country-header-inner {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  @media (min-width: 768px) {
+    .country-header-inner { grid-template-columns: 1fr 280px; }
+  }
+
+  .country-badges { display: flex; gap: 0.5rem; margin-bottom: 0.75rem; flex-wrap: wrap; }
+
+  h1 { margin-bottom: 0.75rem; }
+
+  .country-lead {
+    font-size: 1.05rem;
+    color: var(--text-muted);
+    max-width: 60ch;
+  }
+
+  .country-facts {
+    background: var(--bg-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    height: fit-content;
+  }
+
+  .fact { display: flex; flex-direction: column; gap: 0.2rem; }
+  .fact-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--text-dim); font-family: var(--font-sans); font-weight: 600; }
+  .fact-value { font-size: 0.95rem; font-weight: 600; color: var(--text-heading); }
+
+  .country-highlights { background: var(--bg-2); }
+  .highlights-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 2rem; }
+  .highlight-block h2 { font-size: 1.1rem; margin-bottom: 0.75rem; }
+  .highlight-block ul { padding-left: 1.25rem; }
+  .highlight-block li { margin-bottom: 0.4rem; color: var(--text-muted); font-size: 0.95rem; }
+
+  .country-stories { border-top: 1px solid var(--border); }
+</style>

@@ -1,0 +1,30 @@
+---
+import StoryCard from '../travel/StoryCard.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  stories: CollectionEntry<'stories'>[];
+}
+
+const { stories } = Astro.props;
+---
+
+<section class="featured-stories section" aria-labelledby="stories-heading">
+  <div class="container">
+    <div class="flex-between section-header">
+      <div>
+        <h2 id="stories-heading">Nejnovější příběhy</h2>
+        <p>Zprávy z cest, postřehy a zážitky přímo z asfaltu</p>
+      </div>
+      <a href="/pribehy/" class="btn btn-outline">Všechny příběhy →</a>
+    </div>
+
+    <div class="grid-3">
+      {stories.map((story, i) => (
+        <div data-reveal style={`transition-delay: ${i * 0.08}s`}>
+          <StoryCard story={story} featured={i === 0} />
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

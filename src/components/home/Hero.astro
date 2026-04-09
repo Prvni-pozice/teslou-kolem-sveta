@@ -1,0 +1,227 @@
+---
+interface Props {
+  totalKm?: number;
+  countriesCount?: number;
+  storiesCount?: number;
+}
+
+const { totalKm = 48000, countriesCount = 14, storiesCount = 0 } = Astro.props;
+---
+
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-bg" aria-hidden="true">
+    <div class="hero-gradient"></div>
+    <div class="hero-pattern"></div>
+  </div>
+
+  <div class="container hero-inner">
+    <div class="hero-content" data-reveal>
+      <span class="hero-eyebrow">
+        <span class="eyebrow-dot" aria-hidden="true"></span>
+        Elektromobilita bez hranic
+      </span>
+
+      <h1 id="hero-title" class="hero-title">
+        Teslou <em>kolem světa</em>
+      </h1>
+
+      <p class="hero-lead">
+        Cestujeme elektrickým autem, nabíjíme v divočině a dokumentujeme každý
+        kilometr. Průvodce, příběhy a videa pro všechny, kdo chtějí cestovat na elektřinu.
+      </p>
+
+      <div class="hero-actions">
+        <a href="/pribehy/" class="btn btn-primary">
+          Číst příběhy
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+            <path d="M5 12h14M12 5l7 7-7 7"/>
+          </svg>
+        </a>
+        <a href="/trasa/" class="btn btn-outline">Naše trasa</a>
+      </div>
+    </div>
+
+    <div class="hero-stats" data-reveal>
+      <div class="stat-card">
+        <span class="stat-number">{(totalKm / 1000).toFixed(0)} tis.</span>
+        <span class="stat-label">km ujeto Teslou</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-number">{countriesCount}+</span>
+        <span class="stat-label">zemí navštíveno</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-number">{storiesCount || '∞'}</span>
+        <span class="stat-label">příběhů a průvodců</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Decorative road line -->
+  <div class="hero-road" aria-hidden="true"></div>
+</section>
+
+<style>
+  .hero {
+    position: relative;
+    min-height: min(90vh, 680px);
+    display: flex;
+    align-items: center;
+    padding-top: 72px; /* header height */
+    overflow: hidden;
+  }
+
+  /* Background */
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+  }
+
+  .hero-gradient {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 60% at 60% 20%, rgba(14, 165, 233, 0.08) 0%, transparent 65%),
+      radial-gradient(ellipse 50% 40% at 20% 80%, rgba(245, 158, 11, 0.05) 0%, transparent 60%),
+      linear-gradient(180deg, #f0f9ff 0%, #ffffff 60%);
+  }
+
+  .hero-pattern {
+    position: absolute;
+    inset: 0;
+    background-image:
+      radial-gradient(circle, rgba(14, 165, 233, 0.08) 1px, transparent 1px);
+    background-size: 32px 32px;
+    opacity: 0.6;
+  }
+
+  /* Inner */
+  .hero-inner {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    padding-block: 4rem;
+    align-items: center;
+  }
+
+  @media (min-width: 900px) {
+    .hero-inner {
+      grid-template-columns: 1fr 340px;
+      gap: 4rem;
+    }
+  }
+
+  /* Content */
+  .hero-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 1.25rem;
+  }
+
+  .eyebrow-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    animation: pulse 2.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50%       { opacity: 0.5; transform: scale(0.7); }
+  }
+
+  .hero-title {
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    line-height: 1.1;
+    margin-bottom: 1.25rem;
+    color: var(--text-heading);
+  }
+
+  .hero-title em {
+    font-style: normal;
+    color: var(--accent);
+  }
+
+  .hero-lead {
+    font-size: clamp(1rem, 2vw, 1.15rem);
+    color: var(--text-muted);
+    line-height: 1.7;
+    margin-bottom: 2rem;
+    max-width: 54ch;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  /* Stats */
+  .hero-stats {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .stat-card {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 1.25rem 1.5rem;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    transition: box-shadow var(--duration) var(--ease), transform var(--duration) var(--ease);
+  }
+
+  .stat-card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateX(4px);
+  }
+
+  .stat-number {
+    font-family: var(--font-sans);
+    font-weight: 800;
+    font-size: 1.75rem;
+    color: var(--accent);
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+
+  /* Road decoration */
+  .hero-road {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg,
+      transparent 0%,
+      var(--sky-mid) 20%,
+      var(--accent) 50%,
+      var(--amber) 80%,
+      transparent 100%
+    );
+    opacity: 0.4;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .eyebrow-dot { animation: none; }
+  }
+</style>

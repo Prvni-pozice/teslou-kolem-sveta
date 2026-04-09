@@ -1,0 +1,26 @@
+---
+import StoryCard from './StoryCard.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  stories: CollectionEntry<'stories'>[];
+  title?: string;
+}
+
+const { stories, title = 'Další příběhy' } = Astro.props;
+---
+
+<div class="related-stories">
+  <h2 class="related-title">{title}</h2>
+  <div class="grid-3">
+    {stories.map(story => <StoryCard story={story} />)}
+  </div>
+</div>
+
+<style>
+  .related-title {
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+    color: var(--text-heading);
+  }
+</style>

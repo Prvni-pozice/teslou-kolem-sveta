@@ -1,0 +1,158 @@
+---
+import Badge from '../ui/Badge.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  country: CollectionEntry<'countries'>;
+}
+
+const { country } = Astro.props;
+const { nameCs, isoCode, continent, visited, heroImage, heroImageAlt, evInfrastructure, highlights } = country.data;
+
+const evColors: Record<string, string> = {
+  excellent: 'green', good: 'sky', limited: 'amber', poor: 'neutral',
+};
+const evLabels: Record<string, string> = {
+  excellent: 'EV výborná', good: 'EV dobrá', limited: 'EV omezená', poor: 'EV slabá',
+};
+---
+
+<article class="country-card card">
+  <a href={`/zeme/${country.slug}/`} class="country-card-link" tabindex="-1" aria-hidden="true">
+    <div class="country-image-wrap">
+      {heroImage
+        ? <img class="card-img" src={heroImage} alt={heroImageAlt ?? `${nameCs}`} loading="lazy" />
+        : <div class="card-img country-img-placeholder" aria-hidden="true">
+            <span class="country-iso">{isoCode}</span>
+          </div>
+      }
+      {visited && (
+        <span class="visited-badge" aria-label="Navštíveno">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" aria-hidden="true">
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+          Navštíveno
+        </span>
+      )}
+    </div>
+  </a>
+
+  <div class="card-body">
+    <div class="country-header-row">
+      <h3 class="country-name">
+        <a href={`/zeme/${country.slug}/`}>{nameCs}</a>
+      </h3>
+      {evInfrastructure && (
+        <Badge variant={evColors[evInfrastructure] as any}>{evLabels[evInfrastructure]}</Badge>
+      )}
+    </div>
+
+    {highlights.length > 0 && (
+      <ul class="country-highlights">
+        {highlights.slice(0, 2).map(h => <li>{h}</li>)}
+      </ul>
+    )}
+  </div>
+</article>
+
+<style>
+  .country-card { position: relative; }
+
+  .country-card-link { display: block; text-decoration: none; }
+
+  .country-image-wrap {
+    position: relative;
+    overflow: hidden;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  }
+
+  .card-img {
+    aspect-ratio: 3/2;
+    width: 100%;
+    object-fit: cover;
+    transition: transform 0.45s var(--ease);
+  }
+
+  .country-card:hover .card-img { transform: scale(1.04); }
+
+  .country-img-placeholder {
+    background: linear-gradient(135deg, var(--sky-light), var(--slate-200));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .country-iso {
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: 2rem;
+    color: var(--accent);
+    opacity: 0.5;
+  }
+
+  .visited-badge {
+    position: absolute;
+    top: 0.65rem;
+    right: 0.65rem;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.7rem;
+    font-weight: 600;
+    font-family: var(--font-sans);
+    color: #fff;
+    background: var(--green);
+    padding: 0.2rem 0.55rem;
+    border-radius: 100px;
+  }
+
+  .country-header-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .country-name {
+    font-size: 1rem;
+    line-height: 1.3;
+    margin: 0;
+  }
+
+  .country-name a {
+    color: var(--text-heading);
+    text-decoration: none;
+    transition: color var(--duration) var(--ease);
+  }
+
+  .country-name a::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+
+  .country-name a:hover { color: var(--accent); }
+
+  .country-highlights {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .country-highlights li {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    padding-left: 1rem;
+    position: relative;
+    margin-bottom: 0.2rem;
+  }
+
+  .country-highlights li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    font-size: 0.7rem;
+  }
+</style>
