@@ -34,12 +34,8 @@ try {
   // RSS fetch failed — use empty array, no build failure
 }
 
-// Static fallback if RSS empty
-const fallbackVideos: YTVideo[] = [
-  { id: 'dQw4w9WgXcQ', title: 'Nordkapp Teslou — 7200 km za 12 dní', published: '2021-09-15', thumbnail: '', isShort: false },
-  { id: 'dQw4w9WgXcQ', title: 'Nabíjení v Norsku — tipy', published: '2021-10-01', thumbnail: '', isShort: false },
-  { id: 'dQw4w9WgXcQ', title: 'Geirangerfjord výhled', published: '2021-10-15', thumbnail: '', isShort: true },
-];
+// Static fallback if RSS empty — no placeholder videos
+const fallbackVideos: YTVideo[] = [];
 
 const displayVideos = videos.length > 0 ? videos : fallbackVideos;
 ---

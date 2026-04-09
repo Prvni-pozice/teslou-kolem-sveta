@@ -45,3 +45,4 @@ source-data/normalized/
 !source-data/facebook-export/.gitkeep
 !source-data/youtube/.gitkeep
 !source-data/media-staging/.gitkeep
+source-data/__pycache__/
