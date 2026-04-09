@@ -30,10 +30,10 @@ Jsou to tak místa, kde cloveka až mrazí, jaky to melo dopad na cely svet..
 ..a pritom je tady jen ticho..
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/006.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/007.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/008.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/009.webp)
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/009.webp" alt="" loading="lazy" />
 </div>
 
 Jak vypada jediny kazašský přistav u moře, které vlastně není moře?
@@ -79,10 +79,10 @@ Bylo fajn potkat podobné blázny✨. Prejeme jim hodne stesti na dalsich cestá
 Najdete je na sitich i YouTube pod jménem: Fanyuhu👍🏻
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/010.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/011.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/012.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/013.webp)
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/013.webp" alt="" loading="lazy" />
 </div>
 
 Ještě něco málo k Aktau (Kazachstán)
@@ -98,31 +98,31 @@ Zdravíme teď už z ázerbájdžánského Baku a jdeme na průzkum města.. cí
 80edays
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/014.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/015.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/016.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/017.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/018.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/019.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/020.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/021.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/022.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/023.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/024.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/025.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/026.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/027.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/028.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/029.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/030.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/031.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/032.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/033.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/034.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/035.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/036.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/037.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/038.webp)
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/034.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/035.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/036.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/037.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/038.webp" alt="" loading="lazy" />
 </div>
 
 Zveme všechny na oficiální zaver cesty v Barceloně!👍🏻⚡️
@@ -157,18 +157,18 @@ Náklaďáky na metan - snad všechna užitková auta v Uzbekistánu jezdi na Me
 A deti porad vyhlizeli ziguliky z GTA🙈😂. Ja uz jen cekal, kdy vyleze typek v bílém potrhaném natelniku..🤣🤣. Kdo neznáte, tak si to dohledejte na YT😂.
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/039.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/040.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/041.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/042.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/043.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/044.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/045.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/046.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/047.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/048.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/049.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/050.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/051.webp)
-  ![](/assets/stories/2024-10-aktau-kaspicke-more/052.webp)
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/039.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/040.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/041.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/042.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/043.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/044.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/045.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/046.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/047.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/048.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/049.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/050.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/051.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-aktau-kaspicke-more/052.webp" alt="" loading="lazy" />
 </div>

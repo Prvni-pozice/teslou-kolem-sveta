@@ -27,16 +27,16 @@ https://herohero.co/tesloukolemsveta
 EDIT: doplněny popisky k fotkám, nejvetsi mazec je rozebraný jeden adaptér pro rychle nabijeni🤯🙈
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/001.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/002.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/003.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/004.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/005.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/006.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/007.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/008.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/009.webp)
-  ![](/assets/stories/2024-07-vermont-jezero-fairlee/010.webp)
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/010.webp" alt="" loading="lazy" />
 </div>
 
 Tesla Roadster🤩

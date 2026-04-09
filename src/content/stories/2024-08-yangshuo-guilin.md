@@ -54,12 +54,12 @@ Snažím se vyptavat, jak jim auta funguji:
 Kazdopadne jim to funguje i tam, kde jsem mel mensi ocekavani..👍🏻👍🏻
 
 <div class="gallery">
-  ![](/assets/stories/2024-08-yangshuo-guilin/001.webp)
-  ![](/assets/stories/2024-08-yangshuo-guilin/002.webp)
-  ![](/assets/stories/2024-08-yangshuo-guilin/003.webp)
-  ![](/assets/stories/2024-08-yangshuo-guilin/004.webp)
-  ![](/assets/stories/2024-08-yangshuo-guilin/005.webp)
-  ![](/assets/stories/2024-08-yangshuo-guilin/006.webp)
+  <img src="/assets/stories/2024-08-yangshuo-guilin/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-yangshuo-guilin/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-yangshuo-guilin/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-yangshuo-guilin/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-yangshuo-guilin/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-yangshuo-guilin/006.webp" alt="" loading="lazy" />
 </div>
 
 S Rafem pripravujeme velky cestovatelský rozhovor, ale asi se nám to trochu zvrtlo..😳😄

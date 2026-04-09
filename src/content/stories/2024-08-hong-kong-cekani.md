@@ -45,10 +45,10 @@ A pozitivni zaver? Ty nove kamarády jsme našli..✨
 ..až se zdá, že jediným problémem jsou ty hranice a ti, co je chtějí stavět😳😳..😢
 
 <div class="gallery">
-  ![](/assets/stories/2024-08-hong-kong-cekani/021.webp)
-  ![](/assets/stories/2024-08-hong-kong-cekani/022.webp)
-  ![](/assets/stories/2024-08-hong-kong-cekani/023.webp)
-  ![](/assets/stories/2024-08-hong-kong-cekani/024.webp)
+  <img src="/assets/stories/2024-08-hong-kong-cekani/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-hong-kong-cekani/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-hong-kong-cekani/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-hong-kong-cekani/024.webp" alt="" loading="lazy" />
 </div>
 
 Přepluli jsme z rušného centra HK na ostrov Lantau 🦀🌴🌴a už tady asi zůstaneme, než nás pustí dál 🙂 (pokud nás pustí.. 🤦‍♀️🤷‍♀️) Seznamujeme se s okolím hotelu a místní kuchyní 🙂🍜🥟🦐

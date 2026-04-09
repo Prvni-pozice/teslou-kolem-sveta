@@ -43,24 +43,24 @@ Btw. nejspíš nám to české úřady neuznají po návratu, ale všude jinde v
 O takové zážitky se dějí v rámci 80edays😉⚡️
 
 <div class="gallery">
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/005.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/006.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/007.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/008.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/009.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/010.webp)
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/010.webp" alt="" loading="lazy" />
 </div>
 
 Dnes jsme celý den řešili přepravu (myslete na nás, snad to zítra doresime🙏🏻🙏🏻).
 Navečer jsme si pak zpestřili hledáním hezkých míst s výhledem na Gibraltar nebo Tarifu..🤩
 
 <div class="gallery">
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/011.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/012.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/013.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/014.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/015.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/016.webp)
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/016.webp" alt="" loading="lazy" />
 </div>
 
 Ukázka dopravy v Maroku..😵‍💫
@@ -95,8 +95,8 @@ Více informací najdete např.:
 https://www.biolib.cz/cz/taxon/id43615/).
 
 <div class="gallery">
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/017.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/018.webp)
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/018.webp" alt="" loading="lazy" />
 </div>
 
 K Portugalsku mame hned několik pěkných vzpomínek a tato pláž pod Portem patří rozhodně mezi TOP místa celé cesty🤩. Zabaví se tam celá rodina a kdo by se nudil, tak se odtud jen vydá do údolí Douro a muze ochutnavat Portské na kazdem kroku..
@@ -118,10 +118,10 @@ Jsme na Elektro Fest a dokonce jsme udělali 2 posádky pro Ecorallye:
 Děkujeme moc TESLADave za půjčení auta!🙏🏻👍🏻👍🏻
 
 <div class="gallery">
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/019.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/020.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/021.webp)
-  ![](/assets/stories/2024-05-transport-auta-do-ameriky/022.webp)
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-transport-auta-do-ameriky/022.webp" alt="" loading="lazy" />
 </div>
 
 Blue rock - barevný poklad! 🏞️Představte si, že se touláte po pohoří Anti-Atlas v jižním Maroku a narazíte na… obří Modrý kámen! 💙 Tento kus skály není dílem přírody, ale uměleckého kouzelníka Jeana Veramea. V roce 1984 vzal štětec a tisíce litrů barvy a proměnil místní skály v barevné umělecké dílo známé jako “Les Pierres Peintes”. 🎨 Jeho sytě modrá barva září jako z jiné planety a vytváří epické kontrasty s okolní krajinou✨.

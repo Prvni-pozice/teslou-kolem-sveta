@@ -28,34 +28,34 @@ Gruzie - podzimní zlatobýlová atmosféra, ubytovaní v Kutaisi ve vile s kouz
 🙋‍♀️
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-gruzie-tbilisi/013.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/014.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/015.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/016.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/017.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/018.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/019.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/020.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/021.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/022.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/023.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/024.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/025.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/026.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/027.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/028.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/029.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/030.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/031.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/032.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/033.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/034.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/035.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/036.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/037.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/038.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/039.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/040.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/041.webp)
-  ![](/assets/stories/2024-10-gruzie-tbilisi/042.webp)
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/034.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/035.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/036.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/037.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/038.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/039.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/040.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/041.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-gruzie-tbilisi/042.webp" alt="" loading="lazy" />
 </div>

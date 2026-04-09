@@ -30,11 +30,11 @@ Vlastně jsem strašně rád, že to mohli deti slyšet primo od něj a pak dát
 Takže kdokoliv pojedete se špinavým autem kolem Ottawy, tak víte kam zajet😉 - motospaclub
 
 <div class="gallery">
-  ![](/assets/stories/zamysleni-lide-po-ceste/001.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/002.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/003.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/004.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/005.webp)
+  <img src="/assets/stories/zamysleni-lide-po-ceste/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/005.webp" alt="" loading="lazy" />
 </div>
 
 Dva dny jsme strávili v Šimkentu u Ramila a jeho rodiny. Ramil je místní Electrodad 🙂👍. Probrali se tedy hlavně⚡️vozy, ale došlo i na kulturu bytí v Kazachstánu a okolí.
@@ -44,17 +44,17 @@ Pohostinnost Kazachstanců je vyhlášená i tady jsme byli pozváni na místní
 Lau byla nadšená z jejich morské sviňky - morčete, naštěstí bylo neuvěřitelně přítulné 😅
 
 <div class="gallery">
-  ![](/assets/stories/zamysleni-lide-po-ceste/006.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/007.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/008.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/009.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/010.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/011.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/012.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/013.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/014.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/015.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/016.webp)
+  <img src="/assets/stories/zamysleni-lide-po-ceste/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/016.webp" alt="" loading="lazy" />
 </div>
 
 Lidé: O Fanyuhu a Glorii jsme věděli od Ciny..
@@ -69,10 +69,10 @@ Bylo fajn potkat podobné blázny✨. Prejeme jim hodne stesti na dalsich cestá
 Najdete je na sitich i YouTube pod jménem: Fanyuhu👍🏻
 
 <div class="gallery">
-  ![](/assets/stories/zamysleni-lide-po-ceste/017.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/018.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/019.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/020.webp)
+  <img src="/assets/stories/zamysleni-lide-po-ceste/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/020.webp" alt="" loading="lazy" />
 </div>
 
 Lidé..✨✨
@@ -88,8 +88,8 @@ O chvili později jsme to vykládali Rafaelovi a ten jenom dodal: "She found the
 Proste to bylo vse strašně lidské a dojemné. Ani nevím, jestli se to dá těmito řádky přenést..
 
 <div class="gallery">
-  ![](/assets/stories/zamysleni-lide-po-ceste/021.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/022.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/023.webp)
-  ![](/assets/stories/zamysleni-lide-po-ceste/024.webp)
+  <img src="/assets/stories/zamysleni-lide-po-ceste/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/024.webp" alt="" loading="lazy" />
 </div>

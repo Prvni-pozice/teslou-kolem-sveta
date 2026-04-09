@@ -27,11 +27,11 @@ Intrepid Museum je ráj pro fanoušky techniky:
 A na tu chvilku jsme drze zaparkovali u ponorky🙈.
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-new-york/018.webp)
-  ![](/assets/stories/2024-07-new-york/019.webp)
-  ![](/assets/stories/2024-07-new-york/020.webp)
-  ![](/assets/stories/2024-07-new-york/021.webp)
-  ![](/assets/stories/2024-07-new-york/022.webp)
+  <img src="/assets/stories/2024-07-new-york/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/022.webp" alt="" loading="lazy" />
 </div>
 
 Lidi..🙏🏻✨

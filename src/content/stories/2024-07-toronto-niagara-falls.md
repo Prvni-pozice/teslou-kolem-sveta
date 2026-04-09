@@ -35,11 +35,11 @@ Na svém autě si sám dodělává různé vychytávky (el. otevírání a zaví
 Jsem zvědavý, kdo z nás bude jezdit v 82 letech s 1000 koňovým autem..✨
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-toronto-niagara-falls/001.webp)
-  ![](/assets/stories/2024-07-toronto-niagara-falls/002.webp)
-  ![](/assets/stories/2024-07-toronto-niagara-falls/003.webp)
-  ![](/assets/stories/2024-07-toronto-niagara-falls/004.webp)
-  ![](/assets/stories/2024-07-toronto-niagara-falls/005.webp)
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/005.webp" alt="" loading="lazy" />
 </div>
 
 Niagarské vodopády jsme neměli spojené s Nikolou Teslou. Na jeho soše je ale vytesáno: "Možnosti vůle a sebeovládání ohromně oslovily moji živou představivost, až se nakonec moje vůle a přání staly jedním. Jsou takové i dnes a v tom spočívá tajemství jakéhokoli úspěchu, kterého jsem dosáhl: Moje představy byly rovnocenné realitě."Navíc prý už jako 12ti letý prohlásil, že jednou využije sílu Niagár pro lidi.V roce 1895 zde postavil první významnou hydroelektrárnu na světě😳👍🏻. V podstatě funguje dodnes!😳😳Tím vším chceme říct, že zastávka zde se stává v podstatě ikonickou i povinnou pro auta naší značky😁.

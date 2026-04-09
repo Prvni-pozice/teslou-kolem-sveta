@@ -41,16 +41,16 @@ Je to ale intenzivní úplně vsude a ve vsem:
 A pak staci jen vstoupit do nejake zahrady a zažijete opak. Když u toho zapadá slunce, tak je to jen o to silnější..🤩🤩
 
 <div class="gallery">
-  ![](/assets/stories/2024-05-marrakesh/010.webp)
-  ![](/assets/stories/2024-05-marrakesh/011.webp)
-  ![](/assets/stories/2024-05-marrakesh/012.webp)
-  ![](/assets/stories/2024-05-marrakesh/013.webp)
-  ![](/assets/stories/2024-05-marrakesh/014.webp)
-  ![](/assets/stories/2024-05-marrakesh/015.webp)
-  ![](/assets/stories/2024-05-marrakesh/016.webp)
-  ![](/assets/stories/2024-05-marrakesh/017.webp)
-  ![](/assets/stories/2024-05-marrakesh/018.webp)
-  ![](/assets/stories/2024-05-marrakesh/019.webp)
+  <img src="/assets/stories/2024-05-marrakesh/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/019.webp" alt="" loading="lazy" />
 </div>
 
 Náklaďák otočil Audi na dálnici u Barcelony🚨

@@ -19,16 +19,16 @@ Německo - česko - španělsko - ukrajinské setkání v Mnichově v pivovaru H
 Setkání s bývalým týmem 80edays v Mnichově v pivovaru Hofbräuhaus 👍🙂
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/001.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/002.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/003.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/004.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/005.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/006.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/007.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/008.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/009.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/010.webp)
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/010.webp" alt="" loading="lazy" />
 </div>
 
 Zurich, čekala nás spousta pozitivní energie, motivace.. 🙏 setkání tentokrát proběhlo se švýcarskými a italskými týmy, které objely svět v r. 2016 v⚡️mobilech! Hlavní organizátor, Marcus, pozval také speciálního hosta, Francoise, který se nenechal ,,odbýt” a navštívil Bajkonur v Kazachstánu r. 2018 v⚡️🛻👍🙂 Další den jsme byli pozvaní do Umwelt arény, kde jsme otestovali, kde co, na ⚡️nebo vlastní pohon 😄 Zítra nás čeká cesta Itálií 🍨🍕 Zdravíme ze závěrečné jízdy Evropou 🙋‍♀️
@@ -38,21 +38,21 @@ Zurich, čekala nás spousta pozitivní energie, motivace.. 🙏 setkání tento
 Zurich Umwelt Arena vše 🟩♻️💚⚡️🌱 80edays
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/011.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/012.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/013.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/014.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/015.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/016.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/017.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/018.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/019.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/020.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/021.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/022.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/023.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/024.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/025.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/026.webp)
-  ![](/assets/stories/2024-10-setkani-80edays-mnichov-zurich/027.webp)
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-setkani-80edays-mnichov-zurich/027.webp" alt="" loading="lazy" />
 </div>

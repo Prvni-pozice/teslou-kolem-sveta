@@ -23,8 +23,8 @@ Po cestě nám vypršela platnost STK, takže to hned musíme napravit. A vlastn
 Budeme informovat..
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-privitani-doma-cybertruck-rekord/001.webp)
-  ![](/assets/stories/2024-10-privitani-doma-cybertruck-rekord/002.webp)
+  <img src="/assets/stories/2024-10-privitani-doma-cybertruck-rekord/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-privitani-doma-cybertruck-rekord/002.webp" alt="" loading="lazy" />
 </div>
 
 Z: Všichni se nás ptáte na zazitky a popravdě už asi od půlky cesty jsem si rikal, že to na konci nebudu věřit ani sám sobě..🙈🙈
@@ -39,11 +39,11 @@ Najednou se jakési "my a oni" ztrácí jak pára nad hrncem, protože lidi jsou
 Lépe řečeno stejně krásní..✨✨✨
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-privitani-doma-cybertruck-rekord/003.webp)
-  ![](/assets/stories/2024-10-privitani-doma-cybertruck-rekord/004.webp)
-  ![](/assets/stories/2024-10-privitani-doma-cybertruck-rekord/005.webp)
-  ![](/assets/stories/2024-10-privitani-doma-cybertruck-rekord/006.webp)
-  ![](/assets/stories/2024-10-privitani-doma-cybertruck-rekord/007.webp)
+  <img src="/assets/stories/2024-10-privitani-doma-cybertruck-rekord/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-privitani-doma-cybertruck-rekord/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-privitani-doma-cybertruck-rekord/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-privitani-doma-cybertruck-rekord/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-privitani-doma-cybertruck-rekord/007.webp" alt="" loading="lazy" />
 </div>
 
 Zpět na chvilku v Pelhřimově a Laura jde poprvé do školy 🤪😂     

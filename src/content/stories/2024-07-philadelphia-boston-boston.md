@@ -72,23 +72,23 @@ New York - provedli jsme pečlivou inventarizaci Manhattanu 🙂.
 Ulice, promenády, jsou plné umění, recyklovaných prvků, pomníků lidské hlouposti. Pokud máte v nohách už dost km, můžete si odpočinout v kavárnách, muzeích, různorodých parcích si rozbalit piknikdeku, děti vypustit na  hřiště  🙂 Prohlídku urychlíte vypůjčením kol. I tady funguje systém oddělená promenáda | cyklostezka | silnice | mořská doprava třeba skútr, kajak zdarma 😉
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/001.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/002.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/003.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/004.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/005.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/006.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/007.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/008.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/009.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/010.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/011.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/012.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/013.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/014.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/015.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/016.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/017.webp)
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/017.webp" alt="" loading="lazy" />
 </div>
 
 NYC - 2
@@ -99,11 +99,11 @@ Intrepid Museum je ráj pro fanoušky techniky:
 A na tu chvilku jsme drze zaparkovali u ponorky🙈.
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/018.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/019.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/020.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/021.webp)
-  ![](/assets/stories/2024-07-philadelphia-boston-boston/022.webp)
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-philadelphia-boston-boston/022.webp" alt="" loading="lazy" />
 </div>
 
 Lidi..🙏🏻✨

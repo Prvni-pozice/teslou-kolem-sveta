@@ -40,13 +40,13 @@ A za přechodem jsme hned museli zakoupit dalsi SIM, zaridit pojistku na auto a 
 Ps: Rafael mel pred tim rekord "pouze" 6 hod z Běloruska.
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/001.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/002.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/003.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/004.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/005.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/006.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/007.webp)
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/007.webp" alt="" loading="lazy" />
 </div>
 
 V Samarkandu jsme meli "ceske průvodce"😁
@@ -75,33 +75,33 @@ Rektor předchozí univerzity měl několik titulů a jeden z nich zněl: rytí�
 Jinak Manas je jejich nejvetsi hrdina z historie. Jeho příběhy si předávali po generace pouze slovně, až v minulém století to bylo zapsáno.
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/008.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/009.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/010.webp)
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/010.webp" alt="" loading="lazy" />
 </div>
 
 Mix zážitků mezi Šymkentem a Samarkandem 🕌 🐫🌙✨
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/011.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/012.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/013.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/014.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/015.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/016.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/017.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/018.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/019.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/020.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/021.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/022.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/023.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/024.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/025.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/026.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/027.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/028.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/029.webp)
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/029.webp" alt="" loading="lazy" />
 </div>
 
 Dva dny jsme strávili v Šimkentu u Ramila a jeho rodiny. Ramil je místní Electrodad 🙂👍. Probrali se tedy hlavně⚡️vozy, ale došlo i na kulturu bytí v Kazachstánu a okolí.
@@ -111,17 +111,17 @@ Pohostinnost Kazachstanců je vyhlášená i tady jsme byli pozváni na místní
 Lau byla nadšená z jejich morské sviňky - morčete, naštěstí bylo neuvěřitelně přítulné 😅
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/030.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/031.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/032.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/033.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/034.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/035.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/036.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/037.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/038.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/039.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/040.webp)
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/034.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/035.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/036.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/037.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/038.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/039.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/040.webp" alt="" loading="lazy" />
 </div>
 
 Technicke okénko: Čínská elektroauta??🤯🤯
@@ -157,32 +157,32 @@ Zdravíme 🙋‍♀️
 80edays
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/041.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/042.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/043.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/044.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/045.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/046.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/047.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/048.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/049.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/050.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/051.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/052.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/053.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/054.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/055.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/056.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/057.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/058.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/059.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/060.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/061.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/062.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/063.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/064.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/065.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/066.webp)
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/041.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/042.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/043.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/044.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/045.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/046.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/047.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/048.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/049.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/050.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/051.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/052.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/053.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/054.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/055.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/056.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/057.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/058.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/059.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/060.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/061.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/062.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/063.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/064.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/065.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/066.webp" alt="" loading="lazy" />
 </div>
 
 Chiva založeno asi před 2 500 lety.
@@ -198,16 +198,16 @@ Ogahiy napsal několik poetických dat pro dokončení minaretu. Jeden z nich je
 Zdravíme 🙋‍♀️
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/067.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/068.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/069.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/070.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/071.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/072.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/073.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/074.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/075.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/076.webp)
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/067.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/068.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/069.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/070.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/071.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/072.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/073.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/074.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/075.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/076.webp" alt="" loading="lazy" />
 </div>
 
 Snad posledni nabijeni v Uzbekistánu v místech, kde nejsou žádné nabíječky..😅
@@ -225,12 +225,12 @@ Puvodne pry chteli poslat auto domu lodi a doletět..
 ..pak si uvědomili, ze po vsech dobrodružstvích by nejak "nedali" být za 10 hod najednou v realitě všedního Nemecka🤣👍🏻. Tak to jedou zpatky a dojedou az po nás, koncem října..😄
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/077.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/078.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/079.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/080.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/081.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/082.webp)
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/077.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/078.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/079.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/080.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/081.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/082.webp" alt="" loading="lazy" />
 </div>
 
 Aralské moře a nocování v poušti 🌙✨🐫🐫🐫
@@ -252,24 +252,24 @@ Ráno jsme potkali v poušti velbloudy, koně,..
 80edays
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/083.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/084.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/085.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/086.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/087.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/088.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/089.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/090.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/091.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/092.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/093.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/094.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/095.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/096.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/097.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/098.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/099.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/100.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/101.webp)
-  ![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/102.webp)
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/083.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/084.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/085.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/086.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/087.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/088.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/089.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/090.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/091.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/092.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/093.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/094.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/095.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/096.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/097.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/098.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/099.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/100.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/101.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/102.webp" alt="" loading="lazy" />
 </div>

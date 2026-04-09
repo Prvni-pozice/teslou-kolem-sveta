@@ -26,52 +26,52 @@ Ve Francii jeste měli na stojanech hrdě zmínk
 Jsme skoro u konce naší cesty.. napříč Itálií, Francií, zítra cíl Barcelona 🙂
 
 <div class="gallery">
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/001.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/002.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/003.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/004.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/005.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/006.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/007.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/008.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/009.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/010.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/011.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/012.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/013.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/014.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/015.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/016.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/017.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/018.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/019.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/020.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/021.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/022.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/023.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/024.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/025.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/026.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/027.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/028.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/029.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/030.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/031.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/032.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/033.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/034.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/035.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/036.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/037.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/038.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/039.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/040.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/041.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/042.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/043.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/044.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/045.webp)
-  ![](/assets/stories/2024-11-zaver-80edays-barcelona/046.webp)
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/034.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/035.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/036.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/037.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/038.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/039.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/040.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/041.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/042.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/043.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/044.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/045.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-11-zaver-80edays-barcelona/046.webp" alt="" loading="lazy" />
 </div>
 
 Nemate nekdo kontakt na vedení Ionity? Poradili bysme jim, jak testovat aplikace a take jak funguji jine site po celém světě..🙈🙈

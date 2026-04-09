@@ -24,54 +24,54 @@ PS2: A tím Ruskem jsem míněny ty všechny postsovětské republiky..
 Turecko, cesta při Černém moři.. už se cítíme být jednou nohou v Evropě 🙂
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/001.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/002.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/003.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/004.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/005.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/006.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/007.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/008.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/009.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/010.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/011.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/012.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/013.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/014.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/015.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/016.webp)
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/016.webp" alt="" loading="lazy" />
 </div>
 
 Trojmezí Turecko-Řecko-Bulharsko 🙋‍♀️
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/017.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/018.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/019.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/020.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/021.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/022.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/023.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/024.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/025.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/026.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/027.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/028.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/029.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/030.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/031.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/032.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/033.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/034.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/035.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/036.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/037.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/038.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/039.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/040.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/041.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/042.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/043.webp)
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/034.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/035.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/036.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/037.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/038.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/039.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/040.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/041.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/042.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/043.webp" alt="" loading="lazy" />
 </div>
 
 Nabijeni⚡️ - prijizdime na benzínku na okraji Bělehradu a rikam: ten blbec autobus beztak stojí pred nabijeckou🙈🙈
@@ -94,9 +94,9 @@ Model Otokar Kent je často používán jako elektrický městský autobus. Mezi
 Tyto autobusy jsou navrženy s ohledem na ekologický provoz ve městě, což je ideální pro místa s důrazem na snížení emisí.
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/044.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/045.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/046.webp)
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/044.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/045.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/046.webp" alt="" loading="lazy" />
 </div>
 
 Poprvé chycen pri činu..⚡️⚡️
@@ -111,20 +111,20 @@ Přehoupli jsme se přes řeku Sávu mohutný Dunaj u Bělehradu. V loukách kve
 🙋‍♀️
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/047.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/048.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/049.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/050.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/051.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/052.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/053.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/054.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/055.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/056.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/057.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/058.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/059.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/060.webp)
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/047.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/048.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/049.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/050.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/051.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/052.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/053.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/054.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/055.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/056.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/057.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/058.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/059.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/060.webp" alt="" loading="lazy" />
 </div>
 
 Tak nás v Pelhřimově po nasi ceste kolem světa přivítal i jeden z mála Cybertrucků u nás a dal si s námi i pár Lightshow🎉👍🏻.
@@ -138,8 +138,8 @@ Po cestě nám vypršela platnost STK, takže to hned musíme napravit. A vlastn
 Budeme informovat..
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/061.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/062.webp)
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/061.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/062.webp" alt="" loading="lazy" />
 </div>
 
 Z: Všichni se nás ptáte na zazitky a popravdě už asi od půlky cesty jsem si rikal, že to na konci nebudu věřit ani sám sobě..🙈🙈
@@ -154,11 +154,11 @@ Najednou se jakési "my a oni" ztrácí jak pára nad hrncem, protože lidi jsou
 Lépe řečeno stejně krásní..✨✨✨
 
 <div class="gallery">
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/063.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/064.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/065.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/066.webp)
-  ![](/assets/stories/2024-10-turecko-balkan-navrat/067.webp)
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/063.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/064.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/065.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/066.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-10-turecko-balkan-navrat/067.webp" alt="" loading="lazy" />
 </div>
 
 Zpět na chvilku v Pelhřimově a Laura jde poprvé do školy 🤪😂     

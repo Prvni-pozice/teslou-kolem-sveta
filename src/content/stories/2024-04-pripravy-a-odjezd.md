@@ -29,13 +29,13 @@ Přípravy vrcholí!😳😅
 Děkujeme vsem za podporu🙏🏻
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/001.webp)
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/002.webp)
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/003.webp)
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/004.webp)
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/005.webp)
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/006.webp)
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/007.webp)
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/008.webp)
-  ![](/assets/stories/2024-04-pripravy-a-odjezd/009.webp)
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-pripravy-a-odjezd/009.webp" alt="" loading="lazy" />
 </div>

@@ -25,15 +25,15 @@ Dnes spime ve Wuwei, což je v podstatě oaza, protoze kolem jsou jen pouště a
 A už v druhem hotelu nas okamzite hlásí na polic. stanici (jako cizince). Čím dále od velkých měst, tak se objevují takovéto zvláštní pravidla😳.
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/001.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/002.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/003.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/004.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/005.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/006.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/007.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/008.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/009.webp)
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/009.webp" alt="" loading="lazy" />
 </div>
 
 Cestou necestou Čínou.
@@ -43,42 +43,42 @@ A necháváme za sebou..
 promyšlené hotelové recepce, dláždění ulic, brány řady měst, setkání v Tesle, intenzivní noční osvětlení.. i oblíbené rýžové sušenky 🙂
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/010.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/011.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/012.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/013.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/014.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/015.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/016.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/017.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/018.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/019.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/020.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/021.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/022.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/023.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/024.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/025.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/026.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/027.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/028.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/029.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/030.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/031.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/032.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/033.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/034.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/035.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/036.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/037.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/038.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/039.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/040.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/041.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/042.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/043.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/044.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/045.webp)
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/034.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/035.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/036.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/037.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/038.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/039.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/040.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/041.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/042.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/043.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/044.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/045.webp" alt="" loading="lazy" />
 </div>
 
 Jak dobijime v čínské poušti?
@@ -107,14 +107,14 @@ Zdá se, že i pres jiná omezení právě dostupnost surovin a energie a dostat
 A pak je mozne i toto, ze je tak hodne vystavěné infrastruktury i nekde v poušti, kde driv nebylo nic, nez jen obchodni cesta😳.
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/046.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/047.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/048.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/049.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/050.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/051.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/052.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/053.webp)
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/046.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/047.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/048.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/049.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/050.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/051.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/052.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/053.webp" alt="" loading="lazy" />
 </div>
 
 Oprava v čínské Tesle😅⚡️
@@ -137,8 +137,8 @@ Ps: ted si představte, kdybych tam neseděl osobne a nebylo to zadané pres š�
 Ps2: posledni fotka je jediná, co mi dovolili vnitrni vybavení - míchání barev Basf rikali.
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/054.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/055.webp)
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/054.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/055.webp" alt="" loading="lazy" />
 </div>
 
 <video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-003.mp4" style="max-width:100%"></video>
@@ -171,13 +171,13 @@ Kazdopadne shodou náhod v dalším městě byl majitel servisu stary kamarad vs
 Kazdopadne jejich sikovny technik si pohrál s par šrouby a spojkami a snad je to ted mnohem lepsi nez bylo a snad to vydrží ten Kazachstan🙈🙏🏻.
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/057.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/058.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/059.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/060.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/061.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/062.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/063.webp)
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/057.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/058.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/059.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/060.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/061.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/062.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/063.webp" alt="" loading="lazy" />
 </div>
 
 Konektivita je klíčová..👍🏻
@@ -187,8 +187,8 @@ Takze ted uz znáte jejich nejčastější heslo..😉😁😁
 A kdyz Vám to parkrat nekde nevyjde, tak abyste se nepo..., tak si uložte druhy obrázek😁. To je jejich Smecta💪🏻💪🏻.
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/064.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/065.webp)
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/064.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/065.webp" alt="" loading="lazy" />
 </div>
 
 Nas průjezd Čínou od východu na zapad vypada vlastne úplně jednoduše...🤷🏻‍♂️😄
@@ -202,14 +202,14 @@ Jezero samotné je docela drsně obležené místními, viděli jsme snad 5 svat
 Kazdopadne hory podél cesty byly většinu doby impozantní a obcas i se sněhem na špičkách..👌🏻
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/066.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/067.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/068.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/069.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/070.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/071.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/072.webp)
-  ![](/assets/stories/2024-09-cina-zapad-ujgurove/073.webp)
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/066.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/067.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/068.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/069.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/070.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/071.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/072.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-cina-zapad-ujgurove/073.webp" alt="" loading="lazy" />
 </div>
 
 Jsme v Kazachstánu!🎉 Kousek za hranicemi jsme si dali pauzu a zkusili první místní nabijeni, koupili lokalni SIM, aktivoval ji a rychle se snažíme rozkoukat v dalsi "nové" realitě..😄. A uz jsme dostali prvni dáreček!🎉

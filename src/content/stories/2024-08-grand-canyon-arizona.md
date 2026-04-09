@@ -23,22 +23,22 @@ Cestou necestou 🙂
 80edays
 
 <div class="gallery">
-  ![](/assets/stories/2024-08-grand-canyon-arizona/001.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/002.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/003.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/004.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/005.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/006.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/007.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/008.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/009.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/010.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/011.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/012.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/013.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/014.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/015.webp)
-  ![](/assets/stories/2024-08-grand-canyon-arizona/016.webp)
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-grand-canyon-arizona/016.webp" alt="" loading="lazy" />
 </div>
 
 Grand Canyon 🙂

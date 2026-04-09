@@ -29,8 +29,8 @@ Tzn. pokud jsme správně využili potencial, tak nase auto mohlo získat na 160
 A ted můžete psat proc ten rozdíl je dokonce vyssi..😉
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-italske-alpy-cote-dazur/001.webp)
-  ![](/assets/stories/2024-04-italske-alpy-cote-dazur/002.webp)
+  <img src="/assets/stories/2024-04-italske-alpy-cote-dazur/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-italske-alpy-cote-dazur/002.webp" alt="" loading="lazy" />
 </div>
 
 Summus lacus.. je skvělé agro ubytování pro rodiny s dětmi.. Ráno jsme byli akorát trochu ztraceni v italsko-kubánském  překladu.. všechno je teď finito.. vejce se při těchto teplotách nedaří (pán, Kubánec, u snídaně před námi mával jakože křídlama a pak snášel vejce..🤣 pak jsme pochopili, že mají asi jednookou kočku.. a ten sýr 🤪 ten nás furt pronásleduje.. po mém záchvatu smíchu a focení sejra, se šel pán přeci jen podívat po nějakých těch vejcích a při odchodu zamával křídlama 😂  Rodina má také tři děti.. můžete jim pomáhat na farmě, zahrát si s nimi fotbal.. jsou fajn. Jezero Como (dle Lau bazén.. všechny větší vodní plochy jsou pro ní bazén 😀) je jedinečný.. jezdila sem odpradávna milánská šlechta do svých vil. Za návštěvu stojí města Varenna, Menaggio v rozkroku jezera Bellagio.. trajektem dáte za den všechna 🙂 Na severu jezera máme oblíbené zahradnictví a často taky spíme u Sorica. (najdete v našich historických osobních příspěvcích)

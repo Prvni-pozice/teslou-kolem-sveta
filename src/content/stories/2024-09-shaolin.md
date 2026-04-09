@@ -38,18 +38,18 @@ Během Války odporu proti Japonsku (1937-45) mladí muži a ženy ve vesnici vy
 Národní top ten učitel bojových umění, shaolinský mistr Liang Yiquan, je také odtud👍🏻.
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-shaolin/001.webp)
-  ![](/assets/stories/2024-09-shaolin/002.webp)
-  ![](/assets/stories/2024-09-shaolin/003.webp)
-  ![](/assets/stories/2024-09-shaolin/004.webp)
-  ![](/assets/stories/2024-09-shaolin/005.webp)
-  ![](/assets/stories/2024-09-shaolin/006.webp)
-  ![](/assets/stories/2024-09-shaolin/007.webp)
-  ![](/assets/stories/2024-09-shaolin/008.webp)
-  ![](/assets/stories/2024-09-shaolin/009.webp)
-  ![](/assets/stories/2024-09-shaolin/010.webp)
-  ![](/assets/stories/2024-09-shaolin/011.webp)
-  ![](/assets/stories/2024-09-shaolin/012.webp)
+  <img src="/assets/stories/2024-09-shaolin/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/012.webp" alt="" loading="lazy" />
 </div>
 
 Ani chrám Shaolin nebyl nikdy klidným místem. Jde o buddhistický chrám stojící na úpatí posvátné hory Sung-šan. Tu obklopují terasovité lány kukuřice a menší zahradní města. Byl založen v 5 století n. l. Mniši z tohoto chrámu se proslavili díky svému studiu bojových umění a vytvoření šaolinské školy kung fu. Mezi chrámy přežil všechna drancování v minulosti třeba ohromný, 1500 let starý jinan, 1200 let staré jalovce, 300 let staré jerlíny a thuje.. dotvářející atmosféru místa. Měli jsme možnost poznat mistry i disciplinované a snad gumové děti 🙂 na místní škole. Většina z nich už teď ví, kde je Česká republika a Pelhřimov. 🙂 Vše jsme měli, jak na dlani, bydleli jsme přímo nad školou. Jen večer zamkli část areálu, proto to přelézání brány 🤦‍♀️, když jsme se šli podívat na večerní trénink.. 😅
@@ -62,12 +62,12 @@ A popravdě jsem sam vice a vice zaskočený celkovou úrovní těch místních 
 Ps: Asi muzu udelat maly teaser, ze jsem pred chvili prolezl auta 2 jiných značek a byl jsem zaskočený, teda spíš mi zaskocilo úplně..🤯
 
 <div class="gallery">
-  ![](/assets/stories/2024-09-shaolin/013.webp)
-  ![](/assets/stories/2024-09-shaolin/014.webp)
-  ![](/assets/stories/2024-09-shaolin/015.webp)
-  ![](/assets/stories/2024-09-shaolin/016.webp)
-  ![](/assets/stories/2024-09-shaolin/017.webp)
-  ![](/assets/stories/2024-09-shaolin/018.webp)
+  <img src="/assets/stories/2024-09-shaolin/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/018.webp" alt="" loading="lazy" />
 </div>
 
 <video controls src="/assets/stories/2024-09-shaolin/video-003.mp4" style="max-width:100%"></video>

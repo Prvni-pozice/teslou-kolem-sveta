@@ -69,8 +69,8 @@ O chvili později jsme to vykládali Rafaelovi a ten jenom dodal: "She found the
 Proste to bylo vse strašně lidské a dojemné. Ani nevím, jestli se to dá těmito řádky přenést..
 
 <div class="gallery">
-  ![](/assets/stories/2024-08-silicon-valley/025.webp)
-  ![](/assets/stories/2024-08-silicon-valley/026.webp)
-  ![](/assets/stories/2024-08-silicon-valley/027.webp)
-  ![](/assets/stories/2024-08-silicon-valley/028.webp)
+  <img src="/assets/stories/2024-08-silicon-valley/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-silicon-valley/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-silicon-valley/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-silicon-valley/028.webp" alt="" loading="lazy" />
 </div>

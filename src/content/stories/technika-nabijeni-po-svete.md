@@ -47,15 +47,15 @@ Zaroven mame velkou výhodu, ze sef firmy na nabíječky - kilowatt.ma - Ali Lak
 Rafael ma zase kontakt na šéfa FastVolt - asi nejvetsi site nabijecek tady. Všem moc dekujeme za ochotu!🙏🏻🙏🏻
 
 <div class="gallery">
-  ![](/assets/stories/technika-nabijeni-po-svete/004.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/005.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/006.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/007.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/008.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/009.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/010.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/011.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/012.webp)
+  <img src="/assets/stories/technika-nabijeni-po-svete/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/012.webp" alt="" loading="lazy" />
 </div>
 
 Konečně jsme nabijeli rychle!!⚡️⚡️
@@ -109,16 +109,16 @@ Náš Model 3 vyžaduje nejspis neco kolem 320 ohmů a adapter musi mit "klasick
 A ted pozor, obcas musime testovat spojeni 2 adaptérů - co pak je spravne a pro které auto??🤯🤯
 
 <div class="gallery">
-  ![](/assets/stories/technika-nabijeni-po-svete/013.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/014.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/015.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/016.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/017.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/018.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/019.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/020.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/021.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/022.webp)
+  <img src="/assets/stories/technika-nabijeni-po-svete/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/022.webp" alt="" loading="lazy" />
 </div>
 
 V Americe jsme se potýkali s různými problémy s dobíjením 😬⚡ Jak ale zlepšit nabíjecí infrastrukturu zejména u nás? Tuto otázku jsme si jistě pokládali nejen my s Radkem. V další části rozhovoru z Casablancy Rafael navrhuje řešení, které usnadní život všem elektromobilistům a celkově zefektivní nabíjecí proces 🤓
@@ -137,10 +137,10 @@ Zpět k Loře - byla to zdrav. sestřička v důchodu, takze vlastne jako Julie 
 A pry jsme v hodně rasistickém státě, tak jsem zvedavy, jestli to nejak na lidech poznáme. Zatim jsme meli opačnou zkušenost👍🏻.
 
 <div class="gallery">
-  ![](/assets/stories/technika-nabijeni-po-svete/023.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/024.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/025.webp)
-  ![](/assets/stories/technika-nabijeni-po-svete/026.webp)
+  <img src="/assets/stories/technika-nabijeni-po-svete/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-nabijeni-po-svete/026.webp" alt="" loading="lazy" />
 </div>
 
 Nabijeni DC v Číně?⚡️⚡️ Rano jsme konecne získali vsechny doklady k autu, místní STK a řidičák😳😅.Na Tesla SC jsme meli zase problem, ale nejsme si jisti příčinou.Na normálním DC je zase problem s autorizaci, ze nemame dostatečnou platební historii. Nakonec nabijime pres ucet Rafaela..😅🙏🏻.

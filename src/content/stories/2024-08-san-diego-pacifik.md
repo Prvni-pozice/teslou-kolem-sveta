@@ -89,12 +89,12 @@ Ps: uz asi chápete, proc na fotkách si udobrujeme hlídače pro tuto noc..
 Ps2: rikaji tomu tady 1000-hvězdičkový hotel..😉✨
 
 <div class="gallery">
-  ![](/assets/stories/2024-08-san-diego-pacifik/004.webp)
-  ![](/assets/stories/2024-08-san-diego-pacifik/005.webp)
-  ![](/assets/stories/2024-08-san-diego-pacifik/006.webp)
-  ![](/assets/stories/2024-08-san-diego-pacifik/007.webp)
-  ![](/assets/stories/2024-08-san-diego-pacifik/008.webp)
-  ![](/assets/stories/2024-08-san-diego-pacifik/009.webp)
+  <img src="/assets/stories/2024-08-san-diego-pacifik/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/009.webp" alt="" loading="lazy" />
 </div>
 
 Očekávali jsme neočekávané,👉🏻
@@ -107,8 +107,8 @@ Zrovna jsme mířili k nabíječce a tam potkali nejakeho Itala. Ptám se ho na 
 Tak jsme poprvé v životě projeli autem i zemetresenim..🙈🙈
 
 <div class="gallery">
-  ![](/assets/stories/2024-08-san-diego-pacifik/010.webp)
-  ![](/assets/stories/2024-08-san-diego-pacifik/011.webp)
+  <img src="/assets/stories/2024-08-san-diego-pacifik/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/011.webp" alt="" loading="lazy" />
 </div>
 
 Pete Gruber se o nas zminuje a moc pekne pripomina, ze cesty jako naše a setkávání s místními tvořil silné vazby napříč kontinenty.

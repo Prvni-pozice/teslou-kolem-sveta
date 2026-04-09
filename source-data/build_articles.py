@@ -219,16 +219,18 @@ def make_article_body(cluster, posts, media_in_article):
         post_videos = [m for m in post_media if m.get("type") == "video" and m.get("web_path")]
 
         # Galerie fotek (pokud jich je víc než 1)
+        # Pozn.: uvnitř HTML bloku <div> Astro neparsuje markdown ![](url),
+        # proto používáme přímo <img> tagy.
         if len(post_photos) >= 2:
             lines.append('<div class="gallery">')
             for photo in post_photos:
-                alt = photo.get("caption", "")
-                lines.append(f'  ![{alt}]({photo["web_path"]})')
+                alt = photo.get("caption", "").replace('"', '&quot;')
+                lines.append(f'  <img src="{photo["web_path"]}" alt="{alt}" loading="lazy" />')
             lines.append("</div>")
             lines.append("")
         elif len(post_photos) == 1:
             ph = post_photos[0]
-            alt = ph.get("caption", "")
+            alt = ph.get("caption", "").replace('"', '&quot;')
             lines.append(f'![{alt}]({ph["web_path"]})')
             lines.append("")
 
@@ -280,14 +282,18 @@ def build_cluster(cluster, prev_slug=None, next_slug=None):
             if mf.get("type") == "photo":
                 if PIL_OK:
                     dst_name = f"{photo_idx:03d}.webp"
-                    dst_path = asset_dir / dst_name
-                    ok = convert_image(src_path, dst_path)
-                    web_path = f"/assets/stories/{slug}/{dst_name}" if ok else None
                 else:
                     dst_name = f"{photo_idx:03d}.{ext}"
-                    dst_path = asset_dir / dst_name
+                dst_path = asset_dir / dst_name
+                web_path = f"/assets/stories/{slug}/{dst_name}"
+
+                # Přeskoč konverzi pokud soubor již existuje
+                if dst_path.exists():
+                    ok = True
+                elif PIL_OK:
+                    ok = convert_image(src_path, dst_path)
+                else:
                     ok = copy_video(src_path, dst_path)
-                    web_path = f"/assets/stories/{slug}/{dst_name}" if ok else None
 
                 if ok:
                     if hero_path is None:
@@ -298,7 +304,13 @@ def build_cluster(cluster, prev_slug=None, next_slug=None):
             elif mf.get("type") == "video":
                 dst_name = f"video-{video_idx:03d}.mp4"
                 dst_path = asset_dir / dst_name
-                ok = copy_video(src_path, dst_path)
+
+                # Přeskoč kopírování pokud soubor již existuje
+                if dst_path.exists():
+                    ok = True
+                else:
+                    ok = copy_video(src_path, dst_path)
+
                 if ok:
                     mf["web_path"] = f"/assets/stories/{slug}/{dst_name}"
                     video_idx += 1

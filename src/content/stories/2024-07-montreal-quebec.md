@@ -31,16 +31,16 @@ Montréal nás taky dostal 👍🙂
 80edays
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-montreal-quebec/001.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/002.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/003.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/004.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/005.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/006.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/007.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/008.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/009.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/010.webp)
+  <img src="/assets/stories/2024-07-montreal-quebec/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/010.webp" alt="" loading="lazy" />
 </div>
 
 Skladujte staré věci tady, nikoliv v bílém domě!👍🏻👍🏻
@@ -54,6 +54,6 @@ Tak jsme aspon na zivo viděli, ze určité voličské skupiny jsou vlastne vsud
 A clovek spíš přemýšlí nad tim, jestli existuje příklad země, kterou by (hodně) starý chlap vedl k prosperitě??🤷🏻‍♂️
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-montreal-quebec/011.webp)
-  ![](/assets/stories/2024-07-montreal-quebec/012.webp)
+  <img src="/assets/stories/2024-07-montreal-quebec/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-montreal-quebec/012.webp" alt="" loading="lazy" />
 </div>

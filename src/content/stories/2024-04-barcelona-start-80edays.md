@@ -36,6 +36,6 @@ Stojany v3 a v4 maji výhodu, ze nedělí vykon mezi 2 stojany. Takze napr. nase
 A ceny se liší v kazde zemi - ve Fr je to aktuálně jen cca 0,3€, ve Sp cca 0,47€ a pro ne-Tesly 0,52€.
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-barcelona-start-80edays/002.webp)
-  ![](/assets/stories/2024-04-barcelona-start-80edays/003.webp)
+  <img src="/assets/stories/2024-04-barcelona-start-80edays/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-barcelona-start-80edays/003.webp" alt="" loading="lazy" />
 </div>

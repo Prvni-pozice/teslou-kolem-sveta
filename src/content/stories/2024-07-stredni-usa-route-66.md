@@ -21,36 +21,36 @@ Město Columbus - navštívili jsme Bicentennial Park, kde dominují vodní prvk
 Teslou kolem světa 🙂 80edays
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-stredni-usa-route-66/001.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/002.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/003.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/004.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/005.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/006.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/007.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/008.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/009.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/010.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/011.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/012.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/013.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/014.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/015.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/016.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/017.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/018.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/019.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/020.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/021.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/022.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/023.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/024.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/025.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/026.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/027.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/028.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/029.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/030.webp)
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/030.webp" alt="" loading="lazy" />
 </div>
 
 Indianapolis - Soldiers & Sailors Monument, Capitol, White River Park, ZOO, Central Canal, Turner Garden, sculpture, Indianapolis Motor Speedway,.. a taky medvědi, bizoni, veverky, jeleni i labutě v různých podobách 🙂
@@ -69,10 +69,10 @@ Zpět k Loře - byla to zdrav. sestřička v důchodu, takze vlastne jako Julie 
 A pry jsme v hodně rasistickém státě, tak jsem zvedavy, jestli to nejak na lidech poznáme. Zatim jsme meli opačnou zkušenost👍🏻.
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-stredni-usa-route-66/031.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/032.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/033.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/034.webp)
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/034.webp" alt="" loading="lazy" />
 </div>
 
 St. Louis - trochu jsem všechny potrápila 🙈 zatáhla jsem je do Pulitzer Arts Foundation - je to takový betonový a jiný minimalismus, monokulturismus a trošku psycho expozice.. všichni nakonec přežili 😀, Missouri Botanical Garden - tady jsme navštívili různá zákoutí napodobující zahrady nebo přírodu z různých koutů světa 🙂 Toto město z dálky poznáte podle obřího 190 m vysokého oblouku Gateway Arch u řeky Mississippi a opět jsme míjeli desítky soch, komunitní zahrady..
@@ -106,23 +106,23 @@ Cestou jsme to vzali přes retro velrybu 😄
 Pro změnu nás Rafael odpoledne zatáhl do legendárního Hard Rocku. Dost zvláštní mi přišla kombinace automatů a expozice indiánské kultury 🙈 Jinak dobíjení aut na parkovišti zdarma i s prohlídkou cybertrucku 👍
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-stredni-usa-route-66/035.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/036.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/037.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/038.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/039.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/040.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/041.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/042.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/043.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/044.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/045.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/046.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/047.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/048.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/049.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/050.webp)
-  ![](/assets/stories/2024-07-stredni-usa-route-66/051.webp)
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/035.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/036.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/037.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/038.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/039.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/040.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/041.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/042.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/043.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/044.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/045.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/046.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/047.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/048.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/049.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/050.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-stredni-usa-route-66/051.webp" alt="" loading="lazy" />
 </div>
 
 Pokud víte o někom, kdo by se s nami chtel setkat ke konci nasi americké části (nebo mel moznost nejakeho ubytovani/kempu), tak tady je rozpis datumů.

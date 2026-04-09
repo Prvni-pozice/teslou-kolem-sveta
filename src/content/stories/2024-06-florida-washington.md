@@ -51,8 +51,8 @@ Jinak si asi každý všimne:
 Ps: fotku davam ilustracne z obchodu, protoze vzdy vam vse narovnají do spousty igelitek (btw. vubec nechapu, kdo přišel s tim omezováním plastových brček, kdyz všude mimo EU je naprosto brutalni spotreba plastů) a nekde i pomáhají rovnat až do košíku😳👍🏻.
 
 <div class="gallery">
-  ![](/assets/stories/2024-06-florida-washington/001.webp)
-  ![](/assets/stories/2024-06-florida-washington/002.webp)
+  <img src="/assets/stories/2024-06-florida-washington/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-06-florida-washington/002.webp" alt="" loading="lazy" />
 </div>
 
 Kdo chce ještě vice informaci a videií od nás, tak se muze prihlasit k odběru zde:

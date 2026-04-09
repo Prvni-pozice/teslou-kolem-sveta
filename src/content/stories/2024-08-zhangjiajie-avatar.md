@@ -68,32 +68,32 @@ Pár dnů v Národním lesním parku Zhangjiajie
 (po našem Avatarie, než jsme se to správně naučili vyslovovat 🙂)
 
 <div class="gallery">
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/019.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/020.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/021.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/022.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/023.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/024.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/025.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/026.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/027.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/028.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/029.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/030.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/031.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/032.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/033.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/034.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/035.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/036.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/037.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/038.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/039.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/040.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/041.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/042.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/043.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/044.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/045.webp)
-  ![](/assets/stories/2024-08-zhangjiajie-avatar/046.webp)
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/034.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/035.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/036.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/037.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/038.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/039.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/040.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/041.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/042.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/043.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/044.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/045.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-zhangjiajie-avatar/046.webp" alt="" loading="lazy" />
 </div>

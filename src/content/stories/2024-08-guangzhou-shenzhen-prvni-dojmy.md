@@ -32,39 +32,39 @@ Přátelé jsou všude.. Hned po příjezdu do Číny jsme měli nabitý program
 • Ještě něco málo z prohlídky Robinovi firmy 🙂
 
 <div class="gallery">
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/001.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/002.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/003.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/004.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/005.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/006.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/007.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/008.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/009.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/010.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/011.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/012.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/013.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/014.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/015.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/016.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/017.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/018.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/019.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/020.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/021.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/022.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/023.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/024.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/025.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/026.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/027.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/028.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/029.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/030.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/031.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/032.webp)
-  ![](/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/033.webp)
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-guangzhou-shenzhen-prvni-dojmy/033.webp" alt="" loading="lazy" />
 </div>
 
 Sen o elektrickém létání..✨✨

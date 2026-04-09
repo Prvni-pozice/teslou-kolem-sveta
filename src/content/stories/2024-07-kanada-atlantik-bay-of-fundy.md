@@ -45,16 +45,16 @@ Přerostlá srna a kamion nejlépe vystihují to, co tady potkáte častěji nez
 V noci jsme viděli ještě 4 losy a 2 zajíce na té 200 km silnici bez signálu😅.
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/001.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/002.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/003.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/004.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/005.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/006.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/007.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/008.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/009.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/010.webp)
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/001.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/010.webp" alt="" loading="lazy" />
 </div>
 
 Kdybych to neviděl, tak by mi to chybělo, ale nevěděl bych o tom..🤷🏻‍♂️😀
@@ -65,7 +65,7 @@ https://herohero.co/tesloukolemsveta
 (Děkujeme za první odvážné🙏🏻🙏🏻)
 
 <div class="gallery">
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/011.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/012.webp)
-  ![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/013.webp)
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/013.webp" alt="" loading="lazy" />
 </div>

@@ -44,10 +44,10 @@ A v kopci kamiony jedou klidně 20, takže vlastně stojí, když kolem letíš 
 ..tak a nyni můžete všichni do Afriky!👍🏻😀
 
 <div class="gallery">
-  ![](/assets/stories/pruvodce-maroko-pro-elektromobilisty/007.webp)
-  ![](/assets/stories/pruvodce-maroko-pro-elektromobilisty/008.webp)
-  ![](/assets/stories/pruvodce-maroko-pro-elektromobilisty/009.webp)
-  ![](/assets/stories/pruvodce-maroko-pro-elektromobilisty/010.webp)
+  <img src="/assets/stories/pruvodce-maroko-pro-elektromobilisty/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/pruvodce-maroko-pro-elektromobilisty/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/pruvodce-maroko-pro-elektromobilisty/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/pruvodce-maroko-pro-elektromobilisty/010.webp" alt="" loading="lazy" />
 </div>
 
 Tady je aspon malá ukázka, proč jsme po cestě z jihu Maroka museli jet zase přes Legzira..🤩

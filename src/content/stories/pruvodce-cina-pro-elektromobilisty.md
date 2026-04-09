@@ -60,6 +60,6 @@ Takze ted uz znáte jejich nejčastější heslo..😉😁😁
 A kdyz Vám to parkrat nekde nevyjde, tak abyste se nepo..., tak si uložte druhy obrázek😁. To je jejich Smecta💪🏻💪🏻.
 
 <div class="gallery">
-  ![](/assets/stories/pruvodce-cina-pro-elektromobilisty/003.webp)
-  ![](/assets/stories/pruvodce-cina-pro-elektromobilisty/004.webp)
+  <img src="/assets/stories/pruvodce-cina-pro-elektromobilisty/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/pruvodce-cina-pro-elektromobilisty/004.webp" alt="" loading="lazy" />
 </div>

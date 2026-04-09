@@ -25,10 +25,10 @@ A tak jsme byli nadšení, že jsme tentokrát mohli pohostit Paula my — a ale
 A když už byl tady, kromě Pelhřimova jsme ho vzali i do Kamenice a na Křemešník — včetně výšlapu na rozhlednu. 🚗🌍
 
 <div class="gallery">
-  ![](/assets/stories/2025-07-rafael-navstivil/002.webp)
-  ![](/assets/stories/2025-07-rafael-navstivil/003.webp)
-  ![](/assets/stories/2025-07-rafael-navstivil/004.webp)
-  ![](/assets/stories/2025-07-rafael-navstivil/005.webp)
-  ![](/assets/stories/2025-07-rafael-navstivil/006.webp)
-  ![](/assets/stories/2025-07-rafael-navstivil/007.webp)
+  <img src="/assets/stories/2025-07-rafael-navstivil/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2025-07-rafael-navstivil/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2025-07-rafael-navstivil/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2025-07-rafael-navstivil/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2025-07-rafael-navstivil/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2025-07-rafael-navstivil/007.webp" alt="" loading="lazy" />
 </div>

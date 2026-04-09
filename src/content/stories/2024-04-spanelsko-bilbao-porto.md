@@ -39,15 +39,15 @@ Podruhé si vypomáháme mobilní nabijeckou. Jelikož mame jenom par sponzorů,
 Portugalsko se nám hned v prvních hodinach ukázalo "klasicky" deštivě, ale ty všechny kopce maji svůj "jiný" charakter. Bujná zeleň místy přechází rovnou do holých a oblých skal a kdyz jsme neplánovaně projížděli parkem Alvao, tak jsme několikrát úžasle zastavili. Občas jsme až nemohli uvěřit, ze to je prace "jen" samotné přírody.. 🤩✨
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/002.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/003.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/004.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/005.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/006.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/007.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/008.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/009.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/010.webp)
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/002.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/004.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/010.webp" alt="" loading="lazy" />
 </div>
 
 Kdyz uz si tady vsichni pobrekavame nad tim počtem SCH v ČR, tak nas prekvapilo, kolik už je v4 v reálném provozu. O to vic je fakt skoda, proč nejde rozšířit pocet snad jakýchkoliv.
@@ -58,8 +58,8 @@ Dali nám 3 nabíječky, které muzeme umístit kdekoliv, kde to domluvíme.
 Pro zvídavé - veze je v autě Rafael😅.
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/011.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/012.webp)
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/012.webp" alt="" loading="lazy" />
 </div>
 
 Přeci jenom videt francouzskou Rumunku pri tanci na superchargeru rikat Němcovi: "Normal", nam trochu připomnělo Českou sodu..😂😂
@@ -76,12 +76,12 @@ V podstatě me prekvapilo, ze i velká luxusní limuzína s obrovskou baterkou j
 A pridavat boxy na auto nema smysl, pokud to neni vylozene nutne nebo nemají extrémně dobrou aerodynamiku nebo nevíte predem, ze pojedete většinu casu pod 100km/h.
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/013.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/014.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/015.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/016.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/017.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/018.webp)
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/018.webp" alt="" loading="lazy" />
 </div>
 
 Neporovnatelné porovnání S a 3-ky s boxem..😅
@@ -113,17 +113,17 @@ Bohužel jsme nevěděli, že musime mit kvuli budoucím transportum od auta ori
 Moc děkujeme za proaktivní pristup pana Prokopce z jihlavské pobočky DHL. V podstatě se to podalo 5 minut po, ale prověřil, že vše na pozadi probíhá dobre. Ve Španělsku nam vsichni tvrdili, že to prijde az jeste dalsi den (i to tak ukazoval system, ale zaroven ukazoval, ze uz to ma kuryr). Nakonec bylo vše přesně podle p. Prokopce. Moc dekujeme!🙏🏻🙏🏻🙏🏻
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/019.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/020.webp)
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/020.webp" alt="" loading="lazy" />
 </div>
 
 O Markusovi jsme už psali a jsme mu vděční za všechnu podporu.
 Včera překvapil znovu - ikdyž na mapě vidíte, ze už je zpět ve Švýcarsku, tak pred tim predal Rafaelovi švýcarské dálniční znamky a včera jsme si je vylepili na auta. Prý ať po cestě neni zadna komplikace😅🙏🏻🙏🏻.
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/021.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/022.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/023.webp)
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/023.webp" alt="" loading="lazy" />
 </div>
 
 Dnesni nocovistě našel Piere a shodli jsme se, ze jeste nikdo jsme nespal v hotelu, ktery je zaroven součástí velkého stadionu. Jelikož kazdy vypil max. 1 pivo, tak jsme ani nevyzkouseli ozvenu😂
@@ -138,10 +138,10 @@ Koho zajímají detaily, tak pry dokáže jet se spotřebou 20W/km, ale nejlepš
 Pokud Vám bude někdy cesta dlouhá a náročná, vzpomeňte na Jirku!😂
 
 <div class="gallery">
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/024.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/025.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/026.webp)
-  ![](/assets/stories/2024-04-spanelsko-bilbao-porto/027.webp)
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-spanelsko-bilbao-porto/027.webp" alt="" loading="lazy" />
 </div>
 
 Z Lisabonu se nektere snímky nesměli zveřejnit, dokud Tesla nevypustí to hlavní video, co jsme sdíleli. Najdete nas na fotkách? Pridame do komentáře označení..😀

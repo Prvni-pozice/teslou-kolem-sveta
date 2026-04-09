@@ -50,9 +50,9 @@ Nejvíc mě ale překvapilo, ze kdyz to clovek zažije, promluví s místními l
 Neskutečný mazec..👍🏻✨
 
 <div class="gallery">
-  ![](/assets/stories/zamysleni-ekonomika-asie/005.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/006.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/007.webp)
+  <img src="/assets/stories/zamysleni-ekonomika-asie/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/007.webp" alt="" loading="lazy" />
 </div>
 
 2. Ekonomická pohádka - tentokrát o Číně..💵
@@ -80,10 +80,10 @@ Přidávám obrázek - známý Big Mac index - a mam navrh - zavedl bych ovocný
 - jím je nejčastěji😉
 
 <div class="gallery">
-  ![](/assets/stories/zamysleni-ekonomika-asie/008.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/009.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/010.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/011.webp)
+  <img src="/assets/stories/zamysleni-ekonomika-asie/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/011.webp" alt="" loading="lazy" />
 </div>
 
 3. Ekonomická analýza - tentokrát ze silnice v poušti😳
@@ -103,12 +103,12 @@ Zdá se, že i pres jiná omezení právě dostupnost surovin a energie a dostat
 A pak je mozne i toto, ze je tak hodne vystavěné infrastruktury i nekde v poušti, kde driv nebylo nic, nez jen obchodni cesta😳.
 
 <div class="gallery">
-  ![](/assets/stories/zamysleni-ekonomika-asie/012.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/013.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/014.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/015.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/016.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/017.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/018.webp)
-  ![](/assets/stories/zamysleni-ekonomika-asie/019.webp)
+  <img src="/assets/stories/zamysleni-ekonomika-asie/012.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/015.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-ekonomika-asie/019.webp" alt="" loading="lazy" />
 </div>

@@ -29,12 +29,12 @@ A popravdě jsem sam vice a vice zaskočený celkovou úrovní těch místních 
 Ps: Asi muzu udelat maly teaser, ze jsem pred chvili prolezl auta 2 jiných značek a byl jsem zaskočený, teda spíš mi zaskocilo úplně..🤯
 
 <div class="gallery">
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/007.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/008.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/009.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/010.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/011.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/012.webp)
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/012.webp" alt="" loading="lazy" />
 </div>
 
 <video controls src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/video-001.mp4" style="max-width:100%"></video>
@@ -67,9 +67,9 @@ Nejvíc mě ale překvapilo, ze kdyz to clovek zažije, promluví s místními l
 Neskutečný mazec..👍🏻✨
 
 <div class="gallery">
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/013.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/014.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/015.webp)
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/014.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/015.webp" alt="" loading="lazy" />
 </div>
 
 2. Ekonomická pohádka - tentokrát o Číně..💵
@@ -97,10 +97,10 @@ Přidávám obrázek - známý Big Mac index - a mam navrh - zavedl bych ovocný
 - jím je nejčastěji😉
 
 <div class="gallery">
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/016.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/017.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/018.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/019.webp)
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/019.webp" alt="" loading="lazy" />
 </div>
 
 Technicke okénko: Čínská elektroauta??🤯🤯
@@ -144,18 +144,18 @@ Náklaďáky na metan - snad všechna užitková auta v Uzbekistánu jezdi na Me
 A deti porad vyhlizeli ziguliky z GTA🙈😂. Ja uz jen cekal, kdy vyleze typek v bílém potrhaném natelniku..🤣🤣. Kdo neznáte, tak si to dohledejte na YT😂.
 
 <div class="gallery">
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/020.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/021.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/022.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/023.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/024.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/025.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/026.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/027.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/028.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/029.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/030.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/031.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/032.webp)
-  ![](/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/033.webp)
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/030.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/031.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/032.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/technika-cinska-elektroauta-sokujici-kvalita/033.webp" alt="" loading="lazy" />
 </div>
