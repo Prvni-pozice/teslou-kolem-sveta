@@ -1,7 +1,7 @@
 ---
 title: "Napříč Čínou: Od mrakodrapů k Ujgurům a konci Hedvábné stezky"
 description: "1600 km na západ -- prechod z moderni Ciny do venkova, oblast Ujguru ve Xinjiangu, jezero Sayran a hranice s Kazachstanem."
-pubDate: 2024-09-12
+pubDate: 2024-09-10
 category: cesta
 continent: asie
 country: "CN"
@@ -14,9 +14,26 @@ draft: false
 importedFrom: facebook
 ---
 
-To se takhle jdete zrelaxovat do chrámu Gaomiao obklopeného zahradou. Těšíte se, jak se zaparkujete v altánu na vodě, kam za vámi díky cik cak cestě, nemůžou žádní zlí duchové 😀 a v tom překvapení, stejný nápad mělo i hodně místních soudruhů a milých žen, co tady něco bujaře oslavovali 🙂 Děti nacpané extra nudlemi, už před vstupem do areálu klasicky stávkovaly, takže zvládly chrám, pak už i s mužem šly raději na skákací atrakce do města. Mě se s nadšením ujaly holky, co měly po zahradě různé tra
+3) Čínské pokračování rozhovoru..🫡😉
+(omlouvam se za trochu monotónní hlas u druheho videa - musel jsem to předabovat na pokoji)
 
 ![](/assets/stories/2024-09-cina-zapad-ujgurove/001.webp)
+
+Co jsme včera jeste zažili na čínské policejní stanici? A mají tam také STK?😉😅
+
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-001.mp4" style="max-width:100%"></video>
+
+Tak už nám tady auto "pokřtili" 🙈🙈Vedlejší auto na parkovišti si to proste zkrátilo pres nas čumák. Tak snad se podari to po ceste jeste opravit..
+
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-005.mp4" style="max-width:100%"></video>
+
+Něco málo ze zákulisí.. ptáte se nás, jak to máme třeba s praním prádla po cestě 🤦‍♀️🤪😂 tak asi tak a vše opět udržitelně na elektriku nebo solar a free nebo to chce mít pár čtvrťáků v kapse 😄
+
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-006.mp4" style="max-width:100%"></video>
+
+To se takhle jdete zrelaxovat do chrámu Gaomiao obklopeného zahradou. Těšíte se, jak se zaparkujete v altánu na vodě, kam za vámi díky cik cak cestě, nemůžou žádní zlí duchové 😀 a v tom překvapení, stejný nápad mělo i hodně místních soudruhů a milých žen, co tady něco bujaře oslavovali 🙂 Děti nacpané extra nudlemi, už před vstupem do areálu klasicky stávkovaly, takže zvládly chrám, pak už i s mužem šly raději na skákací atrakce do města. Mě se s nadšením ujaly holky, co měly po zahradě různé tradiční aktivity.. 🙏😄
+
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-007.mp4" style="max-width:100%"></video>
 
 Je to čina ta Čína?😳
 Už jsme ujeli více než 1.600 km na západ. Dostali jsme se tak na "venkov", do pouští a vse působí najednou jak z jiné země.
@@ -88,7 +105,7 @@ Kazdopadne se pohybujeme nyni na severozápadě Ciny a zkouseli jsme i náhodně
 Ted se blizime k useku, kde 300 km nema být žádné nabijeni, ale podle jedné appky uz i tam přidali dalsi nabíječky👍🏻⚡️.
 Kazdopadne na infrastruktuře asi dost makají, protoze kolem je jinak již jejich klasicky venkov. Buď je nekde průmysl a vetsi mesto a nebo male domečky a kolem kukuřice a jinak nic. A tady teda hlavne uz jen pisek..🙈😄.
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-002.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-008.mp4" style="max-width:100%"></video>
 
 3. Ekonomická analýza - tentokrát ze silnice v poušti😳
 Za chvili podruhé prejedeme napric celou Čínou, což nás vede k dalším postřehům a úvahám:
@@ -141,13 +158,13 @@ Ps2: posledni fotka je jediná, co mi dovolili vnitrni vybavení - míchání ba
   <img src="/assets/stories/2024-09-cina-zapad-ujgurove/055.webp" alt="" loading="lazy" />
 </div>
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-003.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-009.mp4" style="max-width:100%"></video>
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-004.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-010.mp4" style="max-width:100%"></video>
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-005.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-011.mp4" style="max-width:100%"></video>
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-006.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-012.mp4" style="max-width:100%"></video>
 
 Ukázka, jak probíhá oprava v čínské Tesle..😅
 
@@ -193,7 +210,7 @@ A kdyz Vám to parkrat nekde nevyjde, tak abyste se nepo..., tak si uložte druh
 
 Nas průjezd Čínou od východu na zapad vypada vlastne úplně jednoduše...🤷🏻‍♂️😄
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-007.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-013.mp4" style="max-width:100%"></video>
 
 Urumqi, Sayran lake a Khorgos - zaver Ciny..
 Na konci nasi cesty jsme viděli nejhezci jezero z cele Ciny a dokonce je 2.000 m nad mořem, takze to kolem působilo trochu "alpsky" 😄.
@@ -214,13 +231,13 @@ Kazdopadne hory podél cesty byly většinu doby impozantní a obcas i se sněhe
 
 Jsme v Kazachstánu!🎉 Kousek za hranicemi jsme si dali pauzu a zkusili první místní nabijeni, koupili lokalni SIM, aktivoval ji a rychle se snažíme rozkoukat v dalsi "nové" realitě..😄. A uz jsme dostali prvni dáreček!🎉
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-008.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-014.mp4" style="max-width:100%"></video>
 
 Kochali jsme se sceneriemi mezi jezerem  Sayran a "posledním" čínským městem Khorgos, až se toho i auto nemohlo nabažit..😁🤩
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-009.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-015.mp4" style="max-width:100%"></video>
 
 1. část nasi cesty po Číně - z jihu na východ. Toto jsme jeli sami bez aut jen s malými baťůžky.
 A cestou jsme přišli o ty nunchalu, které nam dal Robin. Bezpečnostní kontrolu vlaku byla neoblomná..(pritom byla až třetí 🙈).
 
-<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-010.mp4" style="max-width:100%"></video>
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-016.mp4" style="max-width:100%"></video>

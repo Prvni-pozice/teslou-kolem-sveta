@@ -108,13 +108,13 @@ CLUSTERS = [
   {
     "slug": "2024-05-transport-auta-do-ameriky",
     "title": "Logistická noční můra: Přeprava auta z Casablancy do Ameriky",
-    "description": "Deset dní v pasti mezinárodní přepravy — Casablanca pohořela, Algeciras zachránilo, a auto nakonec odplulo do Miami.",
+    "description": "Deset dní v pasti mezinárodní přepravy — Casablanca pohořela, Algeciras zachránilo, auto odplulo do Miami a my letěli přes Londýn.",
     "category": "cesta",
     "continent": "afrika",
     "country": "MA",
-    "tags": ["přeprava auta", "Casablanca", "Algeciras", "logistika", "loď"],
+    "tags": ["přeprava auta", "Casablanca", "Algeciras", "logistika", "loď", "Miami", "let"],
     "featured": False,
-    "post_range": (58, 73),
+    "post_range": (58, 78),
   },
 
   # ═══════════════════════════════════════════════════════════════════
@@ -196,14 +196,14 @@ CLUSTERS = [
   },
   {
     "slug": "2024-07-kanada-atlantik-bay-of-fundy",
-    "title": "Atlantická Kanada: Bay of Fundy, rozbité brzdy a záchranka v Plaster Rock",
-    "description": "Nejvyšší příliv světa, 200 km pustinou s kovovými ránami a mechanik v malém městečku, který nás zachránil.",
+    "title": "Atlantická Kanada: Bay of Fundy, Tesla servis v Québecu a Ottawa",
+    "description": "Nejvyšší příliv světa, 200 km pustinou, Tesla servis v Québecu, Ottawa Tesla klub a mechanik v Plaster Rock, který nás zachránil.",
     "category": "cesta",
     "continent": "ameriky",
     "country": "CA",
-    "tags": ["Bay of Fundy", "Kanada", "Atlantik", "Plaster Rock", "servis"],
+    "tags": ["Bay of Fundy", "Kanada", "Atlantik", "Plaster Rock", "servis", "Ottawa", "Tesla klub"],
     "featured": False,
-    "post_range": (128, 133),
+    "post_range": (128, 142),
   },
   {
     "slug": "2024-07-toronto-niagara-falls",
@@ -273,7 +273,7 @@ CLUSTERS = [
     "country": "US",
     "tags": ["Silicon Valley", "Apple", "Google", "Lucid Air", "Fremont"],
     "featured": False,
-    "post_range": (188, 196),
+    "post_range": (188, 197),
   },
 
   # ═══════════════════════════════════════════════════════════════════
@@ -340,7 +340,7 @@ CLUSTERS = [
     "country": "CN",
     "tags": ["Shaolin", "kung-fu", "buddhistický chrám", "Čína", "Liang Jianmin"],
     "featured": True,
-    "post_range": (221, 226),
+    "post_range": (221, 229),
   },
 
   # ═══════════════════════════════════════════════════════════════════
@@ -355,7 +355,7 @@ CLUSTERS = [
     "country": "CN",
     "tags": ["Xinjiang", "Ujguři", "Urumqi", "Hedvábná stezka", "Khorgos", "Čína západ"],
     "featured": False,
-    "post_range": (238, 253),
+    "post_range": (234, 253),
   },
 
   # ═══════════════════════════════════════════════════════════════════
@@ -544,7 +544,7 @@ CLUSTERS = [
     "country": "",
     "tags": ["lidé", "pohostinnost", "cesta", "zamyšlení", "setkání"],
     "featured": True,
-    "post_indices": [130, 143, 267, 285, 196],
+    "post_indices": [74, 130, 143, 267, 285, 196],
   },
   {
     "slug": "zamysleni-ekonomika-asie",

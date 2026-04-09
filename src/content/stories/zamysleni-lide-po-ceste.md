@@ -1,7 +1,7 @@
 ---
 title: "Lidé, které jsme potkali: Co nás naučila cesta kolem světa"
 description: "Andrew s kyblíkem v Ottawě, Seydou v Kanadě, Ramil v Kazachstánu, Vladimir v Gruzii — cesta kolem světa je především o lidech."
-pubDate: 2024-07-16
+pubDate: 2024-06-09
 category: zamysleni
 tags: ["lidé", "pohostinnost", "cesta", "zamyšlení", "setkání"]
 featured: true
@@ -11,12 +11,15 @@ draft: false
 importedFrom: facebook
 ---
 
+Co ty lidi?
+Slibovali jsme, že se rozepíšeme ještě více o lidech v Maroku. Ve "zkratce"😉:
+
+![](/assets/stories/zamysleni-lide-po-ceste/001.webp)
+
 From first moment was Seydou very helpful and very kind👍🏻.
 Talk with everybody and offer anything to assure, that all guests are happy👍🏻.
 Breakfest was with fresh prepared pancakes (and cornflakes, yoghurt, cookies, juices, coffee, tea, cocoa...etc.)
 Absolute excelent service!
-
-![](/assets/stories/zamysleni-lide-po-ceste/001.webp)
 
 Kyblík se pro nás stane symbolem..✨
 Andrewa jsem se zeptal na firmu a on behem mytí aut skoro mimochodem zmínil:
@@ -30,11 +33,11 @@ Vlastně jsem strašně rád, že to mohli deti slyšet primo od něj a pak dát
 Takže kdokoliv pojedete se špinavým autem kolem Ottawy, tak víte kam zajet😉 - motospaclub
 
 <div class="gallery">
-  <img src="/assets/stories/zamysleni-lide-po-ceste/001.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/002.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/003.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/004.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/006.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/008.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/010.webp" alt="" loading="lazy" />
 </div>
 
 Dva dny jsme strávili v Šimkentu u Ramila a jeho rodiny. Ramil je místní Electrodad 🙂👍. Probrali se tedy hlavně⚡️vozy, ale došlo i na kulturu bytí v Kazachstánu a okolí.
@@ -44,17 +47,17 @@ Pohostinnost Kazachstanců je vyhlášená i tady jsme byli pozváni na místní
 Lau byla nadšená z jejich morské sviňky - morčete, naštěstí bylo neuvěřitelně přítulné 😅
 
 <div class="gallery">
-  <img src="/assets/stories/zamysleni-lide-po-ceste/006.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/007.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/008.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/009.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/010.webp" alt="" loading="lazy" />
   <img src="/assets/stories/zamysleni-lide-po-ceste/011.webp" alt="" loading="lazy" />
   <img src="/assets/stories/zamysleni-lide-po-ceste/012.webp" alt="" loading="lazy" />
   <img src="/assets/stories/zamysleni-lide-po-ceste/013.webp" alt="" loading="lazy" />
   <img src="/assets/stories/zamysleni-lide-po-ceste/014.webp" alt="" loading="lazy" />
   <img src="/assets/stories/zamysleni-lide-po-ceste/015.webp" alt="" loading="lazy" />
   <img src="/assets/stories/zamysleni-lide-po-ceste/016.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/017.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/021.webp" alt="" loading="lazy" />
 </div>
 
 Lidé: O Fanyuhu a Glorii jsme věděli od Ciny..
@@ -69,10 +72,10 @@ Bylo fajn potkat podobné blázny✨. Prejeme jim hodne stesti na dalsich cestá
 Najdete je na sitich i YouTube pod jménem: Fanyuhu👍🏻
 
 <div class="gallery">
-  <img src="/assets/stories/zamysleni-lide-po-ceste/017.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/018.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/019.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/020.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/023.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/025.webp" alt="" loading="lazy" />
 </div>
 
 Lidé..✨✨
@@ -88,8 +91,8 @@ O chvili později jsme to vykládali Rafaelovi a ten jenom dodal: "She found the
 Proste to bylo vse strašně lidské a dojemné. Ani nevím, jestli se to dá těmito řádky přenést..
 
 <div class="gallery">
-  <img src="/assets/stories/zamysleni-lide-po-ceste/021.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/022.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/023.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/zamysleni-lide-po-ceste/024.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/026.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/027.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/zamysleni-lide-po-ceste/029.webp" alt="" loading="lazy" />
 </div>

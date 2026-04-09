@@ -1,14 +1,14 @@
 ---
 title: "Přednáškové turné 2025: Stovky lidí, rozhovory a záznamy"
-description: "Přednášky po návratu z cesty kolem světa, záznamy na YouTube, rozhovory pro Electrodad, Tygry na cestě a podcast Talk for Walk."
+description: "Přednášky o cestě kolem světa v roce 2025 — ElektroFest, Jihlava, Kamenice n. L. Záznamy na YouTube od Tigrů na cestách, podcast Electrodad a Talk for Walk."
 pubDate: 2025-01-05
 category: aktualita
 continent: evropa
 country: "CZ"
 tags: ["přednáška", "ElektroFest", "Jihlava", "2025", "YouTube", "Electrodad", "Tygři na cestách", "Talk for Walk"]
-youtubeId: "QB9eislG8cQ"
 heroImage: "/assets/stories/2025-01-prednasky-a-ohlasy/001.webp"
-heroImageAlt: "Přednáškové turné 2025: Stovky lidí a zpověď o cestě"
+heroImageAlt: "Přednáškové turné 2025: Stovky lidí, rozhovory a záznamy"
+youtubeId: "QB9eislG8cQ"
 draft: false
 importedFrom: facebook
 ---
@@ -40,30 +40,18 @@ Těšíme se na zajimave dotazy.👌🏻😄
 Dlouho jsme se neozvali, ale kdo chce zažít naše vyprávění, tak přijďte do knihovny tento čtvrtek v Kamenici n. Lipou v 17:00!
 A nejzajímavější dotazy odměníme zážitkem s naší Teslou!✨👍🏻
 
----
-
 ## Rozhovory a záznamy z cesty
 
-Postupně vychází záznamy přednášek a rozhovory na různých kanálech. Tady jsou všechny na jednom místě:
+Kromě přednášek vznikly i rozhovory a záznamy na různých kanálech — zde jsou všechny:
 
-### YouTube — Tygři na cestách
+**YouTube — Tygři na cestách**
+- [ElektroFest: 1. část naší cesty](https://youtu.be/QB9eislG8cQ?si=PGv41mP34vSx6v1G) — záznam přednášky z ElektroFestu
+- [Západ USA: Tesla servis Gruber, poušť, atomové zbraně](https://youtu.be/zwMuGPEQk5k) — záběry ze západu USA
 
-Honza Müller postupně zpracovává záběry z celé cesty. Velká dřina a ještě větší trpělivost s námi.
+**Podcast Electrodad**
+- [Celá cesta kolem světa](https://www.stream.cz/electrodad/65097540) — rozhovor o celé výpravě
+- [Maroko a Afrika](https://www.stream.cz/electrodad/64718623) — marockká etapa podrobně
+- [Kontinenty — co nás překvapilo](https://www.stream.cz/electrodad/65393612) — s Tygři na cestě
 
-- **[Část 1 — ElektroFest: začátek cesty](https://youtu.be/QB9eislG8cQ)** — záznam přednášky z ElektroFestu, první polovina výpravy
-- **[Část 2 — Západ USA a Tesla servis Gruber](https://youtu.be/zwMuGPEQk5k)** — záběry z kalifornského servisu, klimatizování auta v poušti, Nevada
-
-### Stream.cz — Electrodad (Jan Staněk)
-
-Honza Staněk z Electrodadu si s námi sedl na dlouhý rozhovor — dvě epizody, každá o jiné části cesty.
-
-- **[Cesta kolem světa elektromobilem Tesla Model 3](https://www.stream.cz/elektromobily-suv/cesta-kolem-sveta-elektromobilem-tesla-model-3-zdenek-martinek-a-rodina-65097540)** — ~52 min, celá výprava s Haničkou a dětmi (Stream.cz)
-- **[Maroko: 8 800 km na baterky s Teslou Model 3](https://www.stream.cz/elektromobily-suv/maroko-8-800-km-na-baterky-s-teslou-model-3-rodina-se-tremi-detmi-64718623)** — ~30 min, speciálně o Maroku (Stream.cz)
-
-### Stream.cz — Tygři na cestě
-
-- **[Teslou kolem světa: Jaké je cestování elektromobilem přes kontinenty](https://www.stream.cz/tygri-na-ceste/teslou-kolem-sveta-jake-je-cestovani-elektromobilem-pres-kontinenty-65393612)** — ~38 min, dobíjení na různých kontinentech, transport auta přes oceány (Stream.cz)
-
-### Podcast — Talk for Walk (epizoda #15)
-
-- **[S rodinou kolem světa v elektromobilu](https://podcasts.apple.com/ph/podcast/talk-for-walk/id1766900646)** — ~45 min, rodinná dynamika, práce na cestách, škola pro děti. K poslechu na Apple Podcasts a Spotify.
+**Talk for Walk**
+- [Epizoda 15 — Teslou kolem světa](https://podcasts.apple.com/cz/podcast/talk-for-walk/id1537791801?i=1000676674664) — Apple Podcasts
