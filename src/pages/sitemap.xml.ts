@@ -13,6 +13,8 @@ export async function GET(_ctx: APIContext): Promise<Response> {
     { url: `${site}/galerie/`,     priority: '0.7', changefreq: 'weekly' },
     { url: `${site}/videa/`,       priority: '0.7', changefreq: 'weekly' },
     { url: `${site}/trasa/`,       priority: '0.7', changefreq: 'monthly' },
+    { url: `${site}/aktuality/`,    priority: '0.7', changefreq: 'monthly' },
+    { url: `${site}/nove-vypravy/`,priority: '0.7', changefreq: 'monthly' },
     { url: `${site}/o-projektu/`,  priority: '0.5', changefreq: 'yearly' },
     { url: `${site}/kontakt/`,     priority: '0.4', changefreq: 'yearly' },
   ];

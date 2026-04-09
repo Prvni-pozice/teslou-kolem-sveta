@@ -45,11 +45,17 @@ const stories = defineCollection({
       'pruvodce',       // practical guide
       'technika',       // EV/car tech tips
       'zamysleni',      // personal reflection
+      'aktualita',      // news/events/post-return updates
+      'nova-vyprava',   // post-return expeditions ("Nové výpravy")
     ]),
 
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
     readingTime: z.number().optional(),       // minutes, filled manually or auto-generated
+
+    /* Chronological navigation */
+    prevSlug: z.string().optional(),
+    nextSlug: z.string().optional(),
 
     /* Related content */
     relatedCountry: z.string().optional(),    // slug of country entry

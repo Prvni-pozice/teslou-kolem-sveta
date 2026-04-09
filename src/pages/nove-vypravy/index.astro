@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StoryCard from '../../components/travel/StoryCard.astro';
+import { getCollection } from 'astro:content';
+
+const allStories = await getCollection('stories', ({ data }) => !data.draft);
+const noveVypravy = allStories
+  .filter(s => s.data.category === 'nova-vyprava')
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Nové výpravy — kam nás to táhne dál"
+  description="Po obkroužení zeměkoule Teslou jsme se zastavit nedali. Nové výpravy, nové cesty, nové zážitky."
+>
+  <div class="page-wrap">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Domů</a>
+        <span aria-hidden="true">›</span>
+        <span aria-current="page">Nové výpravy</span>
+      </nav>
+
+      <div class="page-header" data-reveal>
+        <h1>Nové výpravy</h1>
+        <p class="page-lead">
+          Po obkroužení zeměkoule Teslou jsme se zastavit nedali.
+          Kam nás to táhne dál?
+        </p>
+      </div>
+
+      {noveVypravy.length > 0
+        ? <div class="grid-3">{noveVypravy.map(story => <StoryCard story={story} />)}</div>
+        : <p class="empty">Nové výpravy se připravují.</p>
+      }
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-wrap { padding-top: calc(72px + 3rem); padding-bottom: 5rem; }
+  .breadcrumb {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.5rem;
+  }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  .page-header { margin-bottom: 2.5rem; }
+  .page-lead { font-size: 1.1rem; color: var(--text-muted); margin-top: 0.5rem; max-width: 60ch; }
+  .empty { color: var(--text-muted); padding: 3rem 0; }
+</style>

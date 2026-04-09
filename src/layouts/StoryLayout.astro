@@ -11,7 +11,8 @@ interface Props {
 
 const { story } = Astro.props;
 const { title, description, pubDate, updatedDate, category, tags,
-        readingTime, continent, country, youtubeId, heroImage, heroImageAlt, heroCaption } = story.data;
+        readingTime, continent, country, youtubeId, heroImage, heroImageAlt, heroCaption,
+        prevSlug, nextSlug } = story.data;
 
 const allStories = await getCollection('stories', ({ data }) => !data.draft);
 const related = allStories
@@ -28,6 +29,8 @@ const categoryLabels: Record<string, string> = {
   pruvodce: 'Průvodce',
   technika: 'Technika',
   zamysleni: 'Zamyšlení',
+  aktualita: 'Aktuality',
+  'nova-vyprava': 'Nové výpravy',
 };
 
 const continentLabels: Record<string, string> = {
@@ -180,6 +183,31 @@ const continentLabels: Record<string, string> = {
       </div>
     </div>
   </div>
+
+  <!-- Prev/Next navigation -->
+  {(prevSlug || nextSlug) && (
+    <nav class="article-nav" aria-label="Chronologická navigace">
+      <div class="container">
+        <div class="article-nav-inner">
+          {prevSlug
+            ? <a href={`/pribehy/${prevSlug}/`} class="nav-prev">
+                <span class="nav-dir">← Předchozí</span>
+                <span class="nav-label">Předchozí článek</span>
+              </a>
+            : <span></span>
+          }
+          <a href="/pribehy/" class="nav-all" aria-label="Všechny příběhy">Všechny příběhy</a>
+          {nextSlug
+            ? <a href={`/pribehy/${nextSlug}/`} class="nav-next">
+                <span class="nav-dir">Další →</span>
+                <span class="nav-label">Další článek</span>
+              </a>
+            : <span></span>
+          }
+        </div>
+      </div>
+    </nav>
+  )}
 
   <!-- Related stories -->
   {related.length > 0 && (
@@ -355,6 +383,61 @@ const continentLabels: Record<string, string> = {
     margin-bottom: 0.75rem;
     max-width: none;
   }
+
+  /* Prev/Next nav */
+  .article-nav {
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    padding-block: 1.5rem;
+    background: var(--bg-base);
+  }
+  .article-nav-inner {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    gap: 1rem;
+    align-items: center;
+  }
+  .nav-prev, .nav-next {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    text-decoration: none;
+    padding: 0.75rem 1rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    transition: border-color var(--duration) var(--ease), background var(--duration) var(--ease);
+  }
+  .nav-prev:hover, .nav-next:hover {
+    border-color: var(--accent);
+    background: var(--sky-light);
+  }
+  .nav-next { text-align: right; }
+  .nav-dir {
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .nav-label {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .nav-all {
+    font-family: var(--font-sans);
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    text-decoration: none;
+    padding: 0.4rem 0.75rem;
+    border-radius: var(--radius-sm);
+    white-space: nowrap;
+    transition: color var(--duration) var(--ease);
+  }
+  .nav-all:hover { color: var(--accent); }
 
   /* Related */
   .related-section {

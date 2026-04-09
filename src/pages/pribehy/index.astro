@@ -6,9 +6,10 @@ import { getCollection } from 'astro:content';
 const allStories = await getCollection('stories', ({ data }) => !data.draft);
 const sorted = allStories.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const categories = ['cesta', 'pruvodce', 'technika', 'zamysleni'] as const;
+const categories = ['cesta', 'pruvodce', 'technika', 'zamysleni', 'aktualita', 'nova-vyprava'] as const;
 const categoryLabels: Record<string, string> = {
   cesta: 'Cesta', pruvodce: 'Průvodce', technika: 'Technika', zamysleni: 'Zamyšlení',
+  aktualita: 'Aktuality', 'nova-vyprava': 'Nové výpravy',
 };
 
 const activeCategory = Astro.url.searchParams.get('kategorie') ?? 'vse';
