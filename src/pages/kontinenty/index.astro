@@ -28,7 +28,7 @@ const colors: Record<string, string> = {
             href={`/kontinenty/${cont.slug}/`}
             class="continent-row"
             data-reveal
-            style={`transition-delay: ${i * 0.06}s; --c: ${colors[cont.data.slug] ?? 'var(--accent)'}`}
+            style={`transition-delay: ${i * 0.06}s; --c: ${colors[cont.slug] ?? 'var(--accent)'}`}
           >
             <div class="cont-color-bar" aria-hidden="true"></div>
             <div class="cont-info">

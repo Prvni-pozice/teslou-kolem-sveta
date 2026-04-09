@@ -1,7 +1,6 @@
 ---
 title: "Evropa Teslou — přehled cest"
 description: "Všechny naše evropské výpravy Teslou. Skandinávie, Alpy, pobaltí a desítky dalších destinací."
-slug: evropa
 nameCs: Evropa
 sortOrder: 1
 accentColor: "#3b82f6"

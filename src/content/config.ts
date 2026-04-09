@@ -116,7 +116,6 @@ const continents = defineCollection({
     ...heroFields,
 
     nameCs: z.string(),                       // "Evropa"
-    slug: z.enum(['evropa', 'asie', 'afrika', 'ameriky', 'oceanie']),
     sortOrder: z.number().default(1),
     accentColor: z.string().optional(),       // hex for continent color indicator
     countriesVisited: z.number().default(0),
