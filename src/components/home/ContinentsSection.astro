@@ -52,16 +52,6 @@ const continentColors: Record<string, string> = {
         </a>
       ))}
 
-      <!-- Placeholder for unvisited continents -->
-      {continents.length < 5 && (
-        <div class="continent-card continent-card--soon">
-          <div class="cont-body">
-            <span class="cont-color-dot" aria-hidden="true" style="--cont-color: var(--slate-300)"></span>
-            <h3 class="cont-name" style="color: var(--text-dim)">Brzy...</h3>
-            <p class="cont-meta">Další kontinenty v plánu</p>
-          </div>
-        </div>
-      )}
     </div>
   </div>
 </section>

@@ -4,9 +4,9 @@ description: "Nejdelší kontinentální etapa — Miami přes celé USA na záp
 nameCs: "Amerika"
 sortOrder: 3
 accentColor: "#ef4444"
-countriesVisited: 2
+countriesVisited: 3
 totalKm: 15000
-highlights: ["Miami → San Diego: celá Amérika", "Grand Canyon", "Silicon Valley", "Niagarské vodopády", "Route 66"]
+highlights: ["Miami → San Diego: celá Amérika", "Grand Canyon", "Silicon Valley", "Niagarské vodopády", "Route 66", "Mexiko"]
 draft: false
 ---
 
