@@ -1,0 +1,167 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const routes = await getCollection('routes', ({ data }) => !data.draft);
+const sorted = routes.sort((a, b) => b.data.startDate.valueOf() - a.data.startDate.valueOf());
+
+const statusColors: Record<string, string> = {
+  completed: 'var(--green)', active: 'var(--sky)', planned: 'var(--amber)',
+};
+const statusLabels: Record<string, string> = {
+  completed: 'Dokončeno', active: 'Probíhá', planned: 'Plánováno',
+};
+---
+
+<BaseLayout
+  title="Trasa — timeline výprav"
+  description="Chronologický přehled všech výprav Teslou. Od první cesty po Evropě až po aktuální expedice."
+>
+  <div class="page-wrap">
+    <div class="container">
+      <div class="page-header" data-reveal>
+        <h1>Naše trasa</h1>
+        <p class="page-lead">Timeline všech výprav — od první cesty po dnes.</p>
+      </div>
+
+      <div class="timeline">
+        {sorted.map((route, i) => {
+          const { expeditionName, startDate, endDate, totalKm, countries, highlights, status, youtubePlaylistId } = route.data;
+          return (
+            <div class="timeline-item" data-reveal style={`transition-delay: ${i * 0.07}s`}>
+              <div class="timeline-dot" style={`background: ${statusColors[status]}`} aria-hidden="true"></div>
+              <div class="timeline-card card">
+                <div class="timeline-header">
+                  <div>
+                    <span class="status-badge" style={`color: ${statusColors[status]}`}>
+                      {statusLabels[status]}
+                    </span>
+                    <h2 class="expedition-name">{expeditionName}</h2>
+                    <p class="expedition-dates">
+                      {startDate.toLocaleDateString('cs-CZ', { month: 'long', year: 'numeric' })}
+                      {endDate && ` — ${endDate.toLocaleDateString('cs-CZ', { month: 'long', year: 'numeric' })}`}
+                    </p>
+                  </div>
+                  <div class="expedition-stats">
+                    {totalKm && <span class="exp-stat"><strong>{totalKm.toLocaleString('cs-CZ')}</strong> km</span>}
+                    {countries.length > 0 && <span class="exp-stat"><strong>{countries.length}</strong> zemí</span>}
+                  </div>
+                </div>
+
+                {highlights.length > 0 && (
+                  <ul class="timeline-highlights">
+                    {highlights.map(h => <li>{h}</li>)}
+                  </ul>
+                )}
+
+                <div class="timeline-actions">
+                  <a href={`/pribehy/?expedice=${route.slug}`} class="btn btn-outline btn-sm">
+                    Číst příběhy
+                  </a>
+                  {youtubePlaylistId && (
+                    <a
+                      href={`https://www.youtube.com/playlist?list=${youtubePlaylistId}`}
+                      class="btn btn-ghost btn-sm"
+                      target="_blank"
+                      rel="noopener"
+                    >
+                      YouTube playlist →
+                    </a>
+                  )}
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      {routes.length === 0 && (
+        <p class="empty">Timeline se připravuje.</p>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-wrap { padding-top: calc(72px + 3rem); padding-bottom: 5rem; }
+  .page-header { margin-bottom: 3rem; }
+  .page-lead { font-size: 1.1rem; color: var(--text-muted); margin-top: 0.5rem; }
+
+  .timeline {
+    position: relative;
+    padding-left: 2rem;
+  }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 0.45rem;
+    top: 0.5rem;
+    bottom: 0;
+    width: 2px;
+    background: var(--border-strong);
+  }
+
+  .timeline-item {
+    position: relative;
+    margin-bottom: 2rem;
+  }
+
+  .timeline-dot {
+    position: absolute;
+    left: -2rem;
+    top: 1.5rem;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px var(--border-strong);
+  }
+
+  .timeline-card { padding: 1.5rem; }
+
+  .timeline-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .status-badge {
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  .expedition-name { font-size: 1.2rem; margin: 0 0 0.25rem; }
+  .expedition-dates { font-size: 0.85rem; color: var(--text-muted); margin: 0; max-width: none; }
+
+  .expedition-stats {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.2rem;
+    flex-shrink: 0;
+  }
+  .exp-stat { font-size: 0.82rem; color: var(--text-muted); white-space: nowrap; }
+  .exp-stat strong { color: var(--text-heading); font-family: var(--font-sans); }
+
+  .timeline-highlights {
+    list-style: none; padding: 0;
+    display: flex; flex-wrap: wrap; gap: 0.5rem;
+    margin-bottom: 1.25rem;
+  }
+  .timeline-highlights li {
+    font-size: 0.82rem; color: var(--text-muted);
+    background: var(--bg-2); border: 1px solid var(--border);
+    padding: 0.2rem 0.65rem; border-radius: 100px;
+  }
+
+  .timeline-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+  .btn-sm { padding: 0.4rem 1rem; font-size: 0.82rem; }
+  .empty { color: var(--text-muted); padding: 3rem 0; }
+</style>

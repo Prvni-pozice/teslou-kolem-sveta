@@ -1,0 +1,121 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StoryCard from '../../components/travel/StoryCard.astro';
+import CountryCard from '../../components/travel/CountryCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const continents = await getCollection('continents', ({ data }) => !data.draft);
+  return continents.map(cont => ({
+    params: { slug: cont.slug },
+    props: { cont },
+  }));
+}
+
+const { cont } = Astro.props;
+const { Content } = await cont.render();
+const { nameCs, description, heroImage, heroImageAlt, heroCaption,
+        countriesVisited, totalKm, highlights } = cont.data;
+
+const allStories = await getCollection('stories', ({ data }) => !data.draft && data.continent === cont.slug);
+const sortedStories = allStories.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const allCountries = await getCollection('countries', ({ data }) => !data.draft && data.continent === cont.slug);
+const sortedCountries = allCountries.sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+---
+
+<BaseLayout title={`${nameCs} — výpravy Teslou`} description={description} ogImage={heroImage}>
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Domů",       "item": "https://www.tesloukolemsveta.cz/" },
+      { "@type": "ListItem", "position": 2, "name": "Kontinenty", "item": "https://www.tesloukolemsveta.cz/kontinenty/" },
+      { "@type": "ListItem", "position": 3, "name": nameCs,       "item": Astro.url.href }
+    ]
+  })} />
+
+  {heroImage && (
+    <div class="cont-hero">
+      <img src={heroImage} alt={heroImageAlt ?? nameCs} loading="eager" />
+      {heroCaption && <p class="hero-caption">{heroCaption}</p>}
+    </div>
+  )}
+
+  <div class="cont-header-wrap">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Domů</a><span aria-hidden="true">›</span>
+        <a href="/kontinenty/">Kontinenty</a><span aria-hidden="true">›</span>
+        <span aria-current="page">{nameCs}</span>
+      </nav>
+      <h1>{nameCs}</h1>
+      <p class="cont-lead">{description}</p>
+      <div class="cont-meta-row">
+        {countriesVisited > 0 && <span class="meta-pill">{countriesVisited} zemí</span>}
+        {totalKm && <span class="meta-pill">{(totalKm/1000).toFixed(0)} tis. km</span>}
+      </div>
+    </div>
+  </div>
+
+  {highlights.length > 0 && (
+    <section class="section-sm" style="background: var(--bg-2)">
+      <div class="container">
+        <ul class="highlights-row">
+          {highlights.map(h => <li>{h}</li>)}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  <section class="section-sm">
+    <div class="container">
+      <div class="prose"><Content /></div>
+    </div>
+  </section>
+
+  {sortedCountries.length > 0 && (
+    <section class="section-sm" style="border-top: 1px solid var(--border)">
+      <div class="container">
+        <div class="section-header">
+          <h2>Země v {nameCs}</h2>
+        </div>
+        <div class="grid-4">
+          {sortedCountries.map(c => <CountryCard country={c} />)}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {sortedStories.length > 0 && (
+    <section class="section-sm" style="border-top: 1px solid var(--border); background: var(--bg-2)">
+      <div class="container">
+        <div class="section-header">
+          <h2>Příběhy z {nameCs}</h2>
+        </div>
+        <div class="grid-3">
+          {sortedStories.map(s => <StoryCard story={s} />)}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  .cont-hero { width: 100%; max-height: 480px; overflow: hidden; position: relative; }
+  .cont-hero img { width: 100%; height: 100%; object-fit: cover; }
+  .hero-caption {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    padding: 0.5rem 1rem; background: linear-gradient(to top, rgba(0,0,0,0.5), transparent);
+    color: #fff; font-size: 0.82rem; text-align: center;
+  }
+  .cont-header-wrap { padding-top: calc(72px + 2rem); padding-bottom: 2rem; border-bottom: 1px solid var(--border); }
+  .breadcrumb { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.25rem; }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  .cont-lead { font-size: 1.1rem; color: var(--text-muted); margin: 0.75rem 0 1rem; max-width: 60ch; }
+  .cont-meta-row { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+  .meta-pill { background: var(--sky-light); color: var(--sky-hover); font-family: var(--font-sans); font-size: 0.8rem; font-weight: 600; padding: 0.25rem 0.75rem; border-radius: 100px; }
+  .highlights-row { list-style: none; display: flex; flex-wrap: wrap; gap: 0.75rem; padding: 0; }
+  .highlights-row li { background: #fff; border: 1px solid var(--border); border-radius: var(--radius); padding: 0.5rem 1rem; font-size: 0.9rem; color: var(--text-muted); }
+</style>

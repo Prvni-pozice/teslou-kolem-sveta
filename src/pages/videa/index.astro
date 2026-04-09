@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import VideoCard from '../../components/travel/VideoCard.astro';
+import { getCollection } from 'astro:content';
+
+const videos = await getCollection('videos');
+const sorted = videos.sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf());
+const regular = sorted.filter(v => !v.data.isShort);
+const shorts  = sorted.filter(v => v.data.isShort);
+---
+
+<BaseLayout
+  title="Videa — YouTube výpravy"
+  description="Všechna videa z cest Teslou na YouTube. Celovečerní reportáže i krátká videa ze silnice."
+>
+  <div class="page-wrap">
+    <div class="container">
+      <div class="page-header" data-reveal>
+        <h1>Videa</h1>
+        <p class="page-lead">Naše výpravy v pohybu — na YouTube kanálu <a href="https://youtube.com/@tesloukolemsveta" target="_blank" rel="noopener">@tesloukolemsveta</a>.</p>
+      </div>
+
+      {regular.length > 0 && (
+        <section class="video-section">
+          <h2 class="section-sub">Reportáže</h2>
+          <div class="grid-3">
+            {regular.map(v => (
+              <VideoCard
+                youtubeId={v.data.youtubeId}
+                title={v.data.title}
+                description={v.data.description}
+                thumbnail={v.data.thumbnail}
+                duration={v.data.duration}
+                pubDate={new Date(v.data.pubDate)}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {shorts.length > 0 && (
+        <section class="video-section">
+          <h2 class="section-sub">Shorts</h2>
+          <div class="grid-4">
+            {shorts.map(v => (
+              <VideoCard
+                youtubeId={v.data.youtubeId}
+                title={v.data.title}
+                thumbnail={v.data.thumbnail}
+                pubDate={new Date(v.data.pubDate)}
+                isShort={true}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {videos.length === 0 && (
+        <p class="empty">Videa se připravují. Sledujte náš <a href="https://youtube.com/@tesloukolemsveta" target="_blank" rel="noopener">YouTube kanál</a>.</p>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-wrap { padding-top: calc(72px + 3rem); padding-bottom: 5rem; }
+  .page-header { margin-bottom: 2.5rem; }
+  .page-lead { font-size: 1.1rem; color: var(--text-muted); margin-top: 0.5rem; max-width: none; }
+  .video-section { margin-bottom: 3.5rem; }
+  .section-sub { font-size: 1.2rem; margin-bottom: 1.25rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .empty { color: var(--text-muted); padding: 3rem 0; }
+</style>

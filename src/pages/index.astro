@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/home/Hero.astro';
+import FeaturedStories from '../components/home/FeaturedStories.astro';
+import ContinentsSection from '../components/home/ContinentsSection.astro';
+import YouTubeSection from '../components/home/YouTubeSection.astro';
+import { getCollection } from 'astro:content';
+
+const allStories = await getCollection('stories', ({ data }) => !data.draft);
+const sortedStories = allStories.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const latestStories = sortedStories.slice(0, 6);
+
+const allContinents = await getCollection('continents', ({ data }) => !data.draft);
+const sortedContinents = allContinents.sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const allCountries = await getCollection('countries', ({ data }) => data.visited);
+---
+
+<BaseLayout
+  title="Teslou kolem světa — cestujeme elektrickým autem"
+  description="Blog o cestování elektrickým autem po světě. Příběhy, průvodci, galerie a videa z výprav Teslou napříč kontinenty."
+>
+  <!-- Schema: WebSite -->
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Teslou kolem světa",
+    "url": "https://www.tesloukolemsveta.cz",
+    "description": "Blog o cestování elektrickým autem — příběhy, průvodci a videa z cest Teslou.",
+    "inLanguage": "cs",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Teslou kolem světa",
+      "url": "https://www.tesloukolemsveta.cz",
+      "sameAs": [
+        "https://youtube.com/@tesloukolemsveta",
+        "https://www.facebook.com/share/18f92Ezd8K/"
+      ]
+    }
+  })} />
+
+  <Hero
+    totalKm={48000}
+    countriesCount={allCountries.length}
+    storiesCount={allStories.length}
+  />
+
+  <FeaturedStories stories={latestStories} />
+
+  <ContinentsSection continents={sortedContinents} />
+
+  <YouTubeSection />
+</BaseLayout>

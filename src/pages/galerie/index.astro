@@ -1,0 +1,59 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const galleries = await getCollection('galleries', ({ data }) => !data.draft);
+const sorted = galleries.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Galerie — fotografie z cest"
+  description="Fotogalerie z výprav Teslou. Fjordy, Alpy, polární slunce a tisíce dalších momentů ze silnice."
+>
+  <div class="page-wrap">
+    <div class="container">
+      <div class="page-header" data-reveal>
+        <h1>Galerie</h1>
+        <p class="page-lead">Fotografie z každé výpravy.</p>
+      </div>
+
+      {sorted.length > 0 ? (
+        <div class="gallery-grid">
+          {sorted.map((gal, i) => (
+            <a
+              href={`/galerie/${gal.slug}/`}
+              class="gallery-card card"
+              data-reveal
+              style={`transition-delay: ${i * 0.06}s`}
+            >
+              {gal.data.heroImage ? (
+                <img class="card-img" src={gal.data.heroImage} alt={gal.data.heroImageAlt ?? gal.data.title} loading="lazy" />
+              ) : (
+                <div class="card-img card-img-placeholder" aria-hidden="true"></div>
+              )}
+              <div class="card-body">
+                <h2 class="gal-title">{gal.data.title}</h2>
+                {gal.data.photoCount > 0 && <p class="gal-count">{gal.data.photoCount} fotografií</p>}
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="empty">Galerie se připravují.</p>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-wrap { padding-top: calc(72px + 3rem); padding-bottom: 5rem; }
+  .page-header { margin-bottom: 2.5rem; }
+  .page-lead { font-size: 1.1rem; color: var(--text-muted); margin-top: 0.5rem; }
+  .gallery-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 1rem; }
+  .gallery-card { text-decoration: none; display: block; }
+  .gallery-card .card-img { aspect-ratio: 4/3; }
+  .card-img-placeholder { aspect-ratio: 4/3; background: linear-gradient(135deg, var(--sky-light), var(--slate-200)); }
+  .gal-title { font-size: 1rem; color: var(--text-heading); margin-bottom: 0.2rem; }
+  .gal-count { font-size: 0.82rem; color: var(--text-muted); margin: 0; max-width: none; }
+  .empty { color: var(--text-muted); padding: 3rem 0; }
+</style>

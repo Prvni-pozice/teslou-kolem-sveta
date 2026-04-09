@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Stránka nenalezena"
+  description="Hledaná stránka neexistuje. Vraťte se na úvod nebo prozkoumejte naše výpravy."
+  noindex={true}
+>
+  <div class="not-found">
+    <div class="container">
+      <p class="error-code" aria-hidden="true">404</p>
+      <h1>Stránka nenalezena</h1>
+      <p class="lead">Tato URL neexistuje nebo byla přesunuta.</p>
+      <div class="actions">
+        <a href="/" class="btn btn-primary">Zpět na úvod</a>
+        <a href="/pribehy/" class="btn btn-outline">Příběhy</a>
+        <a href="/zeme/" class="btn btn-outline">Země</a>
+      </div>
+    </div>
+    <div class="glow" aria-hidden="true"></div>
+  </div>
+</BaseLayout>
+
+<style>
+  .not-found {
+    position: relative;
+    min-height: calc(100vh - 72px);
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding-top: 72px;
+  }
+  .container { text-align: center; padding-block: 4rem; }
+  .error-code {
+    font-size: clamp(6rem, 20vw, 10rem);
+    font-weight: 900;
+    line-height: 1;
+    background: linear-gradient(135deg, var(--sky) 0%, var(--amber) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.5rem;
+  }
+  h1 { margin-bottom: 0.75rem; }
+  .lead { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 2rem; }
+  .actions { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; }
+  .glow {
+    position: absolute; inset: 0; pointer-events: none;
+    background: radial-gradient(ellipse 60% 50% at 50% 30%, rgba(14,165,233,0.05) 0%, transparent 70%);
+  }
+</style>

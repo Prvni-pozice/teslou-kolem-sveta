@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StoryCard from '../../components/travel/StoryCard.astro';
+import { getCollection } from 'astro:content';
+
+const allStories = await getCollection('stories', ({ data }) => !data.draft);
+const sorted = allStories.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const categories = ['cesta', 'pruvodce', 'technika', 'zamysleni'] as const;
+const categoryLabels: Record<string, string> = {
+  cesta: 'Cesta', pruvodce: 'Průvodce', technika: 'Technika', zamysleni: 'Zamyšlení',
+};
+
+const activeCategory = Astro.url.searchParams.get('kategorie') ?? 'vse';
+const filtered = activeCategory === 'vse'
+  ? sorted
+  : sorted.filter(s => s.data.category === activeCategory);
+---
+
+<BaseLayout
+  title="Příběhy z cest"
+  description="Všechny cestopisné reportáže, zápisky a průvodci z výprav Teslou. Seřazeno od nejnovějšího."
+>
+  <div class="page-wrap">
+    <div class="container">
+      <div class="page-header" data-reveal>
+        <h1>Příběhy z cest</h1>
+        <p class="page-lead">Reportáže, zápisky a průvodci přímo z asfaltu.</p>
+      </div>
+
+      <!-- Filter tabs -->
+      <div class="filter-tabs" role="tablist" aria-label="Filtr kategorií">
+        <a
+          href="/pribehy/"
+          class:list={['filter-tab', { active: activeCategory === 'vse' }]}
+          aria-selected={activeCategory === 'vse'}
+        >Vše ({sorted.length})</a>
+        {categories.map(cat => {
+          const count = sorted.filter(s => s.data.category === cat).length;
+          if (count === 0) return null;
+          return (
+            <a
+              href={`/pribehy/?kategorie=${cat}`}
+              class:list={['filter-tab', { active: activeCategory === cat }]}
+              aria-selected={activeCategory === cat}
+            >{categoryLabels[cat]} ({count})</a>
+          );
+        })}
+      </div>
+
+      {filtered.length > 0
+        ? <div class="grid-3">{filtered.map(story => <StoryCard story={story} />)}</div>
+        : <p class="empty">Žádné příběhy v této kategorii.</p>
+      }
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-wrap { padding-top: calc(72px + 3rem); padding-bottom: 5rem; }
+  .page-header { margin-bottom: 2rem; }
+  .page-lead { font-size: 1.1rem; color: var(--text-muted); margin-top: 0.5rem; }
+
+  .filter-tabs {
+    display: flex; gap: 0.5rem; flex-wrap: wrap;
+    margin-bottom: 2.5rem;
+  }
+  .filter-tab {
+    font-family: var(--font-sans); font-size: 0.85rem; font-weight: 500;
+    padding: 0.4rem 1rem; border-radius: 100px;
+    border: 1.5px solid var(--border-strong);
+    color: var(--text-muted); text-decoration: none;
+    transition: all var(--duration) var(--ease);
+  }
+  .filter-tab:hover { border-color: var(--accent); color: var(--accent); }
+  .filter-tab.active {
+    background: var(--accent); border-color: var(--accent);
+    color: #fff;
+  }
+  .empty { color: var(--text-muted); padding: 3rem 0; }
+</style>

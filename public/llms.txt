@@ -1,0 +1,30 @@
+# llms.txt — https://llmstxt.org
+
+> Teslou kolem světa je česky psaný blog o cestování elektrickým autem (Tesla).
+> Obsahuje reportáže z cest, průvodce nabíjecí infrastrukturou, fotogalerie a videa.
+
+## O webu
+
+Projekt dokumentuje dlouhodobé cestování elektromobilem po Evropě a světě.
+Zaměřujeme se na praktické informace pro EV cestovatele: nabíjecí sítě,
+plánování tras, zimní jízda, ubytování a finance.
+
+## Sekce
+
+- [Příběhy z cest](https://www.tesloukolemsveta.cz/pribehy/) — reportáže a zápisky
+- [Kontinenty](https://www.tesloukolemsveta.cz/kontinenty/) — výpravy podle světadílů
+- [Země](https://www.tesloukolemsveta.cz/zeme/) — EV infrastruktura a tipy pro každou zemi
+- [Průvodci](https://www.tesloukolemsveta.cz/pruvodci/) — praktické EV průvodce
+- [Galerie](https://www.tesloukolemsveta.cz/galerie/) — fotografie z výprav
+- [Videa](https://www.tesloukolemsveta.cz/videa/) — YouTube reportáže
+- [Trasa](https://www.tesloukolemsveta.cz/trasa/) — timeline všech expedic
+
+## Strojové zdroje
+
+- [RSS feed](https://www.tesloukolemsveta.cz/rss.xml)
+- [Sitemap](https://www.tesloukolemsveta.cz/sitemap.xml)
+
+## Sociální sítě
+
+- YouTube: https://youtube.com/@tesloukolemsveta
+- Facebook: https://www.facebook.com/share/18f92Ezd8K/

@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const continents = await getCollection('continents', ({ data }) => !data.draft);
+const sorted = continents.sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const colors: Record<string, string> = {
+  evropa: 'var(--cont-europe)', asie: 'var(--cont-asia)', afrika: 'var(--cont-africa)',
+  ameriky: 'var(--cont-americas)', oceanie: 'var(--cont-oceania)',
+};
+---
+
+<BaseLayout
+  title="Kontinenty — expedice Teslou"
+  description="Přehled světadílů a výprav Teslou. Evropa, Asie, Afrika a další — každý kontinent má svůj příběh."
+>
+  <div class="page-wrap">
+    <div class="container">
+      <div class="page-header" data-reveal>
+        <h1>Kontinenty</h1>
+        <p class="page-lead">Výpravy seřazené podle světadílů.</p>
+      </div>
+
+      <div class="continents-list">
+        {sorted.map((cont, i) => (
+          <a
+            href={`/kontinenty/${cont.slug}/`}
+            class="continent-row"
+            data-reveal
+            style={`transition-delay: ${i * 0.06}s; --c: ${colors[cont.data.slug] ?? 'var(--accent)'}`}
+          >
+            <div class="cont-color-bar" aria-hidden="true"></div>
+            <div class="cont-info">
+              <h2 class="cont-name">{cont.data.nameCs}</h2>
+              <p class="cont-desc">{cont.data.description}</p>
+            </div>
+            <div class="cont-stats">
+              {cont.data.countriesVisited > 0 && (
+                <span class="stat"><strong>{cont.data.countriesVisited}</strong> zemí</span>
+              )}
+              {cont.data.totalKm && (
+                <span class="stat"><strong>{(cont.data.totalKm/1000).toFixed(0)} tis.</strong> km</span>
+              )}
+            </div>
+            <span class="cont-arrow" aria-hidden="true">→</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-wrap { padding-top: calc(72px + 3rem); padding-bottom: 5rem; }
+  .page-header { margin-bottom: 2.5rem; }
+  .page-lead { font-size: 1.1rem; color: var(--text-muted); margin-top: 0.5rem; }
+
+  .continents-list { display: flex; flex-direction: column; gap: 0.75rem; }
+
+  .continent-row {
+    display: grid;
+    grid-template-columns: 4px 1fr auto 2rem;
+    align-items: center;
+    gap: 1.5rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 1.5rem 1.75rem;
+    text-decoration: none;
+    transition: box-shadow var(--duration) var(--ease), transform var(--duration) var(--ease), border-color var(--duration) var(--ease);
+  }
+  .continent-row:hover {
+    box-shadow: var(--shadow-lg); transform: translateX(6px);
+    border-color: var(--c);
+  }
+
+  .cont-color-bar {
+    width: 4px; height: 48px; border-radius: 2px;
+    background: var(--c); flex-shrink: 0;
+  }
+
+  .cont-name { font-size: 1.3rem; margin-bottom: 0.2rem; color: var(--text-heading); }
+  .cont-desc { font-size: 0.875rem; color: var(--text-muted); margin: 0; max-width: none; }
+
+  .cont-stats { display: flex; flex-direction: column; gap: 0.2rem; text-align: right; }
+  .stat { font-size: 0.82rem; color: var(--text-muted); white-space: nowrap; }
+  .stat strong { color: var(--text-heading); font-family: var(--font-sans); }
+
+  .cont-arrow { color: var(--c); font-size: 1.1rem; transition: transform var(--duration) var(--ease); }
+  .continent-row:hover .cont-arrow { transform: translateX(4px); }
+</style>

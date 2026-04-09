@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CountryCard from '../../components/travel/CountryCard.astro';
+import { getCollection } from 'astro:content';
+
+const allCountries = await getCollection('countries', ({ data }) => !data.draft);
+const sorted = allCountries.sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const visited = sorted.filter(c => c.data.visited);
+const planned = sorted.filter(c => !c.data.visited);
+
+const continentGroups: Record<string, typeof visited> = {};
+for (const c of visited) {
+  const cont = c.data.continent;
+  if (!continentGroups[cont]) continentGroups[cont] = [];
+  continentGroups[cont].push(c);
+}
+
+const continentLabels: Record<string, string> = {
+  evropa: 'Evropa', asie: 'Asie', afrika: 'Afrika', ameriky: 'Ameriky', oceanie: 'Oceánie',
+};
+---
+
+<BaseLayout
+  title="Země — kam jsme cestovali Teslou"
+  description="Přehled všech zemí navštívených Teslou. Informace o EV infrastruktuře, nabíjecích sítích a praktické tipy."
+>
+  <div class="page-wrap">
+    <div class="container">
+      <div class="page-header" data-reveal>
+        <h1>Země</h1>
+        <p class="page-lead">
+          {visited.length} navštívených zemí Teslou — EV infrastruktura, tipy a příběhy z každé z nich.
+        </p>
+      </div>
+
+      {Object.entries(continentGroups).map(([cont, countries]) => (
+        <section class="continent-group" data-reveal>
+          <h2 class="continent-heading">
+            <a href={`/kontinenty/${cont}/`}>{continentLabels[cont] ?? cont}</a>
+            <span class="country-count">{countries.length} zemí</span>
+          </h2>
+          <div class="grid-4">
+            {countries.map(country => <CountryCard country={country} />)}
+          </div>
+        </section>
+      ))}
+
+      {planned.length > 0 && (
+        <section class="continent-group planned" data-reveal>
+          <h2 class="continent-heading">Plánované destinace</h2>
+          <div class="grid-4">
+            {planned.map(country => <CountryCard country={country} />)}
+          </div>
+        </section>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-wrap { padding-top: calc(72px + 3rem); padding-bottom: 5rem; }
+  .page-header { margin-bottom: 2.5rem; }
+  .page-lead { font-size: 1.1rem; color: var(--text-muted); margin-top: 0.5rem; }
+  .continent-group { margin-bottom: 3.5rem; }
+  .continent-heading {
+    display: flex; align-items: center; gap: 1rem;
+    font-size: 1.3rem; margin-bottom: 1.25rem;
+    border-bottom: 2px solid var(--border); padding-bottom: 0.5rem;
+  }
+  .continent-heading a { color: var(--text-heading); text-decoration: none; }
+  .continent-heading a:hover { color: var(--accent); }
+  .country-count {
+    font-size: 0.8rem; font-family: var(--font-sans);
+    font-weight: 500; color: var(--text-dim);
+    background: var(--slate-100); padding: 0.2rem 0.6rem;
+    border-radius: 100px;
+  }
+  .planned { opacity: 0.7; }
+</style>

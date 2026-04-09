@@ -1,0 +1,19 @@
+---
+import CountryLayout from '../../layouts/CountryLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const countries = await getCollection('countries', ({ data }) => !data.draft);
+  return countries.map(country => ({
+    params: { slug: country.slug },
+    props: { country },
+  }));
+}
+
+const { country } = Astro.props;
+const { Content } = await country.render();
+---
+
+<CountryLayout country={country}>
+  <Content />
+</CountryLayout>

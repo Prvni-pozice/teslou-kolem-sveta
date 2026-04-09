@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides', ({ data }) => !data.draft);
+  return guides.map(guide => ({
+    params: { slug: guide.slug },
+    props: { guide },
+  }));
+}
+
+const { guide } = Astro.props;
+const { Content } = await guide.render();
+const { title, description, pubDate, updatedDate, category, tags, readingTime, heroImage, heroImageAlt } = guide.data;
+
+const categoryLabels: Record<string, string> = {
+  nabijecky: 'Nabíječky', planovani: 'Plánování', ubytovani: 'Ubytování',
+  finance: 'Finance', technika: 'Technika', zimni: 'Zimní jízda', ostatni: 'Ostatní',
+};
+---
+
+<BaseLayout title={title} description={description} ogImage={heroImage} type="article" pubDate={pubDate}>
+  <script type="application/ld+json" slot="head" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Domů",      "item": "https://www.tesloukolemsveta.cz/" },
+      { "@type": "ListItem", "position": 2, "name": "Průvodci",  "item": "https://www.tesloukolemsveta.cz/pruvodci/" },
+      { "@type": "ListItem", "position": 3, "name": title,       "item": Astro.url.href }
+    ]
+  })} />
+
+  {heroImage && (
+    <div class="guide-hero">
+      <img src={heroImage} alt={heroImageAlt ?? title} loading="eager" />
+    </div>
+  )}
+
+  <div class="guide-wrap">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Domů</a><span aria-hidden="true">›</span>
+        <a href="/pruvodci/">Průvodci</a><span aria-hidden="true">›</span>
+        <span aria-current="page">{title}</span>
+      </nav>
+
+      <div class="guide-header">
+        <span class="cat-badge">{categoryLabels[category] ?? category}</span>
+        <h1>{title}</h1>
+        <p class="guide-lead">{description}</p>
+        <div class="guide-meta">
+          <time datetime={pubDate.toISOString()}>
+            {pubDate.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}
+          </time>
+          {readingTime && <span>{readingTime} min čtení</span>}
+          {updatedDate && <span class="updated">Aktualizováno: {updatedDate.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}</span>}
+        </div>
+      </div>
+
+      <div class="guide-layout">
+        <div class="prose"><Content /></div>
+        {tags.length > 0 && (
+          <aside class="guide-sidebar">
+            <div class="sidebar-tags">
+              <h4 class="sidebar-label">Témata</h4>
+              <div class="tags-list">
+                {tags.map(tag => <span class="tag">{tag}</span>)}
+              </div>
+            </div>
+          </aside>
+        )}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .guide-hero { width: 100%; max-height: 400px; overflow: hidden; }
+  .guide-hero img { width: 100%; height: 100%; object-fit: cover; }
+  .guide-wrap { padding-top: calc(72px + 2rem); padding-bottom: 5rem; }
+  .breadcrumb { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+  .breadcrumb a { color: var(--text-muted); } .breadcrumb a:hover { color: var(--accent); }
+  .cat-badge { display: inline-block; background: var(--sky-light); color: var(--sky-hover); font-family: var(--font-sans); font-size: 0.75rem; font-weight: 600; padding: 0.25rem 0.75rem; border-radius: 100px; margin-bottom: 0.75rem; }
+  h1 { margin-bottom: 0.75rem; }
+  .guide-lead { font-size: 1.1rem; color: var(--text-muted); margin-bottom: 1rem; max-width: 60ch; }
+  .guide-meta { display: flex; gap: 1rem; font-size: 0.85rem; color: var(--text-muted); margin-bottom: 2.5rem; flex-wrap: wrap; }
+  .updated { color: var(--text-dim); }
+  .guide-layout { display: grid; grid-template-columns: 1fr; gap: 3rem; }
+  @media (min-width: 1024px) { .guide-layout { grid-template-columns: 1fr 260px; align-items: start; } }
+  .guide-sidebar { position: sticky; top: 96px; }
+  .sidebar-label { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-dim); margin-bottom: 0.75rem; font-family: var(--font-sans); }
+  .sidebar-tags { background: var(--bg-2); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem; }
+  .tags-list { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .tag { background: #fff; border: 1px solid var(--border-strong); color: var(--text-muted); font-size: 0.78rem; padding: 0.2rem 0.6rem; border-radius: 100px; }
+</style>
