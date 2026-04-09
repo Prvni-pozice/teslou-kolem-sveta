@@ -22,7 +22,6 @@ const continentDef = [
   { slug: 'ameriky', nameCs: 'Ameriky',  color: '#2cb67d' },
   { slug: 'afrika',  nameCs: 'Afrika',   color: '#f5a623' },
   { slug: 'evropa',  nameCs: 'Evropa',   color: '#4f7ef7' },
-  { slug: 'oceanie', nameCs: 'Oceánie',  color: '#7c3aed' },
 ];
 
 const storiesByContinent = continentDef.map(c => {
@@ -45,7 +44,7 @@ const visitedCountries = allCountries.filter(c => c.data.visited);
 
 <BaseLayout
   title="Teslou kolem světa — cestujeme elektrickým autem"
-  description="194 dní, 48 000 km, 5 kontinentů. Blog o cestě elektrickým autem kolem celého světa. Příběhy, průvodci a videa z výprav Teslou."
+  description="194 dní, 40 700 km, 5 kontinentů. Blog o cestě elektrickým autem kolem celého světa. Příběhy, průvodci a videa z výprav Teslou."
 >
   <!-- Schema: WebSite -->
   <script type="application/ld+json" slot="head" set:html={JSON.stringify({
@@ -53,7 +52,7 @@ const visitedCountries = allCountries.filter(c => c.data.visited);
     "@type": "WebSite",
     "name": "Teslou kolem světa",
     "url": "https://www.tesloukolemsveta.cz",
-    "description": "194 dní, 48 000 km, 5 kontinentů — elektrickým autem kolem celého světa.",
+    "description": "194 dní, 40 700 km, 5 kontinentů — elektrickým autem kolem celého světa.",
     "inLanguage": "cs",
     "publisher": {
       "@type": "Organization",
@@ -67,7 +66,7 @@ const visitedCountries = allCountries.filter(c => c.data.visited);
   })} />
 
   <Hero
-    totalKm={48000}
+    totalKm={40700}
     countriesCount={visitedCountries.length}
     storiesCount={allStories.length}
   />
