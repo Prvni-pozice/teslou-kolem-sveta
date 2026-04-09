@@ -3,17 +3,50 @@ interface Props {
   totalKm?: number;
   countriesCount?: number;
   storiesCount?: number;
+  heroImages?: string[];
 }
 
-const { totalKm = 48000, countriesCount = 14, storiesCount = 0 } = Astro.props;
+const {
+  totalKm = 48000,
+  countriesCount = 14,
+  storiesCount = 0,
+  heroImages = [],
+} = Astro.props;
+
+// Fallback slideshow images (best photos from the journey)
+const slides = heroImages.length > 0 ? heroImages : [
+  '/assets/stories/2024-08-zhangjiajie-avatar/001.webp',
+  '/assets/stories/2024-05-rive-maroc-poustni-rallye/001.webp',
+  '/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/001.webp',
+  '/assets/stories/2024-08-grand-canyon-arizona/001.webp',
+  '/assets/stories/2024-10-gruzie-tbilisi/001.webp',
+  '/assets/stories/2024-09-kazachstan-almaty/001.webp',
+  '/assets/stories/2024-11-zaver-80edays-barcelona/001.webp',
+];
+
+const n = slides.length;
+const interval = 6;          // seconds per slide (including 1s crossfade)
+const total = n * interval;  // full cycle duration
 ---
 
 <section class="hero" aria-labelledby="hero-title">
-  <div class="hero-bg" aria-hidden="true">
-    <div class="hero-gradient"></div>
-    <div class="hero-pattern"></div>
+
+  <!-- Slideshow background -->
+  <div class="hero-slides" aria-hidden="true">
+    {slides.map((src, i) => (
+      <img
+        src={src}
+        alt=""
+        class="hero-slide"
+        loading={i === 0 ? 'eager' : 'lazy'}
+        fetchpriority={i === 0 ? 'high' : undefined}
+        style={`animation-delay: ${i * interval}s; animation-duration: ${total}s;`}
+      />
+    ))}
+    <div class="hero-overlay"></div>
   </div>
 
+  <!-- Content -->
   <div class="container hero-inner">
     <div class="hero-content" data-reveal>
       <span class="hero-eyebrow">
@@ -26,18 +59,18 @@ const { totalKm = 48000, countriesCount = 14, storiesCount = 0 } = Astro.props;
       </h1>
 
       <p class="hero-lead">
-        Cestujeme elektrickým autem, nabíjíme v divočině a dokumentujeme každý
-        kilometr. Průvodce, příběhy a videa pro všechny, kdo chtějí cestovat na elektřinu.
+        194 dní. 48 000 km. 5 kontinentů. Elektrickým autem kolem celého světa —
+        od Barcelony přes Maroko, Ameriku, Čínu a Střední Asii zpět do Evropy.
       </p>
 
       <div class="hero-actions">
-        <a href="/pribehy/" class="btn btn-primary">
+        <a href="/pribehy/" class="btn btn-hero-primary">
           Číst příběhy
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
             <path d="M5 12h14M12 5l7 7-7 7"/>
           </svg>
         </a>
-        <a href="/trasa/" class="btn btn-outline">Naše trasa</a>
+        <a href="/trasa/" class="btn btn-hero-outline">Naše trasa</a>
       </div>
     </div>
 
@@ -51,114 +84,131 @@ const { totalKm = 48000, countriesCount = 14, storiesCount = 0 } = Astro.props;
         <span class="stat-label">zemí navštíveno</span>
       </div>
       <div class="stat-card">
-        <span class="stat-number">{storiesCount || '∞'}</span>
-        <span class="stat-label">příběhů a průvodců</span>
+        <span class="stat-number">{storiesCount}</span>
+        <span class="stat-label">článků a průvodců</span>
       </div>
     </div>
   </div>
 
-  <!-- Decorative road line -->
-  <div class="hero-road" aria-hidden="true"></div>
+  <!-- Scroll indicator -->
+  <div class="hero-scroll" aria-hidden="true">
+    <span class="scroll-dot"></span>
+  </div>
 </section>
 
-<style>
+<style define:vars={{ total: `${total}s`, n: String(n) }}>
   .hero {
     position: relative;
-    min-height: min(90vh, 680px);
+    min-height: min(92vh, 720px);
     display: flex;
     align-items: center;
-    padding-top: 72px; /* header height */
+    padding-top: 72px;
     overflow: hidden;
+    color: #fff;
   }
 
-  /* Background */
-  .hero-bg {
+  /* ── Slideshow ── */
+  .hero-slides {
     position: absolute;
     inset: 0;
     z-index: 0;
   }
 
-  .hero-gradient {
+  .hero-slide {
     position: absolute;
     inset: 0;
-    background:
-      radial-gradient(ellipse 80% 60% at 60% 20%, rgba(14, 165, 233, 0.08) 0%, transparent 65%),
-      radial-gradient(ellipse 50% 40% at 20% 80%, rgba(245, 158, 11, 0.05) 0%, transparent 60%),
-      linear-gradient(180deg, #f0f9ff 0%, #ffffff 60%);
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    opacity: 0;
+    animation: heroFade var(--total) ease-in-out infinite;
+    will-change: opacity;
   }
 
-  .hero-pattern {
+  /* Slow zoom-in while visible for "life" feel */
+  @keyframes heroFade {
+    0%                        { opacity: 0;   transform: scale(1.05); }
+    4%                        { opacity: 1;   transform: scale(1.05); }
+    13%                       { opacity: 1;   transform: scale(1); }
+    17%                       { opacity: 0;   transform: scale(1); }
+    100%                      { opacity: 0;   transform: scale(1.05); }
+  }
+
+  .hero-overlay {
     position: absolute;
     inset: 0;
-    background-image:
-      radial-gradient(circle, rgba(14, 165, 233, 0.08) 1px, transparent 1px);
-    background-size: 32px 32px;
-    opacity: 0.6;
+    background: linear-gradient(
+      135deg,
+      rgba(0, 0, 0, 0.62) 0%,
+      rgba(0, 0, 0, 0.35) 60%,
+      rgba(0, 0, 0, 0.5) 100%
+    );
   }
 
-  /* Inner */
+  /* ── Inner layout ── */
   .hero-inner {
     position: relative;
     z-index: 1;
     display: grid;
     grid-template-columns: 1fr;
     gap: 3rem;
-    padding-block: 4rem;
+    padding-block: 4.5rem 5rem;
     align-items: center;
   }
 
   @media (min-width: 900px) {
-    .hero-inner {
-      grid-template-columns: 1fr 340px;
-      gap: 4rem;
-    }
+    .hero-inner { grid-template-columns: 1fr 300px; gap: 4rem; }
   }
 
-  /* Content */
+  /* ── Content ── */
   .hero-eyebrow {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
     font-family: var(--font-sans);
-    font-size: 0.8rem;
-    font-weight: 600;
-    letter-spacing: 0.1em;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--accent);
+    color: rgba(255,255,255,0.7);
     margin-bottom: 1.25rem;
   }
 
   .eyebrow-dot {
-    width: 8px;
-    height: 8px;
+    width: 7px;
+    height: 7px;
     border-radius: 50%;
-    background: var(--accent);
+    background: var(--sky);
     animation: pulse 2.5s ease-in-out infinite;
+    flex-shrink: 0;
   }
 
   @keyframes pulse {
     0%, 100% { opacity: 1; transform: scale(1); }
-    50%       { opacity: 0.5; transform: scale(0.7); }
+    50%       { opacity: 0.4; transform: scale(0.65); }
   }
 
   .hero-title {
-    font-size: clamp(2.5rem, 6vw, 4rem);
-    line-height: 1.1;
+    font-size: clamp(2.6rem, 6vw, 4.2rem);
+    line-height: 1.08;
     margin-bottom: 1.25rem;
-    color: var(--text-heading);
+    color: #fff;
+    text-shadow: 0 2px 24px rgba(0,0,0,0.3);
   }
 
   .hero-title em {
     font-style: normal;
-    color: var(--accent);
+    color: var(--sky);
   }
 
   .hero-lead {
-    font-size: clamp(1rem, 2vw, 1.15rem);
-    color: var(--text-muted);
+    font-size: clamp(1rem, 2vw, 1.1rem);
+    color: rgba(255,255,255,0.82);
     line-height: 1.7;
     margin-bottom: 2rem;
-    max-width: 54ch;
+    max-width: 52ch;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.25);
   }
 
   .hero-actions {
@@ -167,61 +217,128 @@ const { totalKm = 48000, countriesCount = 14, storiesCount = 0 } = Astro.props;
     flex-wrap: wrap;
   }
 
-  /* Stats */
+  .btn-hero-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--accent);
+    color: #fff;
+    border: 2px solid var(--accent);
+    padding: 0.7rem 1.5rem;
+    border-radius: var(--radius);
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background var(--duration) var(--ease), transform var(--duration) var(--ease), box-shadow var(--duration) var(--ease);
+  }
+  .btn-hero-primary:hover {
+    background: var(--sky-hover);
+    border-color: var(--sky-hover);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(14,165,233,0.4);
+  }
+
+  .btn-hero-outline {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255,255,255,0.12);
+    color: #fff;
+    border: 1.5px solid rgba(255,255,255,0.45);
+    padding: 0.7rem 1.5rem;
+    border-radius: var(--radius);
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    backdrop-filter: blur(4px);
+    transition: background var(--duration) var(--ease), border-color var(--duration) var(--ease);
+  }
+  .btn-hero-outline:hover {
+    background: rgba(255,255,255,0.22);
+    border-color: rgba(255,255,255,0.75);
+  }
+
+  /* ── Stats ── */
   .hero-stats {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 0.75rem;
   }
 
   .stat-card {
-    background: #fff;
-    border: 1px solid var(--border);
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.2);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
     border-radius: var(--radius-lg);
-    padding: 1.25rem 1.5rem;
-    box-shadow: var(--shadow);
+    padding: 1.1rem 1.4rem;
     display: flex;
     flex-direction: column;
-    gap: 0.2rem;
-    transition: box-shadow var(--duration) var(--ease), transform var(--duration) var(--ease);
+    gap: 0.15rem;
+    transition: background var(--duration) var(--ease), transform var(--duration) var(--ease);
   }
 
   .stat-card:hover {
-    box-shadow: var(--shadow-lg);
-    transform: translateX(4px);
+    background: rgba(255,255,255,0.18);
+    transform: translateX(3px);
   }
 
   .stat-number {
     font-family: var(--font-sans);
     font-weight: 800;
-    font-size: 1.75rem;
-    color: var(--accent);
+    font-size: 1.65rem;
+    color: var(--sky);
     line-height: 1;
+    text-shadow: 0 0 20px rgba(14,165,233,0.4);
   }
 
   .stat-label {
-    font-size: 0.85rem;
-    color: var(--text-muted);
+    font-size: 0.82rem;
+    color: rgba(255,255,255,0.65);
   }
 
-  /* Road decoration */
-  .hero-road {
+  /* ── Scroll indicator ── */
+  .hero-scroll {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 3px;
-    background: linear-gradient(90deg,
-      transparent 0%,
-      var(--sky-mid) 20%,
-      var(--accent) 50%,
-      var(--amber) 80%,
-      transparent 100%
-    );
-    opacity: 0.4;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+  }
+
+  .scroll-dot {
+    display: block;
+    width: 26px;
+    height: 40px;
+    border: 2px solid rgba(255,255,255,0.4);
+    border-radius: 13px;
+    position: relative;
+  }
+
+  .scroll-dot::after {
+    content: '';
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 4px;
+    height: 8px;
+    background: rgba(255,255,255,0.7);
+    border-radius: 2px;
+    animation: scrollBounce 1.8s ease-in-out infinite;
+  }
+
+  @keyframes scrollBounce {
+    0%, 100% { transform: translateX(-50%) translateY(0); opacity: 1; }
+    80%       { transform: translateX(-50%) translateY(12px); opacity: 0; }
   }
 
   @media (prefers-reduced-motion: reduce) {
+    .hero-slide { animation: none; opacity: 0; }
+    .hero-slide:first-child { opacity: 1; }
     .eyebrow-dot { animation: none; }
+    .scroll-dot::after { animation: none; }
   }
 </style>

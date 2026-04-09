@@ -1,0 +1,194 @@
+---
+/**
+ * CountriesTeaser — horizontálně scrollovatelný přehled navštívených zemí
+ */
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  countries: CollectionEntry<'countries'>[];
+}
+
+const { countries } = Astro.props;
+
+const visited = countries
+  .filter(c => c.data.visited)
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const continentColors: Record<string, string> = {
+  evropa:  '#4f7ef7',
+  asie:    '#e85d4a',
+  afrika:  '#f5a623',
+  ameriky: '#2cb67d',
+  oceanie: '#7c3aed',
+};
+---
+
+<section class="countries-teaser" aria-labelledby="countries-heading">
+  <div class="container">
+    <div class="section-header" data-reveal>
+      <h2 id="countries-heading">Navštívené země</h2>
+      <p>{visited.length} zemí na cestě kolem světa</p>
+    </div>
+  </div>
+
+  <div class="scroll-track-wrap">
+    <div class="scroll-track" role="list">
+      {visited.map(country => (
+        <a
+          href={`/zeme/${country.slug}/`}
+          class="country-chip"
+          role="listitem"
+          style={`--chip-color: ${continentColors[country.data.continent] ?? 'var(--accent)'}`}
+        >
+          <span class="chip-dot" aria-hidden="true"></span>
+          <span class="chip-name">{country.data.nameCs}</span>
+          {country.data.storyCount > 0 && (
+            <span class="chip-count" aria-label={`${country.data.storyCount} článků`}>
+              {country.data.storyCount}
+            </span>
+          )}
+        </a>
+      ))}
+    </div>
+    <div class="scroll-fade-left"  aria-hidden="true"></div>
+    <div class="scroll-fade-right" aria-hidden="true"></div>
+  </div>
+
+  <div class="container">
+    <div class="legend" data-reveal>
+      {Object.entries(continentColors).map(([slug, color]) => (
+        <a href={`/kontinenty/${slug}/`} class="legend-item">
+          <span class="legend-dot" style={`background: ${color}`} aria-hidden="true"></span>
+          <span class="legend-label">{{
+            evropa: 'Evropa', asie: 'Asie', afrika: 'Afrika',
+            ameriky: 'Ameriky', oceanie: 'Oceánie',
+          }[slug as string]}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
+
+<style>
+  .countries-teaser {
+    padding-block: 3.5rem;
+    background: var(--bg-2);
+    border-top: 1px solid var(--border);
+    overflow: hidden;
+  }
+
+  .section-header { margin-bottom: 1.75rem; }
+
+  .scroll-track-wrap {
+    position: relative;
+    margin-bottom: 1.5rem;
+  }
+
+  .scroll-track {
+    display: flex;
+    gap: 0.6rem;
+    overflow-x: auto;
+    padding: 0.5rem var(--space-md) 0.75rem;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+  }
+
+  .scroll-track::-webkit-scrollbar { display: none; }
+
+  .country-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: #fff;
+    border: 1.5px solid var(--border);
+    border-radius: 100px;
+    padding: 0.35rem 0.85rem 0.35rem 0.65rem;
+    font-family: var(--font-sans);
+    font-size: 0.83rem;
+    font-weight: 500;
+    color: var(--text);
+    text-decoration: none;
+    white-space: nowrap;
+    scroll-snap-align: start;
+    flex-shrink: 0;
+    transition:
+      border-color var(--duration) var(--ease),
+      box-shadow var(--duration) var(--ease),
+      transform var(--duration) var(--ease);
+  }
+
+  .country-chip:hover {
+    border-color: var(--chip-color);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--chip-color) 15%, transparent);
+    transform: translateY(-1px);
+    color: var(--text-heading);
+  }
+
+  .chip-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--chip-color);
+    flex-shrink: 0;
+  }
+
+  .chip-count {
+    font-size: 0.7rem;
+    background: var(--bg-2);
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    padding: 0 0.4rem;
+    color: var(--text-dim);
+    line-height: 1.5;
+  }
+
+  .scroll-fade-left,
+  .scroll-fade-right {
+    position: absolute;
+    top: 0; bottom: 0;
+    width: 3rem;
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  .scroll-fade-left {
+    left: 0;
+    background: linear-gradient(to right, var(--bg-2), transparent);
+  }
+
+  .scroll-fade-right {
+    right: 0;
+    background: linear-gradient(to left, var(--bg-2), transparent);
+  }
+
+  /* Legend */
+  .legend {
+    display: flex;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .legend-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    font-family: var(--font-sans);
+    transition: color var(--duration) var(--ease);
+  }
+
+  .legend-item:hover { color: var(--text); }
+
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .legend-label { font-weight: 500; }
+</style>

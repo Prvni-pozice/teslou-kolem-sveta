@@ -3,26 +3,49 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Hero from '../components/home/Hero.astro';
 import FeaturedStories from '../components/home/FeaturedStories.astro';
 import ContinentsSection from '../components/home/ContinentsSection.astro';
-import YouTubeSection from '../components/home/YouTubeSection.astro';
+import ContinentBest from '../components/home/ContinentBest.astro';
+import CountriesTeaser from '../components/home/CountriesTeaser.astro';
 import { getCollection } from 'astro:content';
 
 const allStories = await getCollection('stories', ({ data }) => !data.draft);
 const sortedStories = allStories.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-// Prefer featured journey stories; fill with latest if needed
-const featured = sortedStories.filter(s => s.data.featured);
-const latestStories = featured.length >= 3
-  ? featured.slice(0, 6)
-  : [...featured, ...sortedStories.filter(s => !s.data.featured && s.data.category === 'cesta')].slice(0, 6);
+
+// Featured cesta articles for the top grid
+const featuredJourney = sortedStories.filter(s => s.data.featured && s.data.category === 'cesta');
+const latestStories = featuredJourney.length >= 3
+  ? featuredJourney.slice(0, 6)
+  : [...featuredJourney, ...sortedStories.filter(s => !s.data.featured && s.data.category === 'cesta')].slice(0, 6);
+
+// Best article per continent (prefer featured cesta, fall back to any featured)
+const continentDef = [
+  { slug: 'asie',    nameCs: 'Asie',     color: '#e85d4a' },
+  { slug: 'ameriky', nameCs: 'Ameriky',  color: '#2cb67d' },
+  { slug: 'afrika',  nameCs: 'Afrika',   color: '#f5a623' },
+  { slug: 'evropa',  nameCs: 'Evropa',   color: '#4f7ef7' },
+  { slug: 'oceanie', nameCs: 'Oceánie',  color: '#7c3aed' },
+];
+
+const storiesByContinent = continentDef.map(c => {
+  const pool = allStories.filter(s => s.data.continent === c.slug);
+  const story =
+    pool.find(s => s.data.featured && s.data.category === 'cesta') ??
+    pool.find(s => s.data.featured) ??
+    pool.find(s => s.data.heroImage) ??
+    pool[0] ??
+    null;
+  return { ...c, story };
+}).filter(c => c.story !== null);
 
 const allContinents = await getCollection('continents', ({ data }) => !data.draft);
 const sortedContinents = allContinents.sort((a, b) => a.data.sortOrder - b.data.sortOrder);
 
-const allCountries = await getCollection('countries', ({ data }) => data.visited);
+const allCountries = await getCollection('countries');
+const visitedCountries = allCountries.filter(c => c.data.visited);
 ---
 
 <BaseLayout
   title="Teslou kolem světa — cestujeme elektrickým autem"
-  description="Blog o cestování elektrickým autem po světě. Příběhy, průvodci, galerie a videa z výprav Teslou napříč kontinenty."
+  description="194 dní, 48 000 km, 5 kontinentů. Blog o cestě elektrickým autem kolem celého světa. Příběhy, průvodci a videa z výprav Teslou."
 >
   <!-- Schema: WebSite -->
   <script type="application/ld+json" slot="head" set:html={JSON.stringify({
@@ -30,7 +53,7 @@ const allCountries = await getCollection('countries', ({ data }) => data.visited
     "@type": "WebSite",
     "name": "Teslou kolem světa",
     "url": "https://www.tesloukolemsveta.cz",
-    "description": "Blog o cestování elektrickým autem — příběhy, průvodci a videa z cest Teslou.",
+    "description": "194 dní, 48 000 km, 5 kontinentů — elektrickým autem kolem celého světa.",
     "inLanguage": "cs",
     "publisher": {
       "@type": "Organization",
@@ -45,13 +68,15 @@ const allCountries = await getCollection('countries', ({ data }) => data.visited
 
   <Hero
     totalKm={48000}
-    countriesCount={allCountries.length}
+    countriesCount={visitedCountries.length}
     storiesCount={allStories.length}
   />
 
   <FeaturedStories stories={latestStories} />
 
-  <ContinentsSection continents={sortedContinents} />
+  <ContinentBest storiesByContinent={storiesByContinent} />
 
-  <YouTubeSection />
+  <CountriesTeaser countries={allCountries} />
+
+  <ContinentsSection continents={sortedContinents} />
 </BaseLayout>

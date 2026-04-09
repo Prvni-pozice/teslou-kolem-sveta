@@ -1,0 +1,191 @@
+---
+/**
+ * ContinentBest — "Výběr z každého kontinentu"
+ * Shows the best featured article per continent as large editorial cards.
+ */
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  storiesByContinent: {
+    slug: string;
+    nameCs: string;
+    color: string;
+    story: CollectionEntry<'stories'> | null;
+  }[];
+}
+
+const { storiesByContinent } = Astro.props;
+
+const visibleItems = storiesByContinent.filter(c => c.story !== null);
+---
+
+<section class="cont-best section" aria-labelledby="cont-best-heading">
+  <div class="container">
+    <div class="section-header" data-reveal>
+      <h2 id="cont-best-heading">Výběr z každého kontinentu</h2>
+      <p>Nejatraktivnější místa naší cesty kolem světa</p>
+    </div>
+
+    <div class="cb-grid">
+      {visibleItems.map((item, i) => {
+        const s = item.story!;
+        const isLarge = i === 0 || i === 3;
+        return (
+          <a
+            href={`/pribehy/${s.slug}/`}
+            class:list={['cb-card', { 'cb-card--large': isLarge }]}
+            data-reveal
+            style={`transition-delay: ${i * 0.08}s`}
+          >
+            {s.data.heroImage && (
+              <img
+                src={s.data.heroImage}
+                alt={s.data.heroImageAlt ?? s.data.title}
+                loading="lazy"
+                class="cb-image"
+              />
+            )}
+            <div class="cb-overlay"></div>
+            <div class="cb-body">
+              <span class="cb-continent" style={`background: ${item.color}`}>
+                {item.nameCs}
+              </span>
+              <h3 class="cb-title">{s.data.title}</h3>
+              <p class="cb-desc">{s.data.description}</p>
+              <span class="cb-cta">Číst článek →</span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+
+    <div class="cb-footer">
+      <a href="/pribehy/" class="btn btn-outline">Všechny příběhy →</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .cont-best { background: var(--bg-base); }
+
+  /* Asymetric grid: 2 large + 3 small */
+  .cb-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  @media (min-width: 600px) {
+    .cb-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media (min-width: 900px) {
+    .cb-grid {
+      grid-template-columns: 1.6fr 1fr 1fr;
+      grid-template-rows: 320px 260px;
+    }
+    .cb-card--large:nth-child(1) {
+      grid-column: 1;
+      grid-row: 1 / 3;
+    }
+    .cb-card--large:nth-child(4) {
+      grid-column: 2 / 4;
+      grid-row: 2;
+    }
+  }
+
+  .cb-card {
+    position: relative;
+    display: block;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    text-decoration: none;
+    min-height: 240px;
+    background: var(--slate-800);
+    cursor: pointer;
+  }
+
+  .cb-card:hover .cb-image { transform: scale(1.06); }
+  .cb-card:hover .cb-cta { opacity: 1; transform: translateX(3px); }
+  .cb-card:hover .cb-overlay { background: rgba(0,0,0,0.3); }
+
+  .cb-image {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.55s cubic-bezier(0.25,0.46,0.45,0.94);
+  }
+
+  .cb-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0.78) 0%,
+      rgba(0,0,0,0.25) 55%,
+      rgba(0,0,0,0.05) 100%
+    );
+    transition: background 0.3s ease;
+  }
+
+  .cb-body {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1.5rem;
+    z-index: 1;
+  }
+
+  .cb-continent {
+    display: inline-block;
+    font-family: var(--font-sans);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 0.2rem 0.65rem;
+    border-radius: 100px;
+    margin-bottom: 0.6rem;
+    opacity: 0.9;
+  }
+
+  .cb-title {
+    font-size: clamp(1rem, 2.2vw, 1.25rem);
+    color: #fff;
+    margin: 0 0 0.4rem;
+    line-height: 1.3;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.4);
+  }
+
+  .cb-desc {
+    font-size: 0.82rem;
+    color: rgba(255,255,255,0.72);
+    margin: 0 0 0.75rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    max-width: 55ch;
+  }
+
+  .cb-cta {
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--sky);
+    opacity: 0.75;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    display: inline-block;
+  }
+
+  .cb-footer {
+    margin-top: 2rem;
+    text-align: center;
+  }
+</style>
