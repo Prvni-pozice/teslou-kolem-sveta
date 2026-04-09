@@ -163,6 +163,8 @@ Z přístavu Tan-tan jsme jeli do Legzira a nedovolili nám tam dostatečně nab
 Jeli jsme extrémně úsporně (vypnuli jsme klimu i větrání) a jeli v kopcích jen 45-60. 
 Dojeli jsme obě auta se spotřebou 11 kWh🤩. To jsme nikdo nevěřil, že je možné dosáhnout s plně naloženým naším Performance a ani se starým Modelem S!🤩🤩⚡️
 (jeho auto ma najeto přes 600.000 km)
+
+![Rodina s Teslou a Kia Niro před marockou kasabou](/images/IMG_4897.jpeg)
 Rafael je hlavní organizátor mezinárodních závodů #EcoGP a my z jeho závodů máme medaile, tak jsme aspoň v praxi ukázali, že jde dělat rekordy i v běžném africkém provozu..😅⚡️
 
 <div class="gallery">

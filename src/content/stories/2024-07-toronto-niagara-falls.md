@@ -59,6 +59,8 @@ Dnes je i toto místo zasvěcené umění.
 Od Montréalu nás například baví pan Pink, růžový, pryskyřicový nebo nafouknutý pupkatý chlapík, který parkouruje po střechách, kochá se v korunách stromů, nebo je v různých srandovních polohách. Je od francouzského umělce Philippe Katerine a podle něj oslavuje krásu v jednoduchosti a úžas v každodenním životě.
 V místním Tesla servisu nám prohlédli auto a půjčili nám náhradní Teslu s parádním automatem. Za to jsme jim vysázeli par třešní před prodejnou 🙂 a z města nás vyprovodil místní Tesla taxík.
 
+![Rodina s týmem Tesla servisu v Québecu](/images/c9507c33-rodina.jpeg)
+
 <video controls src="/assets/stories/2024-07-toronto-niagara-falls/video-005.mp4" style="max-width:100%"></video>
 
 Ještě ohlédnutí za Tesla srazem v Hamiltonu Tesla Owners Club of Ontario (official) v Kanadě. Bylo to opět moc příjemné setkání. 👍
