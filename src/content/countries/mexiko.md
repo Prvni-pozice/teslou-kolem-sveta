@@ -8,7 +8,7 @@ continent: ameriky
 visited: true
 visitedDate: 2024-08-03
 visitCount: 1
-evInfrastructure: basic
+evInfrastructure: limited
 chargerNetworks: ["Tesla Supercharger"]
 highlights: ["Překročení hranice z USA"]
 capital: "Mexico City"
