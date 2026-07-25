@@ -27,6 +27,7 @@ Thumbs.db
 # ─────────────────────────────────────────────
 # Facebook export (raw archive, may contain personal data)
 source-data/facebook-export/
+source-data/facebook-export-html/
 
 # YouTube local metadata snapshots
 source-data/youtube/

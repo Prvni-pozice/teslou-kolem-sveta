@@ -18,7 +18,7 @@ const evLabels: Record<string, string> = {
 ---
 
 <article class="country-card card">
-  <a href={`/zeme/${country.slug}/`} class="country-card-link" tabindex="-1" aria-hidden="true">
+  <a href={`/zeme/${country.id}/`} class="country-card-link" tabindex="-1" aria-hidden="true">
     <div class="country-image-wrap">
       {heroImage
         ? <img class="card-img" src={heroImage} alt={heroImageAlt ?? `${nameCs}`} loading="lazy" />
@@ -40,7 +40,7 @@ const evLabels: Record<string, string> = {
   <div class="card-body">
     <div class="country-header-row">
       <h3 class="country-name">
-        <a href={`/zeme/${country.slug}/`}>{nameCs}</a>
+        <a href={`/zeme/${country.id}/`}>{nameCs}</a>
       </h3>
       {evInfrastructure && (
         <Badge variant={evColors[evInfrastructure] as any}>{evLabels[evInfrastructure]}</Badge>

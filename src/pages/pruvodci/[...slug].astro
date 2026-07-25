@@ -1,17 +1,17 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const guides = await getCollection('guides', ({ data }) => !data.draft);
   return guides.map(guide => ({
-    params: { slug: guide.slug },
+    params: { slug: guide.id },
     props: { guide },
   }));
 }
 
 const { guide } = Astro.props;
-const { Content } = await guide.render();
+const { Content } = await render(guide);
 const { title, description, pubDate, updatedDate, category, tags, readingTime, heroImage, heroImageAlt } = guide.data;
 
 const categoryLabels: Record<string, string> = {

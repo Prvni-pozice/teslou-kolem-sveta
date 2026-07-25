@@ -20,7 +20,7 @@ const formattedDate = pubDate.toLocaleDateString('cs-CZ', {
 ---
 
 <article class:list={['story-card card', { 'story-card--featured': featured }]}>
-  <a href={`/pribehy/${story.slug}/`} class="card-link" tabindex="-1" aria-hidden="true">
+  <a href={`/pribehy/${story.id}/`} class="card-link" tabindex="-1" aria-hidden="true">
     <div class="card-image-wrap">
       {heroImage
         ? <img class="card-img" src={heroImage} alt={heroImageAlt ?? title} loading="lazy" />
@@ -39,7 +39,7 @@ const formattedDate = pubDate.toLocaleDateString('cs-CZ', {
     </div>
 
     <h3 class="card-title">
-      <a href={`/pribehy/${story.slug}/`}>{title}</a>
+      <a href={`/pribehy/${story.id}/`}>{title}</a>
     </h3>
 
     <p class="card-desc">{description}</p>

@@ -34,7 +34,7 @@ const continentColors: Record<string, string> = {
     <div class="scroll-track" role="list">
       {visited.map(country => (
         <a
-          href={`/zeme/${country.slug}/`}
+          href={`/zeme/${country.id}/`}
           class="country-chip"
           role="listitem"
           style={`--chip-color: ${continentColors[country.data.continent] ?? 'var(--accent)'}`}

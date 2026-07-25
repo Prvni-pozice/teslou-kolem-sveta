@@ -11,14 +11,14 @@ export async function GET(ctx: APIContext) {
       title:       s.data.title,
       description: s.data.description,
       pubDate:     s.data.pubDate,
-      link:        `/pribehy/${s.slug}/`,
+      link:        `/pribehy/${s.id}/`,
       categories:  s.data.tags,
     })),
     ...guides.map(g => ({
       title:       g.data.title,
       description: g.data.description,
       pubDate:     g.data.pubDate,
-      link:        `/pruvodci/${g.slug}/`,
+      link:        `/pruvodci/${g.id}/`,
       categories:  g.data.tags,
     })),
   ].sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());

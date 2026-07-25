@@ -2,25 +2,25 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import StoryCard from '../../components/travel/StoryCard.astro';
 import CountryCard from '../../components/travel/CountryCard.astro';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const continents = await getCollection('continents', ({ data }) => !data.draft);
   return continents.map(cont => ({
-    params: { slug: cont.slug },
+    params: { slug: cont.id },
     props: { cont },
   }));
 }
 
 const { cont } = Astro.props;
-const { Content } = await cont.render();
+const { Content } = await render(cont);
 const { nameCs, description, heroImage, heroImageAlt, heroCaption,
         countriesVisited, totalKm, highlights } = cont.data;
 
-const allStories = await getCollection('stories', ({ data }) => !data.draft && data.continent === cont.slug);
+const allStories = await getCollection('stories', ({ data }) => !data.draft && data.continent === cont.id);
 const sortedStories = allStories.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const allCountries = await getCollection('countries', ({ data }) => !data.draft && data.continent === cont.slug);
+const allCountries = await getCollection('countries', ({ data }) => !data.draft && data.continent === cont.id);
 const sortedCountries = allCountries.sort((a, b) => a.data.sortOrder - b.data.sortOrder);
 ---
 

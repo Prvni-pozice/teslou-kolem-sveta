@@ -29,29 +29,29 @@ export async function GET(_ctx: APIContext): Promise<Response> {
 
   const dynamicPages = [
     ...stories.map(p => ({
-      url: `${site}/pribehy/${p.slug}/`,
+      url: `${site}/pribehy/${p.id}/`,
       priority: '0.8',
       changefreq: 'monthly',
       lastmod: (p.data.updatedDate ?? p.data.pubDate).toISOString().split('T')[0],
     })),
     ...countries.map(p => ({
-      url: `${site}/zeme/${p.slug}/`,
+      url: `${site}/zeme/${p.id}/`,
       priority: '0.8',
       changefreq: 'monthly',
     })),
     ...continents.map(p => ({
-      url: `${site}/kontinenty/${p.slug}/`,
+      url: `${site}/kontinenty/${p.id}/`,
       priority: '0.8',
       changefreq: 'monthly',
     })),
     ...guides.map(p => ({
-      url: `${site}/pruvodci/${p.slug}/`,
+      url: `${site}/pruvodci/${p.id}/`,
       priority: '0.7',
       changefreq: 'monthly',
       lastmod: (p.data.updatedDate ?? p.data.pubDate).toISOString().split('T')[0],
     })),
     ...galleries.map(p => ({
-      url: `${site}/galerie/${p.slug}/`,
+      url: `${site}/galerie/${p.id}/`,
       priority: '0.6',
       changefreq: 'monthly',
     })),

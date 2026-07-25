@@ -25,10 +25,10 @@ const colors: Record<string, string> = {
       <div class="continents-list">
         {sorted.map((cont, i) => (
           <a
-            href={`/kontinenty/${cont.slug}/`}
+            href={`/kontinenty/${cont.id}/`}
             class="continent-row"
             data-reveal
-            style={`transition-delay: ${i * 0.06}s; --c: ${colors[cont.slug] ?? 'var(--accent)'}`}
+            style={`transition-delay: ${i * 0.06}s; --c: ${colors[cont.id] ?? 'var(--accent)'}`}
           >
             <div class="cont-color-bar" aria-hidden="true"></div>
             <div class="cont-info">

@@ -32,7 +32,7 @@ const visibleItems = storiesByContinent.filter(c => c.story !== null);
         const isLarge = i === 0 || i === 3;
         return (
           <a
-            href={`/pribehy/${s.slug}/`}
+            href={`/pribehy/${s.id}/`}
             class:list={['cb-card', { 'cb-card--large': isLarge }]}
             data-reveal
             style={`transition-delay: ${i * 0.08}s`}

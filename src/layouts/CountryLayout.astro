@@ -19,7 +19,7 @@ const {
 
 const allStories = await getCollection('stories', ({ data }) => !data.draft);
 const countryStories = allStories
-  .filter(s => s.data.country === isoCode || s.data.relatedCountry === country.slug)
+  .filter(s => s.data.country === isoCode || s.data.relatedCountry === country.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const evLabels: Record<string, string> = {

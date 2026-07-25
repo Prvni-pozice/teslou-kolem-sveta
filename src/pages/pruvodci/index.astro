@@ -26,7 +26,7 @@ const categoryLabels: Record<string, string> = {
       {sorted.length > 0 ? (
         <div class="guides-list">
           {sorted.map((guide, i) => (
-            <a href={`/pruvodci/${guide.slug}/`} class="guide-row card" data-reveal style={`transition-delay: ${i * 0.05}s`}>
+            <a href={`/pruvodci/${guide.id}/`} class="guide-row card" data-reveal style={`transition-delay: ${i * 0.05}s`}>
               <div class="guide-cat">
                 <span class="cat-badge">{categoryLabels[guide.data.category] ?? guide.data.category}</span>
                 {guide.data.difficulty && <span class="diff-badge diff-{guide.data.difficulty}">{guide.data.difficulty}</span>}

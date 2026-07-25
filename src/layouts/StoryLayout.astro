@@ -15,9 +15,17 @@ const { title, description, pubDate, updatedDate, category, tags,
         prevSlug, nextSlug } = story.data;
 
 const allStories = await getCollection('stories', ({ data }) => !data.draft);
+
+/* Deterministický výběr: stejný článek → vždy stejné tipy (build je reprodukovatelný).
+   Pořadí je odvozené z hashe páru id, takže se napříč články liší. */
+const pairHash = (a: string, b: string) => {
+  let h = 0;
+  for (const ch of a + '|' + b) h = (h * 31 + ch.charCodeAt(0)) | 0;
+  return h >>> 0;
+};
 const related = allStories
-  .filter(s => s.slug !== story.slug && (s.data.continent === continent || s.data.country === country))
-  .sort(() => Math.random() - 0.5)
+  .filter(s => s.id !== story.id && (s.data.continent === continent || s.data.country === country))
+  .sort((a, b) => pairHash(story.id, a.id) - pairHash(story.id, b.id))
   .slice(0, 3);
 
 const formattedDate = pubDate.toLocaleDateString('cs-CZ', {

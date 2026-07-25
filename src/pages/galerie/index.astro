@@ -21,7 +21,7 @@ const sorted = galleries.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDat
         <div class="gallery-grid">
           {sorted.map((gal, i) => (
             <a
-              href={`/galerie/${gal.slug}/`}
+              href={`/galerie/${gal.id}/`}
               class="gallery-card card"
               data-reveal
               style={`transition-delay: ${i * 0.06}s`}

@@ -26,7 +26,7 @@ const continentColors: Record<string, string> = {
     <div class="continents-grid">
       {continents.map((cont, i) => (
         <a
-          href={`/kontinenty/${cont.slug}/`}
+          href={`/kontinenty/${cont.id}/`}
           class="continent-card"
           data-reveal
           style={`transition-delay: ${i * 0.07}s; --cont-color: ${continentColors[cont.data.slug] ?? 'var(--accent)'}`}

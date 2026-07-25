@@ -1,4 +1,6 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { glob } from 'astro/loaders';
+import { z } from 'astro/zod';
 
 /* ─── Shared sub-schemas ─── */
 
@@ -31,7 +33,7 @@ const geoFields = {
    URL:  /pribehy/YYYY-MM-cesta-do-norska/
    ───────────────────────────────────────────────────────────── */
 const stories = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/stories' }),
   schema: z.object({
     ...seoFields,
     ...heroFields,
@@ -79,7 +81,7 @@ const stories = defineCollection({
    URL:  /zeme/norsko/
    ───────────────────────────────────────────────────────────── */
 const countries = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/countries' }),
   schema: z.object({
     ...seoFields,
     ...heroFields,
@@ -116,7 +118,7 @@ const countries = defineCollection({
    URL:  /kontinenty/evropa/
    ───────────────────────────────────────────────────────────── */
 const continents = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/continents' }),
   schema: z.object({
     ...seoFields,
     ...heroFields,
@@ -136,7 +138,7 @@ const continents = defineCollection({
    URL:  /pruvodci/nabijecky-v-norsku/
    ───────────────────────────────────────────────────────────── */
 const guides = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/guides' }),
   schema: z.object({
     ...seoFields,
     ...heroFields,
@@ -169,7 +171,7 @@ const guides = defineCollection({
    URL:  /trasa/ (all on one timeline page, detail optional)
    ───────────────────────────────────────────────────────────── */
 const routes = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/routes' }),
   schema: z.object({
     ...seoFields,
     ...heroFields,
@@ -198,7 +200,7 @@ const routes = defineCollection({
    URL:  /galerie/nordkapp-2023-fotky/
    ───────────────────────────────────────────────────────────── */
 const galleries = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.md', base: './src/content/galleries' }),
   schema: z.object({
     ...seoFields,
     ...heroFields,
@@ -231,7 +233,7 @@ const galleries = defineCollection({
    URL:  /videa/ (index), optional detail pages
    ───────────────────────────────────────────────────────────── */
 const videos = defineCollection({
-  type: 'data',
+  loader: glob({ pattern: '**/[^_]*.json', base: './src/content/videos' }),
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
