@@ -1,37 +1,57 @@
 ---
-title: "Průvodce Střední Asií: Hranice, měny a přežití bez navigace"
-description: "Kazachstan, Uzbekistan, Kyrgyzstan -- jak se plati, kde nabijet, jak prechazet hranice a proc se naucit slovicko nan."
+title: "Střední Asie: jak se přechází hranice a čím se platí"
+description: "Co čekat na přechodech mezi Kazachstánem a Uzbekistánem, proč pasažéři jdou jiným koridorem a která tři slova vám ve Střední Asii vystačí."
 pubDate: 2024-09-23
 category: pruvodce
 continent: asie
 country: "KZ"
 tags: ["Střední Asie", "hranice", "Kazachstán", "Uzbekistán", "průvodce"]
+readingTime: 3
 draft: false
 importedFrom: facebook
 ---
 
-Minutový popis typického průjezdu hranicema ve stredni Asii. Nevíte dne ani hodiny, ale zatim mame docela stesti..😅 A kdo byste chtel ušetřit statisíce korun na neco podobného v Číně, tak si pusťte nas placeny kanál. Tam jsem nahral čtvrthodinový popis, jak to probíhá v Číně a co můžete a tim udelat. Pripadne poslete dotazy a doplnime jeste vice informaci. Stalo nas to neskutečně penez, nervu, casu, ale i prineslo informace, které nikdo nema..  Podpořte nás pripadne zde: https://herohero.co/tesl
+Praktické poznámky z přechodů ve Střední Asii — jak dlouho to trvá, co po vás chtějí, jak se platí a co si stačí zapamatovat z jazyka. Sbíráme to průběžně, protože každý přechod je trochu jiný.
 
-Tak jsme si dnes po cestě i trochu zaúřadovali..😅
+## Typický průjezd hranicí
 
-Středoasijský slovníček přežití v 15ti sekundách😁.
-Jsme zrovna tesne u hranic s Uzbekistanem a i tam to je stejný výraz pro chleba - "nan". A nejak podobne to nazývali i Ujgurové na západě Ciny.
-A vsechny tyto národy delaji obdobně knedliky s různými naplnemi: "manty".
+Nevíte dne ani hodiny. Zatím máme docela štěstí, ale plánovat se to nedá. Na videu je minutový popis toho, jak typický průjezd hranicí ve Střední Asii vypadá.
 
-A nečekali jsme minimálně 2 veci:
-- ze takto daleko od domova maji nejpodobnější chutě pečiva i knedlíků
-- ze budeme tak hodne používat ruštinu a jeste navic rozumět😳.
+<video controls preload="none" src="/assets/stories/pruvodce-stredni-asie-hranice-platby/video-001.mp4" style="max-width:100%"></video>
 
-<video controls src="/assets/stories/pruvodce-stredni-asie-hranice-platby/video-002.mp4" style="max-width:100%"></video>
+Kdo byste chtěl ušetřit statisíce korun na něčem podobném v Číně, pusťte si náš placený kanál. Nahráli jsme tam čtvrthodinový popis toho, jak to probíhá v Číně a co s tím můžete udělat. Klidně nám pošlete dotazy a doplníme ještě víc informací. Stálo nás to neskutečně peněz, nervů a času — ale přineslo informace, které nikdo nemá. Podpořit nás můžete na [herohero](https://herohero.co/tesloukolemsveta).
 
-Trochu jiny přechod ve stredni Asii..🙈
-Měny jsou trochu jak na houpačce, resp. jen si zapamatovat měnu každé země, její přepočet a pak platební způsoby v zemi je docela mazec🙈. Teď je to zrovna směr: Kazachstan -> Uzbekistán.
-A minule jsem zapomnel zmínit, ze ostatni pasažéři vetsinou musi ven z auta a přechodem projit jiným koridorem🙈.
-Dosel jsem normalne dopredu, oslovil celnika a ten radeji delal, ze me nevidí..🙈🙈
-Pak jsem odchytl druhého, který zrovna pouštěl protisměr a svou "plynulou" ruštinou jsem vyrozuměl, že prostě budeme 3-4 hodiny koukat na zavřená vrata v našem směru. Pry nebude potreba nic než pas a techničák od auta. Držte palce, aby to tak bylo..🙏🏻🙏🏻
+A po cestě si dneska i trochu zaúřadujeme.
 
-Ps: včera jsme přidali dlouhé video o čínských hranicích na nas placený kanál:
-https://herohero.co/tesloukolemsveta
-Dekujeme všem za podporu!🙏🏻👍🏻
+## Středoasijský slovníček přežití
 
-<video controls src="/assets/stories/pruvodce-stredni-asie-hranice-platby/video-003.mp4" style="max-width:100%"></video>
+Jsme zrovna těsně u hranic s Uzbekistánem a vypadá to, že s pár slovy se dá dojít hodně daleko.
+
+| Slovo | Znamená | Kde platí |
+|---|---|---|
+| **nan** | chleba | Kazachstán, Uzbekistán — a podobně to nazývali i Ujgurové na západě Číny |
+| **manty** | knedlíky s různými náplněmi | všechny tyhle národy je dělají obdobně |
+
+Nečekali jsme přitom minimálně dvě věci: že takhle daleko od domova budou mít nejpodobnější chutě pečiva i knedlíků, a že budeme tak hodně používat ruštinu — a ještě jí navíc rozumět.
+
+<video controls preload="none" src="/assets/stories/pruvodce-stredni-asie-hranice-platby/video-002.mp4" style="max-width:100%"></video>
+
+## Měny a platby jsou houpačka
+
+Zapamatovat si měnu každé země, její přepočet a pak ještě platební způsoby, které v ní fungují, je docela mazec. Teď je to zrovna směr Kazachstán → Uzbekistán, takže se to celé mění znovu.
+
+## Co čekat na přechodu
+
+Minule jsem zapomněl zmínit jednu podstatnou věc: ostatní pasažéři většinou musí z auta a projít přechodem jiným koridorem.
+
+| Co | Jak to bylo |
+|---|---|
+| Čekání v našem směru | 3–4 hodiny koukání na zavřená vrata |
+| Doklady, které chtěli | prý nic než pas a techničák od auta |
+| Pasažéři | ven z auta, jiný koridor |
+
+Došel jsem normálně dopředu a oslovil celníka — ten raději dělal, že mě nevidí. Pak jsem odchytl druhého, který zrovna pouštěl protisměr, a svou „plynulou" ruštinou jsem vyrozuměl aspoň tohle. Držte palce, aby to tak bylo.
+
+Dlouhé video o čínských hranicích jsme přidali na náš placený kanál na [herohero](https://herohero.co/tesloukolemsveta). Děkujeme všem za podporu.
+
+<video controls preload="none" src="/assets/stories/pruvodce-stredni-asie-hranice-platby/video-003.mp4" style="max-width:100%"></video>

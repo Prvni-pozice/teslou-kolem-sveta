@@ -1,6 +1,6 @@
 ---
-title: "Uzbekistán: Samarkand, Buchara, Chiva a nejhloupější hranice světa"
-description: "Zlatá města hedvábné stezky — mešity, madrasy, 2500 let starý Khiva, a přechod hranic, který nás stál celou noc na parkovišti."
+title: "Uzbekistán: Samarkand, Buchara, Chiva a hranice z pekla"
+description: "Dvanáct hodin na přechodu do Uzbekistánu, pak Samarkand, Buchara a 2 500 let stará Chiva. A na konec noc v poušti u vyschlého Aralu."
 pubDate: 2024-09-26
 category: cesta
 continent: asie
@@ -8,268 +8,268 @@ country: "UZ"
 tags: ["Uzbekistán", "Samarkand", "Buchara", "Khiva", "hranice", "Hedvábná stezka"]
 featured: true
 heroImage: "/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/001.webp"
-heroImageAlt: "Uzbekistán: Samarkand, Buchara, Chiva a nejhloupější hranice světa"
-prevSlug: "2024-09-shaolin"
-nextSlug: "2024-10-aktau-kaspicke-more"
+heroImageAlt: "Zavřená vrata hraničního přechodu s ostnatým drátem a červeným světlem, pohled z auta za soumraku"
+heroCaption: "Přechod mezi Šymkentem a Taškentem. Za těmito vraty jsme strávili většinu noci."
+readingTime: 10
 draft: false
 importedFrom: facebook
 ---
 
-Trochu jiny přechod ve stredni Asii..🙈
-Měny jsou trochu jak na houpačce, resp. jen si zapamatovat měnu každé země, její přepočet a pak platební způsoby v zemi je docela mazec🙈. Teď je to zrovna směr: Kazachstan -> Uzbekistán.
-A minule jsem zapomnel zmínit, ze ostatni pasažéři vetsinou musi ven z auta a přechodem projit jiným koridorem🙈.
-Dosel jsem normalne dopredu, oslovil celnika a ten radeji delal, ze me nevidí..🙈🙈
-Pak jsem odchytl druhého, který zrovna pouštěl protisměr a svou "plynulou" ruštinou jsem vyrozuměl, že prostě budeme 3-4 hodiny koukat na zavřená vrata v našem směru. Pry nebude potreba nic než pas a techničák od auta. Držte palce, aby to tak bylo..🙏🏻🙏🏻
+Uzbekistán nám dal dvě velmi odlišné věci. Nejhorší hraniční přechod celé cesty a pak tři města, která si člověk zapamatuje na celý život. Tohle je zápis z obojího.
 
-![](/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/001.webp)
+## Přechody ve střední Asii: měny jak na houpačce
 
-Uzbekistán si drtivě urval 1. misto v nejhloupejsich a nejzbytecnejsich přechodech světa..🤯🤯🤯
-Včera jsme zveřejnili video, jak jsme po 18. hod dorazili na přechod mezi Shymkent a Tashkentem.
-Bylo tam max. 40-50 aut a byl zavřený průjezd. Postupně jsme pochopili, ze to otevírají kyvadlově a pak jeste vpouští dávky 8-12 aut.
-Hned pri příjezdu nam nekdo nabízel průjezd ihned za 100$🙈. Postupne slezl na 50$🙈.
-Vyměnili jsme penize, pro jistotu drobnější a špatně jsem z hlavy spočítal kurz, takže nám dali snad o polovinu horsi kurz🙈.
-Pasy nam kontrolovali až po pulnoci😳.
-Pro vstup pak chteli krome dalsi kontroly (a vsude si vas automaticky fotí) zaplatit cca 40,- Kč za nejakou registraci auta a pak jdete na 3. okénko, kde kontrolují porad to stejne, jestli jste uhradili ten poplatek a pak vas nechají na špinavý beton vyndat všechny vetsi věci z auta a ručně nanosit bokem na rentgen!
-Proste je nenapadlo, ze všude na světě, když uz delaji takto zbytečně přísné kontroly na hranici debility, tak i to maji jako linku v nějakém směru a lidé plynule prochází kolem a dávají tam veci a odebírají a postupují.
-Pred tímto musíte vyhnat ostatni pasažéry z auta (i deti) a musi projit jiným koridorem klidne takto ve 3 rano a kdyz je kolem uz celkem zima🙈🙈.
-Vsechny kontroly vlastne konci malým papirkem do ruky, na nem razítko a podpis.
-Nikdo ale neni schopen srozumitelně popsat proces, proste musíte jit podle ostatních a pripadne se vrátit.
-Uprimne, kdyz víte, ze přijedete včas a oni nejsou schopni za cca 10 hod protáhnout 50 aut v jednom směru, tak je to jen parta naprosto zbytečných ignorantů na naprosto zbytecne hranici (tady nas fakt nenapada, co by mohl kdo pasovat). A jediny vysledek je, ze si blokují turisticky rozvoj a budou i nadále chudý region. Kdo chce kam...
-V duchu jsme zurili a nadavali celou dobu, takze jestli nekde existuje peklo, tak vsichni vojáci a celníci z tohoto přechodu tam maji VIP vstupenku👍🏻😁. A jejich velitel speciální lože, protoze takto nejhloupeji organizovaný přechod vyžaduje skvělý kádrový profil a naprostou absenci kompetence.
-A za přechodem jsme hned museli zakoupit dalsi SIM, zaridit pojistku na auto a vybrat dalsi penize. Takze na hotel (17 km) jsme dorazili cca po 12 hod od příjezdu na hranici 😳😳.
-Ps: Rafael mel pred tim rekord "pouze" 6 hod z Běloruska.
+Ve střední Asii je logistika sama za sebe malé dobrodružství. Zapamatovat si měnu každé země, její přepočet a pak ještě platební způsoby v té zemi je docela mazec. Teď je to zrovna směr **Kazachstán → Uzbekistán**.
+
+A minule jsem zapomněl zmínit, že ostatní pasažéři většinou musí ven z auta a přechodem projít jiným koridorem. Došel jsem normálně dopředu, oslovil celníka — a ten radši dělal, že mě nevidí. Pak jsem odchytl druhého, který zrovna pouštěl protisměr, a svou „plynulou“ ruštinou jsem vyrozuměl, že prostě budeme tři až čtyři hodiny koukat na zavřená vrata v našem směru. Prý nebude potřeba nic než pas a techničák od auta. Držte palce, aby to tak bylo.
+
+Mimochodem, dlouhé video o čínských hranicích jsme přidali na náš placený kanál [herohero](https://herohero.co/tesloukolemsveta). Děkujeme všem za podporu.
+
+<video controls preload="none" src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/video-001.mp4" style="max-width:100%"></video>
+
+## Uzbekistán si drtivě urval první místo
+
+Na přechod mezi **Šymkentem a Taškentem** jsme dorazili po šesté večer. Bylo tam maximálně 40 až 50 aut a zavřený průjezd. Postupně jsme pochopili, že to otevírají kyvadlově a pak vpouští dávky po osmi až dvanácti autech.
+
+Hned při příjezdu nám někdo nabízel průjezd ihned za 100 dolarů, postupně slezl na 50. Vyměnili jsme peníze, pro jistotu drobnější, a špatně jsem z hlavy spočítal kurz — takže nám dali snad o polovinu horší.
+
+| Kdy | Co se dělo |
+|---|---|
+| po 18:00 | příjezd na přechod, 40–50 aut, zavřený průjezd |
+| po půlnoci | konečně kontrola pasů |
+| kolem 3:00 | vyhánění pasažérů z auta a ruční nošení věcí na rentgen |
+| po cca 12 hodinách | dojezd na hotel 17 km za hranicí |
+
+Pro vstup po nás kromě další kontroly — a všude si vás automaticky fotí — chtěli zaplatit asi **40 Kč** za nějakou registraci auta. Pak jdete na třetí okénko, kde kontrolují pořád to samé, jestli jste ten poplatek uhradili. A potom vás nechají na špinavý beton vyndat všechny větší věci z auta a ručně je nanosit bokem na rentgen.
+
+Prostě je nenapadlo, že všude na světě, když už dělají takhle zbytečně přísné kontroly na hranici debility, tak to mají aspoň jako linku v nějakém směru — lidé plynule prochází kolem, dávají tam věci, odebírají je a postupují. Před tím ale musíte vyhnat ostatní pasažéry z auta, i děti, a ti musí projít jiným koridorem. Klidně takhle ve tři ráno, kdy je kolem už celkem zima.
+
+Všechny kontroly vlastně končí malým papírkem do ruky, na něm razítko a podpis. Nikdo ale není schopen srozumitelně popsat proces — prostě musíte jít podle ostatních a případně se vrátit.
+
+Upřímně: když víte, že přijedete včas, a oni nejsou schopni za asi deset hodin protáhnout 50 aut v jednom směru, je to jen parta naprosto zbytečných ignorantů na naprosto zbytečné hranici. Tady nás fakt nenapadá, co by kdo mohl pašovat. A jediný výsledek je, že si blokují turistický rozvoj a budou i nadále chudý region.
+
+V duchu jsme zuřili a nadávali celou dobu, takže jestli někde existuje peklo, všichni vojáci a celníci z tohohle přechodu tam mají VIP vstupenku. A jejich velitel speciální lóži, protože takhle nejhloupěji organizovaný přechod vyžaduje skvělý kádrový profil a naprostou absenci kompetence.
+
+A za přechodem jsme hned museli zakoupit další SIM, zařídit pojistku na auto a vybrat další peníze. Takže na hotel, který byl 17 kilometrů daleko, jsme dorazili asi dvanáct hodin po příjezdu na hranici. Rafael měl přitom předtím rekord „pouze“ šest hodin z Běloruska.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/001.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/002.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/003.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/004.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/005.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/006.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/007.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/002.webp" alt="Uzbekistán a přechod hranic, září 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/003.webp" alt="Uzbekistán a přechod hranic, září 2024 (3)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/004.webp" alt="Uzbekistán a přechod hranic, září 2024 (4)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/005.webp" alt="Uzbekistán a přechod hranic, září 2024 (5)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/006.webp" alt="Uzbekistán a přechod hranic, září 2024 (6)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/007.webp" alt="Uzbekistán a přechod hranic, září 2024 (7)" loading="lazy" />
 </div>
 
-V Samarkandu jsme meli "ceske průvodce"😁
-Vsimli jsme si jejich profilu na FB, protoze byli zrovna v místech, kam míříme. A podarilo se osobne potkat, takze jsme po docela dlouhé době mluvili na nekoho dalšího česky..😄.
-Luboš toho ma procestováno opravdu hodně a spíš bysme řekli projito. Rad chodi i delsi trasy pěšky, takze bylo strašně zajimave poslouchat, jak nektera i "nase" místa ma pekne "prošlápnuté"👍🏻👍🏻.
-Sám začal popisovat, jak všude po světě se mu take dějí příběhy s lidmi, kteří jsou nesmírně laskaví a ochotni nezištně pomoci.
-A take se mu obcas něco nezdaří, ale cloveka to postupně "vyškolí", že je to prostě cena za dalsi zkušenost a vzdelani a mávne nad tím rukou..✨✨😄
+## V Samarkandu jsme měli české průvodce
 
-Kyrgyzská "horská" univerzita✨
-Profesor Myrza Karimov na první fotce měl nejlepší motivační proslov k vlastním studentům, co jsme zatím viděli. Upřímně - o to vice nás to prekvapilo zrovna v teto zemi👍🏻.
-V podstatě je nabádal, aby věřili svým snům a šli za nimi✨✨.
-A bylo to znát pak na jejich dotazech:
-Meli jste někde velké potíže?
-Chtěli jste to vzdát?
-Kde jste brali sílu to nevzdat?
-Jak si máme věřit?
-Jak to poznám?
-atd. .. 👍🏻😄
+Všimli jsme si jejich profilu na Facebooku, protože byli zrovna v místech, kam míříme. A podařilo se potkat se osobně, takže jsme po docela dlouhé době mluvili na někoho dalšího česky.
 
-Vlastně nás to nemělo překvapit, protože tento pán je přihlášen i do spec. programu s jednosměrnou letenkou na Mars😅. Je z toho nadšen, jeho rodina už trochu méně🙈.
+**Luboš** toho má procestováno opravdu hodně — spíš bychom řekli projito. Rád chodí i delší trasy pěšky, takže bylo strašně zajímavé poslouchat, jak některá i „naše“ místa má pěkně prošlápnutá. Sám začal popisovat, jak se mu všude po světě také dějí příběhy s lidmi, kteří jsou nesmírně laskaví a ochotní nezištně pomoci. A taky se mu občas něco nezdaří — ale člověka to postupně vyškolí, že je to prostě cena za další zkušenost a vzdělání, a mávne nad tím rukou.
 
-A zakladatel této celé univerzity je jediný člověk v celém Kyrgyzstánu, který byl na severním i jižním pólu!💪🏻💪🏻
+## Kyrgyzská „horská“ univerzita
 
-A to mi připomnělo ještě jednu zajímavost:
-Rektor předchozí univerzity měl několik titulů a jeden z nich zněl: rytíř řádu Manas (pro deti to byl tedy rytíř z řádu maňásků..😉).
-Jinak Manas je jejich nejvetsi hrdina z historie. Jeho příběhy si předávali po generace pouze slovně, až v minulém století to bylo zapsáno.
+**Profesor Myrza Karimov** měl nejlepší motivační proslov k vlastním studentům, co jsme zatím viděli. Upřímně — o to víc nás to překvapilo zrovna v téhle zemi. V podstatě je nabádal, aby věřili svým snům a šli za nimi. A bylo to pak znát na jejich dotazech:
+
+- Měli jste někde velké potíže?
+- Chtěli jste to vzdát?
+- Kde jste brali sílu to nevzdat?
+- Jak si máme věřit?
+- Jak to poznám?
+
+Vlastně nás to nemělo překvapit, protože tenhle pán je přihlášen i do speciálního programu s jednosměrnou letenkou na Mars. Je z toho nadšený, jeho rodina už trochu méně. A zakladatel celé téhle univerzity je jediný člověk v celém Kyrgyzstánu, který byl na severním i jižním pólu.
+
+A to mi připomnělo ještě jednu drobnost: rektor předchozí univerzity měl několik titulů a jeden z nich zněl **rytíř řádu Manas**. Pro děti to byl tedy rytíř z řádu maňásků. Manas je jinak jejich největší hrdina z historie — jeho příběhy si předávali po generace pouze slovně, teprve v minulém století to bylo zapsáno.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/008.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/009.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/008.webp" alt="Uzbekistán a střední Asie, září 2024 (8)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/009.webp" alt="Uzbekistán a střední Asie, září 2024 (9)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/010.webp" alt="Uzbekistán a střední Asie, září 2024 (10)" loading="lazy" />
 </div>
 
-Mix zážitků mezi Šymkentem a Samarkandem 🕌 🐫🌙✨
+## Mix zážitků mezi Šymkentem a Samarkandem
+
+Mezi Šymkentem a Samarkandem se toho vešlo hodně — mešity, velbloudi i noci pod čistou oblohou. Nejlíp to za nás řeknou fotky.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/011.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/012.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/013.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/014.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/015.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/016.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/017.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/018.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/019.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/020.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/021.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/022.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/023.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/024.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/025.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/026.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/027.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/028.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/029.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/011.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (11)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/012.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (12)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/013.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (13)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/014.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (14)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/015.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (15)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/016.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (16)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/017.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (17)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/018.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (18)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/019.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (19)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/020.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (20)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/021.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (21)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/022.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (22)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/023.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (23)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/024.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (24)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/025.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (25)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/026.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (26)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/027.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (27)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/028.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (28)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/029.webp" alt="Mezi Šymkentem a Samarkandem, září 2024 (29)" loading="lazy" />
 </div>
 
-Dva dny jsme strávili v Šimkentu u Ramila a jeho rodiny. Ramil je místní Electrodad 🙂👍. Probrali se tedy hlavně⚡️vozy, ale došlo i na kulturu bytí v Kazachstánu a okolí.
+## Dva dny u Ramila, místního Electrodada
 
-Pohostinnost Kazachstanců je vyhlášená i tady jsme byli pozváni na místní speciality.. u některých jsme se neměli raději ptát, z čeho jsou 🙈😀
+V Šymkentu jsme strávili dva dny u **Ramila** a jeho rodiny. Ramil je místní Electrodad, takže se probíraly hlavně elektrovozy — ale došlo i na kulturu bytí v Kazachstánu a okolí.
 
-Lau byla nadšená z jejich morské sviňky - morčete, naštěstí bylo neuvěřitelně přítulné 😅
+Pohostinnost Kazachstánců je vyhlášená a i tady jsme byli pozváni na místní speciality. U některých jsme se radši neměli ptát, z čeho jsou. A Laura byla nadšená z jejich morské svinky — morčete, které bylo naštěstí neuvěřitelně přítulné.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/030.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/031.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/032.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/033.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/034.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/035.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/036.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/037.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/038.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/039.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/040.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/030.webp" alt="U Ramila v Šymkentu, září 2024 (30)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/031.webp" alt="U Ramila v Šymkentu, září 2024 (31)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/032.webp" alt="U Ramila v Šymkentu, září 2024 (32)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/033.webp" alt="U Ramila v Šymkentu, září 2024 (33)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/034.webp" alt="U Ramila v Šymkentu, září 2024 (34)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/035.webp" alt="U Ramila v Šymkentu, září 2024 (35)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/036.webp" alt="U Ramila v Šymkentu, září 2024 (36)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/037.webp" alt="U Ramila v Šymkentu, září 2024 (37)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/038.webp" alt="U Ramila v Šymkentu, září 2024 (38)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/039.webp" alt="U Ramila v Šymkentu, září 2024 (39)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/040.webp" alt="U Ramila v Šymkentu, září 2024 (40)" loading="lazy" />
 </div>
 
-Technicke okénko: Čínská elektroauta??🤯🤯
-V Číně nas překvapila úroveň aut a i stav po ujetych 150-200tis. km.
-Uz vubec jsme nečekali, co uvidime v Uzbekistánu😳.
-Čína si evidentně skvele obsadila sousedni trhy a jeste navic je připravena na dalsi expanzí lepe nez jsme čekali😳.
-Pripomnelo mi to, jak vedeni Fordu bylo nedavno v Číně a byli šokováni. Myslim, ze by meli vsichni dojet se podivat a pak udelat i tento druhy krok a projet okolní země. Jinak evropskému automotive nepomůže už opravdu nic..🙁
+## Technické okénko: čínská elektroauta
 
-<video controls src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/video-002.mp4" style="max-width:100%"></video>
+V Číně nás překvapila úroveň aut i jejich stav po ujetých 150 až 200 tisících kilometrů. Ale vůbec jsme nečekali, co uvidíme v Uzbekistánu. Čína si evidentně skvěle obsadila sousední trhy a navíc je na další expanzi připravená lépe, než jsme čekali.
 
-Už jsme sem sdíleli obcas nejake informace o čínských autech.
-Ted nam ale v Uzbekistánu doslova vyrazili dech😳.
-Vubec nechápeme, jak v Evropě resime jejich výrobu, kvalitu atd. a kdyz uz clovek konecne prohlédne, ze to delaji fakt slušně a maji i dobry software (což jsme take nečekali), tak prijde druhy šok - oni se nepripravují na expanzi. Oni uz ji udelali a i na ostatni trhy jsou minimálně lokalizaci připraveni😳.
+Připomnělo mi to, jak bylo vedení Fordu nedávno v Číně a bylo šokované. Myslím, že by tam měli všichni dojet — a pak udělat i ten druhý krok a projet okolní země. Jinak evropskému automotive nepomůže už opravdu nic.
 
-Už jsme sem sdíleli obcas nejake informace o čínských autech.
-Ted nam ale v Uzbekistánu doslova vyrazili dech😳.
-Vubec nechápeme, jak v Evropě resime jejich výrobu, kvalitu atd. a kdyz uz clovek konecne prohlédne, ze to delaji fakt slušně a maji i dobry software (což jsme take nečekali), tak prijde druhy šok - oni se nepripravují na expanzi. Oni uz ji udelali a i na ostatni trhy jsou minimálně lokalizaci připraveni😳.
+<video controls preload="none" src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/video-002.mp4" style="max-width:100%"></video>
 
-Už jsme sem sdíleli obcas nejake informace o čínských autech.
-Ted nam ale v Uzbekistánu doslova vyrazili dech😳.
-Vubec nechápeme, jak v Evropě resime jejich výrobu, kvalitu atd. a kdyz uz clovek konecne prohlédne, ze to delaji fakt slušně a maji i dobry software (což jsme take nečekali), tak prijde druhy šok - oni se nepripravují na expanzi. Oni uz ji udelali a i na ostatni trhy jsou minimálně lokalizaci připraveni😳.
+Nějaké informace o čínských autech jsme sem sdíleli i dřív. Teď nám ale v Uzbekistánu doslova vyrazila dech. Vůbec nechápeme, jak v Evropě řešíme jejich výrobu, kvalitu a tak dále — a když už člověk konečně prohlédne, že to dělají fakt slušně a mají i dobrý software (což jsme také nečekali), přijde druhý šok: **oni se na expanzi nepřipravují, oni ji už udělali.** A i na ostatní trhy jsou minimálně lokalizací připraveni.
 
-Buchara - z prachu a kamení se znovu vynořuje  město emírů.. 🕌🌙✨🙂
+## Buchara: z prachu a kamení se znovu vynořuje město emírů
 
-Celý komplex Poi Kalon z 12. století je opravdu monumentální, mešity, Madrasa - náboženská škola i jeden z nejvyšších minaretů ve střední Asii, který přežil ničení města Čingischánem i ruské pustošení jsou nádherné stavby. Jádro města je pod ochranou UNESCO.
-Prohlédli jsme si i hradby pevnosti Ark, které se kompletně rekonstruují. 
-Obnova památek s archeologickými průzkumy probíhají na řadě míst ve městě, tak jako i v předchozím Samarkandu 🤎
-Lidé tady už opravdu připomínají postavy z Aladina. Kuchyni už nevládne sójovka a čili, naopak se podobá somsa, šašliky a chleba nan, tomu na co jsme zvyklí doma 👍 
-Po cestě se dopujeme halvou (cukr a nadrcená slunečnice) a bonbóny Roshen 👍
+Celý komplex **Poi Kalon** z 12. století je opravdu monumentální. Mešity, madrasa (náboženská škola) i jeden z nejvyšších minaretů ve střední Asii, který přežil ničení města Čingischánem i ruské pustošení — všechno to jsou nádherné stavby. Jádro města je pod ochranou UNESCO.
 
-Zdravíme 🙋‍♀️
+Prohlédli jsme si i hradby pevnosti **Ark**, které se kompletně rekonstruují. Obnova památek s archeologickými průzkumy probíhá na řadě míst ve městě, stejně jako v předchozím Samarkandu.
 
-80edays
+Lidé tady už opravdu připomínají postavy z Aladina. A kuchyni už nevládne sójovka a čili — naopak somsa, šašliky a chleba nan se podobají tomu, na co jsme zvyklí doma. Po cestě se dopujeme halvou, tedy cukrem a nadrcenou slunečnicí, a bonbony Roshen.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/041.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/042.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/043.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/044.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/045.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/046.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/047.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/048.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/049.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/050.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/051.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/052.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/053.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/054.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/055.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/056.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/057.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/058.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/059.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/060.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/061.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/062.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/063.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/064.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/065.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/066.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/041.webp" alt="Buchara a komplex Poi Kalon, září 2024 (41)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/042.webp" alt="Buchara a komplex Poi Kalon, září 2024 (42)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/043.webp" alt="Buchara a komplex Poi Kalon, září 2024 (43)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/044.webp" alt="Buchara a komplex Poi Kalon, září 2024 (44)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/045.webp" alt="Buchara a komplex Poi Kalon, září 2024 (45)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/046.webp" alt="Buchara a komplex Poi Kalon, září 2024 (46)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/047.webp" alt="Buchara a komplex Poi Kalon, září 2024 (47)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/048.webp" alt="Buchara a komplex Poi Kalon, září 2024 (48)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/049.webp" alt="Buchara a komplex Poi Kalon, září 2024 (49)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/050.webp" alt="Buchara a komplex Poi Kalon, září 2024 (50)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/051.webp" alt="Buchara a komplex Poi Kalon, září 2024 (51)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/052.webp" alt="Buchara a komplex Poi Kalon, září 2024 (52)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/053.webp" alt="Buchara a komplex Poi Kalon, září 2024 (53)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/054.webp" alt="Buchara a komplex Poi Kalon, září 2024 (54)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/055.webp" alt="Buchara a komplex Poi Kalon, září 2024 (55)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/056.webp" alt="Buchara a komplex Poi Kalon, září 2024 (56)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/057.webp" alt="Buchara a komplex Poi Kalon, září 2024 (57)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/058.webp" alt="Buchara a komplex Poi Kalon, září 2024 (58)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/059.webp" alt="Buchara a komplex Poi Kalon, září 2024 (59)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/060.webp" alt="Buchara a komplex Poi Kalon, září 2024 (60)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/061.webp" alt="Buchara a komplex Poi Kalon, září 2024 (61)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/062.webp" alt="Buchara a komplex Poi Kalon, září 2024 (62)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/063.webp" alt="Buchara a komplex Poi Kalon, září 2024 (63)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/064.webp" alt="Buchara a komplex Poi Kalon, září 2024 (64)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/065.webp" alt="Buchara a komplex Poi Kalon, září 2024 (65)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/066.webp" alt="Buchara a komplex Poi Kalon, září 2024 (66)" loading="lazy" />
 </div>
 
-Chiva založeno asi před 2 500 lety.
-V 10. století byla íránská vládnoucí třída nahrazena Turky. Na počátku 17. století je vystřídali Tataři a Mongolové. Od roku 1873 patřilo pod Ruské impérium. 
-Je to také první uzbecké místo, které bylo připsáno na seznam světového dědictví UNESCO (1991).
+## Chiva: město staré 2 500 let
 
-Zajímavostí je nedokončený minaret (1852-1855). Měl být největším a nejvyšším minaretem muslimského světa. Průměr jeho základny je 14,2 metru. Některé zdroje uvádějí, že měl dosáhnout 110 metrů. Stavba nebyla dokončena, protože zakladatel Muhammad Amin Khan zemřel v bitvě u Sarakhsu v roce 1855.
+Chiva byla založena asi před **2 500 lety**. V 10. století byla íránská vládnoucí třída nahrazena Turky, na počátku 17. století je vystřídali Tataři a Mongolové a od roku 1873 patřilo město pod Ruské impérium. Je to zároveň první uzbecké místo, které bylo připsáno na seznam světového dědictví UNESCO — v roce 1991.
 
-Je to jediný minaret celý pokrytý glazovanými dlaždicemi.
+Zajímavostí je **nedokončený minaret** z let 1852 až 1855. Měl být největším a nejvyšším minaretem muslimského světa, průměr jeho základny je 14,2 metru a některé zdroje uvádějí, že měl dosáhnout 110 metrů. Stavba nebyla dokončena, protože zakladatel Muhammad Amin Khan zemřel roku 1855 v bitvě u Sarakhsu. Je to jediný minaret celý pokrytý glazovanými dlaždicemi.
 
-Ogahiy napsal několik poetických dat pro dokončení minaretu. Jeden z nich je napsán na glazovaných dlaždicích nad minaretem. Spisy byly rozbity a odtrženy během sovětské nadvlády. Poté, co Uzbekistán získal nezávislost, byly tyto spisy nalezeny prostřednictvím Ogahiyova rukopisu a restaurovány. Dopisy restauroval mistr Rustam Tohirov.
-
-Zdravíme 🙋‍♀️
+Ogahiy k němu napsal několik poetických dat pro dokončení a jedno z nich je napsáno na glazovaných dlaždicích nad minaretem. Spisy byly během sovětské nadvlády rozbité a odtržené. Poté, co Uzbekistán získal nezávislost, se je podařilo najít prostřednictvím Ogahiyova rukopisu a restaurovat — dopisy restauroval mistr Rustam Tohirov.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/067.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/068.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/069.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/070.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/071.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/072.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/073.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/074.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/075.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/076.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/067.webp" alt="Chiva a nedokončený minaret, září 2024 (67)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/068.webp" alt="Chiva a nedokončený minaret, září 2024 (68)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/069.webp" alt="Chiva a nedokončený minaret, září 2024 (69)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/070.webp" alt="Chiva a nedokončený minaret, září 2024 (70)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/071.webp" alt="Chiva a nedokončený minaret, září 2024 (71)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/072.webp" alt="Chiva a nedokončený minaret, září 2024 (72)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/073.webp" alt="Chiva a nedokončený minaret, září 2024 (73)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/074.webp" alt="Chiva a nedokončený minaret, září 2024 (74)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/075.webp" alt="Chiva a nedokončený minaret, září 2024 (75)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/076.webp" alt="Chiva a nedokončený minaret, září 2024 (76)" loading="lazy" />
 </div>
 
-Snad posledni nabijeni v Uzbekistánu v místech, kde nejsou žádné nabíječky..😅
-(v místech, kde bývalo Aralské moře)
-Pak jeste jedno takové misto zajistit v Kazachstánu a mame snad to nejtěžší vyreseno!🙏🏻⚡️
+## Nabíjení tam, kde žádné nabíječky nejsou
 
-<video controls src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/video-003.mp4" style="max-width:100%"></video>
+Snad poslední nabíjení v Uzbekistánu v místech, kde nejsou žádné nabíječky — konkrétně tam, kde bývalo Aralské moře. Pak ještě jedno takové místo zajistit v Kazachstánu a máme snad to nejtěžší vyřešeno.
 
-Cestovatelská setkání..😄
-Včera jsme poprvé potkali německé cestovatele na silnici a vzápětí na dalsi pauze (dodavka na posl. foto) a dnes u jidla po prekroceni hranic k nam priběhl oblečený motorkář Tom z Austrálie, co jede postupne kolem světa na male motorce💪🏻. Ted vyjel z Malajsie a zkousel vsechny země kolem (Činu vynechal jako vsichni rozumní cestovatele, co tam nechteji nechat spoření na důchod..😅).
-Nyni jsme se potkali na hranicích zpět do Kazachstánu a míří stejnou cestou do Evropy navštívit rodinu v Německu😄.
-Německý pár vyrazil v dubnu pred nami a jel "jenom" Asii - hlavne Pamirskou dalnici. Kdyz se o tom rozpovidali, tak uplne svítili🤩. Bylo videt, ze nasli své cestovatelske misto😉.
-Ted se vrátí do Nemecka, prodají dodavku, koupi jinou 4x4 a za 2 roky tam jedou znovu💪🏻🙈.
-Puvodne pry chteli poslat auto domu lodi a doletět..
-..pak si uvědomili, ze po vsech dobrodružstvích by nejak "nedali" být za 10 hod najednou v realitě všedního Nemecka🤣👍🏻. Tak to jedou zpatky a dojedou az po nás, koncem října..😄
+<video controls preload="none" src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/video-003.mp4" style="max-width:100%"></video>
+
+## Cestovatelská setkání: Tom z Austrálie a němečtí Pamírci
+
+Včera jsme poprvé potkali německé cestovatele na silnici a vzápětí i na další pauze. A dnes u jídla po překročení hranic k nám přiběhl oblečený motorkář **Tom z Austrálie**, který jede postupně kolem světa na malé motorce. Teď vyjel z Malajsie a zkoušel všechny země kolem — Čínu vynechal jako všichni rozumní cestovatelé, kteří tam nechtějí nechat spoření na důchod. Potkali jsme se na hranicích zpátky do Kazachstánu a míří stejnou cestou do Evropy navštívit rodinu v Německu.
+
+**Německý pár** vyrazil v dubnu před námi a jel „jenom“ Asii, hlavně Pamírskou dálnici. Když se o tom rozpovídali, úplně svítili — bylo vidět, že našli své cestovatelské místo. Teď se vrátí do Německa, prodají dodávku, koupí jinou 4×4 a za dva roky tam jedou znovu.
+
+Původně prý chtěli poslat auto domů lodí a doletět. Pak si ale uvědomili, že po všech těch dobrodružstvích by nějak „nedali“ být za deset hodin najednou v realitě všedního Německa. Tak to jedou zpátky a dojedou až po nás, koncem října.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/077.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/078.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/079.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/080.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/081.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/082.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/077.webp" alt="Cestovatelská setkání ve střední Asii, září 2024 (77)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/078.webp" alt="Cestovatelská setkání ve střední Asii, září 2024 (78)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/079.webp" alt="Cestovatelská setkání ve střední Asii, září 2024 (79)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/080.webp" alt="Cestovatelská setkání ve střední Asii, září 2024 (80)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/081.webp" alt="Cestovatelská setkání ve střední Asii, září 2024 (81)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/082.webp" alt="Cestovatelská setkání ve střední Asii, září 2024 (82)" loading="lazy" />
 </div>
 
-Aralské moře a nocování v poušti 🌙✨🐫🐫🐫
-(Přechod Uzbekistán-Kazachstán)
+## Aralské moře: hledali jsme jen jeho stopy
 
-Asi trochu tušíte, že moře-jezero díky heslu poručíme větru dešti, už skoro neexistuje a jeho  hledání tedy bylo jen o jeho stopách.
+Asi trochu tušíte, že tohle moře-jezero už díky heslu „poručíme větru dešti“ skoro neexistuje. Naše hledání bylo tedy jen o jeho stopách.
 
-(Původní rozloha se zmenšila na méně než třetinu a objem vody klesl na jednu desetinu. Tato radikální změna je následkem monstrózního projektu zavlažování pouští pro účely pěstování bavlny, který v roce 1954 zahájil SSSR. Řeky Amudarja a Syrdarja, které přiváděly vodu z pohoří Pamír a Ťan-šan a Aralské moře napájely tisíce let, byly svedeny do soustavy zavodňovacích kanálů. Výsledkem projektu je ekologická katastrofa.
-V období let 1966 až 2003 poklesla hladina vnitrozemského moře o 22 metrů. Pobřeží ustoupilo v průměru o 80 km a jezero se rozpadlo na několik částí. Kvůli zvýšenému obsahu soli (8× vyšší koncentrace než v oceánu) začaly vymírat ryby. Kolem jezera vznikla solná poušť Aralkum, z níž vítr roznáší slaný, znečištěný prach dál do okolí. Voda v jezeře je již v podstatě jedovatá, neboť přísun hnojiv, pesticidů a dalších látek přinášených v obrovské míře řekami je znásoben tím, že jezero nemá odtok a jeho objem stále klesá.
+Původní rozloha se zmenšila na méně než třetinu a objem vody klesl na jednu desetinu. Ta radikální změna je následkem monstrózního projektu zavlažování pouští pro pěstování bavlny, který v roce 1954 zahájil SSSR: řeky **Amudarja** a **Syrdarja**, které přiváděly vodu z Pamíru a Ťan-šanu a Aralské moře napájely tisíce let, byly svedeny do soustavy zavodňovacích kanálů. Výsledkem je ekologická katastrofa.
 
-V roce 2009 došlo k úplnému vyschnutí jihovýchodní části, protože do ní nepřitéká dostatek vody a převažuje výrazně výpar nad přítokem. 
-Vyschlé dno jezera se raději snaží Uzbekistán využít k těžbě ropy..
+| Ukazatel | Změna |
+|---|---|
+| Rozloha | zmenšila se na méně než třetinu |
+| Objem vody | klesl na jednu desetinu |
+| Hladina v letech 1966–2003 | pokles o 22 m |
+| Pobřeží | ustoupilo v průměru o 80 km |
+| Slanost vody | 8× vyšší koncentrace než v oceánu |
+| Severní Aral po přehradě (2003–2006) | hladina o téměř 10 m výš |
 
-V roce 2003 rozhodla vláda Kazachstánu o pokusu pro záchranu Severního Aralského moře napájeného řekou Syrdarja, kde se pokouší zvýšit hladinu pomocí stavby přehrady. Již do roku 2006 (dříve, než očekávaly prognózy) díky ní dosaženo navýšení hladiny severního jezera o téměř 10 metrů. Koncentrace solí ve vodě poklesla a do jezera se vrátil život. 👍)
+Kvůli zvýšenému obsahu soli začaly vymírat ryby. Kolem jezera vznikla solná poušť **Aralkum**, z níž vítr roznáší slaný, znečištěný prach dál do okolí. Voda v jezeře je už v podstatě jedovatá — přísun hnojiv, pesticidů a dalších látek přinášených v obrovské míře řekami je znásoben tím, že jezero nemá odtok a jeho objem stále klesá.
 
-Cesty byly od Kungirotu rozbité a místní dobráci nás navedli, že můžeme jet po skoro hotové dálnici.. nebyla nakonec průjezdná, museli jsme se otočit a 60 km jsme najeli zbytečně.. ztratili jsme tak minimálně hodinu času, takže místo dojezdu na Uzbecko-Kazachstánské hranice jsme vcelku dobrovolně nakonec zakotvili v poušti. Byla opět tma tmoucí a jasno ✨ 👍 lišky, roztomilí ježci a něco jako surikaty nám dávali dobrou noc 🙂
-Ráno jsme potkali v poušti velbloudy, koně,..
+V roce 2009 došlo k úplnému vyschnutí jihovýchodní části, protože do ní nepřitéká dost vody a výpar výrazně převažuje nad přítokem. Vyschlé dno jezera se raději snaží Uzbekistán využít k těžbě ropy.
 
-80edays
+Jedna dobrá zpráva ale existuje. V roce 2003 rozhodla vláda Kazachstánu o pokusu zachránit **Severní Aralské moře** napájené Syrdarjou a zvýšit jeho hladinu pomocí přehrady. Už do roku 2006 — dřív, než očekávaly prognózy — se díky ní hladina severního jezera zvedla o téměř deset metrů. Koncentrace solí ve vodě poklesla a do jezera se vrátil život.
+
+## Noc v poušti místo noci na hranici
+
+Cesty byly od **Kungirotu** rozbité a místní dobráci nás navedli, že můžeme jet po skoro hotové dálnici. Nakonec nebyla průjezdná, museli jsme se otočit a 60 kilometrů jsme najeli zbytečně. Ztratili jsme tak minimálně hodinu, takže místo dojezdu na uzbecko-kazachstánskou hranici jsme vcelku dobrovolně zakotvili v poušti.
+
+Byla opět tma tmoucí a jasno. Lišky, roztomilí ježci a něco jako surikaty nám dávali dobrou noc. A ráno jsme v poušti potkali velbloudy a koně.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/083.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/084.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/085.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/086.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/087.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/088.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/089.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/090.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/091.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/092.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/093.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/094.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/095.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/096.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/097.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/098.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/099.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/100.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/101.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/102.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/083.webp" alt="Aralské moře a noc v poušti, září 2024 (83)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/084.webp" alt="Aralské moře a noc v poušti, září 2024 (84)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/085.webp" alt="Aralské moře a noc v poušti, září 2024 (85)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/086.webp" alt="Aralské moře a noc v poušti, září 2024 (86)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/087.webp" alt="Aralské moře a noc v poušti, září 2024 (87)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/088.webp" alt="Aralské moře a noc v poušti, září 2024 (88)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/089.webp" alt="Aralské moře a noc v poušti, září 2024 (89)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/090.webp" alt="Aralské moře a noc v poušti, září 2024 (90)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/091.webp" alt="Aralské moře a noc v poušti, září 2024 (91)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/092.webp" alt="Aralské moře a noc v poušti, září 2024 (92)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/093.webp" alt="Aralské moře a noc v poušti, září 2024 (93)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/094.webp" alt="Aralské moře a noc v poušti, září 2024 (94)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/095.webp" alt="Aralské moře a noc v poušti, září 2024 (95)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/096.webp" alt="Aralské moře a noc v poušti, září 2024 (96)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/097.webp" alt="Aralské moře a noc v poušti, září 2024 (97)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/098.webp" alt="Aralské moře a noc v poušti, září 2024 (98)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/099.webp" alt="Aralské moře a noc v poušti, září 2024 (99)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/100.webp" alt="Aralské moře a noc v poušti, září 2024 (100)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/101.webp" alt="Aralské moře a noc v poušti, září 2024 (101)" loading="lazy" />
+  <img src="/assets/stories/2024-09-uzbekistan-samarkand-buchara-chiva/102.webp" alt="Aralské moře a noc v poušti, září 2024 (102)" loading="lazy" />
 </div>

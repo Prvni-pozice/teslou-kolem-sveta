@@ -1,6 +1,6 @@
 ---
-title: "Barcelona: Slavnostní start expedice 80edays pod Vítězným obloukem"
-description: "Oficální zahájení cesty kolem světa v Barceloně, setkání se švýcarskou legendou Markusem Doesseggerem a zákulisí startu."
+title: "Barcelona: start 80edays pod Vítězným obloukem"
+description: "Zahajovací večer, „svatá elektrická relikvie“ od Markuse Doesseggera, povolení k Vítěznému oblouku na poslední chvíli a první superchargery v4."
 pubDate: 2024-04-23
 category: cesta
 continent: evropa
@@ -8,34 +8,52 @@ country: "ES"
 tags: ["Barcelona", "80edays", "start", "Markus Doessegger", "Španělsko"]
 featured: true
 heroImage: "/assets/stories/2024-04-barcelona-start-80edays/001.webp"
-heroImageAlt: "Barcelona: Slavnostní start expedice 80edays pod Vítězným obloukem"
-nextSlug: "2024-04-italske-alpy-cote-dazur"
+heroImageAlt: "Rodina s Markusem Doesseggerem v hotelu, v ruce červená nabíjecí redukce s oranžovým kabelem"
+heroCaption: "Redukce, se kterou Markus objel svět v Roadsteru. Pro nás od téhle chvíle „svatá elektrická relikvie“."
+readingTime: 4
 draft: false
 importedFrom: facebook
 ---
 
-Vlastně jsme nevěděli, co od zahajovacího večera před oficiálním startem očekávat. Najednou se mezi ostatními objevil Markus Doessegger (účastník cesty kolem Světa v roce 2016) a když se se zájmem začal vyptávat nás a vyjadřovat nám podporu, tak mě dostal, když prohlásil, ze za námi přijel, jen aby nám řekl "good bye and good luck"..😅🫡
-Daroval nám tuto redukci, s kterou on zvládl celou cestu i v místech, kde neexistují nabíječky. Pro mě se to tak stane "svatou elektrickou relikvií". 
-A jelikož c
+V Barceloně cesta kolem světa oficiálně začíná — a my jsme netušili, co od zahajovacího večera před startem očekávat. Nakonec z něj byl jeden z nejsilnějších momentů celých příprav.
 
-![](/assets/stories/2024-04-barcelona-start-80edays/001.webp)
+## Markus Doessegger a svatá elektrická relikvie
 
-Opět Hanička shrnula rychlým Reels, co se dělo na startu👍🏻.
-Speciální povolení k vítěznému oblouku žádá Rafael de Mestre každé 4 roky a úřady vždy říkají NE.
-Kazdopadne jsme meli stesti, protoze včera na posledni chvili přišlo ANO!
-A také ve chvili, kdy jsme se tam objevili, tak tam byli behem par minut příslušníci a ujistovali se..
-Kazdopadne pekny zazitek a moc pekny start!✨⚡️
+Mezi ostatními se najednou objevil **Markus Doessegger**, účastník cesty kolem světa v roce 2016. Začal se se zájmem vyptávat, vyjadřoval nám podporu — a pak mě úplně dostal, když prohlásil, že za námi přijel jen proto, aby nám řekl „good bye and good luck“.
 
-Každý se nás ptá, jak to zvládají děti. Tady trochu odhalujeme, jak to vypadá, když do jednoho z nejlepších hotelů v Barceloně vpustí rodinku z Vysočiny🙈.
-Personál jsou profici, takze to přežili mi i oni. A nase krasne apartmá posloužilo jako trampolína, lázně, herna atd.😅
+Daroval nám navíc redukci, se kterou zvládl celou svou cestu i v místech, kde nabíječky vůbec neexistují. Pro mě se tím stane „svatou elektrickou relikvií“. A jelikož Markus cestu kdysi absolvoval ve svém **Tesla Roadsteru**, uvědomil jsem si, že tím osobně známe všechny na světě, kdo to kdy v tomhle autě zvládl — kromě Markuse ještě Rafaela.
 
-Nabíjení..
-Po cestě nas prekvapilo, ze jsme již 4x nabijeli na superchargerech Tesla verze 4 (teslisté by napsali jen: SCH v4).
-Dokonce 2x nyni ve Španělsku a pokazde to bylo na místě, kde už existovaly v2 a prostě je vyměnili. Vzhledem k tomu, že v ČR je SCH malo, resp. zacinají být poradne vytížené, tak cloveka az mrzí, proč zde vyřazené v2, prostě nevyužijí v dalsich lokalitách😥.
-Stojany v3 a v4 maji výhodu, ze nedělí vykon mezi 2 stojany. Takze napr. nase TM3 (Model 3) nabijí chvilku až 250kW, kdyz prijedeme dostatecne vybití (pod 20%) i ve chvili, kdy hned vedle nabijí dalsi auta👍🏻⚡️.
-A ceny se liší v kazde zemi - ve Fr je to aktuálně jen cca 0,3€, ve Sp cca 0,47€ a pro ne-Tesly 0,52€.
+Markus měl navíc ten den narozeniny, tak v duchu pozvedněte číši i na jeho zdraví.
+
+## Jeden stůl, šest národů
+
+Bylo neuvěřitelně lidské a povzbudivé s ním a s ostatními povečeřet. Působí to až magicky, když u jednoho stolu sedí Španělé, Francouzi, Švýcaři, Němci a Rumuni a všichni mají evidentně vášeň pro cestování, svobodu a poznání. Z každého je cítit respekt vůči jiným kulturám a zároveň hluboká lidskost vytesaná v jejich duších napříč kontinenty.
+
+## Povolení k Vítěznému oblouku přišlo na poslední chvíli
+
+Start se odehrál pod barcelonským Vítězným obloukem, a to vůbec nebylo samozřejmé. Speciální povolení tam žádá **Rafael de Mestre každé čtyři roky** a úřady vždycky říkají NE. Letos jsme měli štěstí: den předem, na poslední chvíli, přišlo ANO.
+
+A také ve chvíli, kdy jsme se tam objevili, byli během pár minut na místě příslušníci a ujišťovali se, že je všechno v pořádku. Každopádně pěkný zážitek a moc pěkný start.
+
+## Jak to zvládají děti (a jak to zvládl hotel)
+
+Každý se nás ptá, jak to zvládají děti. Odpověď se dá dobře odhadnout z toho, co se dělo, když do jednoho z nejlepších hotelů v Barceloně vpustili rodinku z Vysočiny. Personál jsou profíci, takže to přežili oni i my. A naše krásné apartmá zvládlo posloužit jako trampolína, lázně i herna.
+
+## Nabíjení: čtyřikrát supercharger v4 hned na začátku
+
+Po cestě nás překvapilo, že jsme už **čtyřikrát nabíjeli na superchargerech Tesla verze 4** (teslisté by napsali jen SCH v4). Dokonce dvakrát tady ve Španělsku, a pokaždé na místě, kde už existovaly stojany v2 a prostě je vyměnili. Vzhledem k tomu, že v ČR je superchargerů málo a začínají být pořádně vytížené, člověka až mrzí, proč se vyřazené v2 nevyužijí v dalších lokalitách.
+
+Stojany v3 a v4 mají výhodu, že nedělí výkon mezi dva stojany. Takže naše **TM3** nabíjí chvilku až 250 kW, když přijedeme dostatečně vybití (pod 20 %), i ve chvíli, kdy hned vedle nabíjí další auta.
+
+Ceny se liší v každé zemi:
+
+| Země | Cena za kWh |
+|---|---|
+| Francie | cca 0,30 € |
+| Španělsko | cca 0,47 € |
+| Španělsko, ne-Tesly | 0,52 € |
 
 <div class="gallery">
-  <img src="/assets/stories/2024-04-barcelona-start-80edays/002.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-04-barcelona-start-80edays/003.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-04-barcelona-start-80edays/002.webp" alt="Start expedice 80edays v Barceloně, duben 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-04-barcelona-start-80edays/003.webp" alt="Start expedice 80edays v Barceloně, duben 2024 (3)" loading="lazy" />
 </div>

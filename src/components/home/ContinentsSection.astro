@@ -29,7 +29,7 @@ const continentColors: Record<string, string> = {
           href={`/kontinenty/${cont.id}/`}
           class="continent-card"
           data-reveal
-          style={`transition-delay: ${i * 0.07}s; --cont-color: ${continentColors[cont.data.slug] ?? 'var(--accent)'}`}
+          style={`transition-delay: ${i * 0.07}s; --cont-color: ${continentColors[cont.id] ?? 'var(--accent)'}`}
         >
           {cont.data.heroImage && (
             <div class="cont-image-wrap">

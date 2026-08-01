@@ -1,59 +1,86 @@
 ---
-title: "New York: Pečlivá inventarizace Manhattanu"
-description: "Promenády plné umění, Intrepid Museum s Concordem, parky a jedna mořská blecha — Manhattan očima rodiny na cestě kolem světa."
+title: "New York: pečlivá inventarizace Manhattanu a Concorde"
+description: "Promenády plné umění, Intrepid Museum s Concordem a kusem SR-71, vstřícní lidé u nabíječek a nakonec vlog z Bostonu, který nás překvapil."
 pubDate: 2024-07-08
 category: cesta
 continent: ameriky
 country: "US"
 tags: ["New York", "Manhattan", "Intrepid", "NYC", "Concorde"]
 heroImage: "/assets/stories/2024-07-new-york/001.webp"
-heroImageAlt: "New York: Pečlivá inventarizace Manhattanu"
-prevSlug: "2024-07-montreal-quebec"
-nextSlug: "2024-07-philadelphia-boston-boston"
+heroImageAlt: "Máma s třemi dětmi před bílou konstrukcí nádraží World Trade Center, v pozadí mrakodrapy Manhattanu"
+heroCaption: "Manhattan pěšky — a pak ještě jednou na kolech."
+readingTime: 5
 draft: false
 importedFrom: facebook
 ---
 
-New York - provedli jsme pečlivou inventarizaci Manhattanu 🙂. 
-Ulice, promenády, jsou plné umění, recyklovaných prvků, pomníků lidské hlouposti. Pokud máte v nohách už dost km, můžete si odpočinout v kavárnách, muzeích, různorodých parcích si rozbalit piknikdeku, děti vypustit na  hřiště  🙂 Prohlídku urychlíte vypůjčením kol. I tady funguje systém oddělená promenáda | cyklostezka | silnice | mořská doprava třeba skútr, kajak zdarma 😉
+V New Yorku jsme provedli pečlivou inventarizaci Manhattanu. Pěšky, na kolech a s několika přestávkami na piknik — protože s dětmi se město neprochází, ono se dobývá po etapách.
 
-![](/assets/stories/2024-07-new-york/001.webp)
+## Ulice, promenády a pomníky lidské hlouposti
 
-NYC - 2
-Intrepid Museum je ráj pro fanoušky techniky:
-- mají tam zaparkovaný Concord, co přeletěl Atlantik za 2:52:59 (dodnes nepřekonáno)
-- ten kus černého křídla je od SR-71, asi nejrychlejšího letadla vůbec (bylo rychlejší než protiletadlové rakety a titan na nej Američané nakoupili za studené války pres pripravene firmy od Ruska🙈)
-- spoustu dalsich unikátních kousků maji na palubě, včetně raketoplánu Space Shuttle✨
-A na tu chvilku jsme drze zaparkovali u ponorky🙈.
+Ulice a promenády jsou plné umění, recyklovaných prvků a pomníků lidské hlouposti. Pokud máte v nohách už dost kilometrů, můžete si odpočinout v kavárnách nebo muzeích, v různorodých parcích rozbalit piknikovou deku a děti vypustit na hřiště.
+
+Prohlídku urychlíte vypůjčením kol. I tady totiž funguje systém oddělených pruhů: promenáda, cyklostezka, silnice a k tomu námořní doprava — třeba skútr nebo kajak zdarma.
+
+<video controls preload="none" src="/assets/stories/2024-07-new-york/video-002.mp4" style="max-width:100%"></video>
 
 <div class="gallery">
-  <img src="/assets/stories/2024-07-new-york/018.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-new-york/019.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-new-york/020.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-new-york/021.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-new-york/022.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/002.webp" alt="New York a Manhattan, červenec 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/003.webp" alt="New York a Manhattan, červenec 2024 (3)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/004.webp" alt="New York a Manhattan, červenec 2024 (4)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/005.webp" alt="New York a Manhattan, červenec 2024 (5)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/006.webp" alt="New York a Manhattan, červenec 2024 (6)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/007.webp" alt="New York a Manhattan, červenec 2024 (7)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/008.webp" alt="New York a Manhattan, červenec 2024 (8)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/009.webp" alt="New York a Manhattan, červenec 2024 (9)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/010.webp" alt="New York a Manhattan, červenec 2024 (10)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/011.webp" alt="New York a Manhattan, červenec 2024 (11)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/012.webp" alt="New York a Manhattan, červenec 2024 (12)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/013.webp" alt="New York a Manhattan, červenec 2024 (13)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/014.webp" alt="New York a Manhattan, červenec 2024 (14)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/015.webp" alt="New York a Manhattan, červenec 2024 (15)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/016.webp" alt="New York a Manhattan, červenec 2024 (16)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/017.webp" alt="New York a Manhattan, červenec 2024 (17)" loading="lazy" />
 </div>
 
-Lidi..🙏🏻✨
-Tawanda a Chichie me potkali na Tesla Superchargeru v Bostonu, jak zase testuji upravenou redukci. Strasne je zajímala nase cesta a vyptavali se na všechno mozne: kolik mame ujeto, kolik ma auto najeto, jestli to stihneme za 80 dnů, jestli jsou nase SPZ opravdu z Evropy, ze je tu jeste neviděli, a jiny nabíjecí konektor si fotili atd...😀
-A pak klasicky prali, at nam vse klapne a vsude bezpečně dojedeme. A jeste mi hned napsali mail na sebe, kdybysme neco potrebovali pomoct👍🏻.
+## Intrepid Museum: Concorde, křídlo od SR-71 a raketoplán
 
-V NY včera na nas troubilo jedno auto a na dalsi křižovatce zajelo vedle nas a začal se take cizi par vyptavat na nasi cestu a pak take prali hodně stesti.
+Intrepid Museum je ráj pro fanoušky techniky:
 
-Ve Washingtonu pri výjezdu z garáži si nas fotil pan, protoze jeho syn studuje v Michiganu a delá nejakou praci kolem EV. Take hned přál, ať se nám vše vydaří🙏🏻.
+- **Concorde**, který přeletěl Atlantik za **2:52:59** — dodnes nepřekonáno — mají zaparkovaný na molu.
+- Ten kus černého křídla je od **SR-71**, asi nejrychlejšího letadla vůbec. Bylo rychlejší než protiletadlové rakety a titan na něj Američané za studené války nakoupili od Ruska přes připravené firmy.
+- Na palubě mají spoustu dalších unikátních kousků, včetně raketoplánu **Space Shuttle**.
 
-Celkove jsme radi, jak jsou zde lidé velmi často přátelští, přejicí a bezprostřední..👍🏻👍🏻
+A na tu chvilku jsme drze zaparkovali u ponorky.
 
-Ps: na jihu jsme zmiňovali, ze lidé někdy mluví trochu ořvaně. Tady na severu mluví vic a vic mírně a tim vice splývají slova, tskže se zase snažíme rochu prekalibrovat uši.
+<div class="gallery">
+  <img src="/assets/stories/2024-07-new-york/018.webp" alt="Intrepid Museum v New Yorku, červenec 2024 (18)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/019.webp" alt="Intrepid Museum v New Yorku, červenec 2024 (19)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/020.webp" alt="Intrepid Museum v New Yorku, červenec 2024 (20)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/021.webp" alt="Intrepid Museum v New Yorku, červenec 2024 (21)" loading="lazy" />
+  <img src="/assets/stories/2024-07-new-york/022.webp" alt="Intrepid Museum v New Yorku, červenec 2024 (22)" loading="lazy" />
+</div>
 
-![](/assets/stories/2024-07-new-york/023.webp)
+## Lidi, kteří nás cestou zastavují
 
-Vlog: Boston
-Celkově nás Boston překvapil. Koukněte na konci videa na úžasné noční panorama!🤩
-Celkově má metropole cca 7,5 mil. obyvatel. Uz pri příjezdu nas trklo, ze na obloze je jeste vice letadel nez v Miami😳.
-Rafael ma oblíbenou část Waterfront na zacatku videa.
-Nakonec jsme nestihli hlavní mrakodrap, ktery je pojmenovaný John Hancock Tower po paserakovi čaje😀. Domnivam se, ze rozdělení budovy na dve části je navždy metaforou pro daňový a nedanovy naklad nebo mozna i pro "odklánění", jak by rekli v našem hlavním městě🤣.
+Tawanda a Chichie mě potkali na Tesla Superchargeru v Bostonu, jak zase testuji upravenou redukci. Strašně je zajímala naše cesta a vyptávali se na všechno možné: kolik máme ujeto, kolik má auto najeto, jestli to stihneme za osmdesát dnů, jestli jsou naše značky opravdu z Evropy — takové tady ještě neviděli — a jiný nabíjecí konektor si fotili. Pak klasicky přáli, ať nám všechno klapne a všude bezpečně dojedeme. A hned mi napsali mail na sebe, kdybychom potřebovali s něčím pomoct.
 
-A samozrejme tady "hostili" bostonskou tea party, kdo si vzpomenete z dějepisu 1773, tak se nam to hezky doplňuje k tomu dnu nezávislosti👍🏻.
+V New Yorku na nás včera troubilo jedno auto, na další křižovatce zajelo vedle nás a i tenhle cizí pár se začal vyptávat na naši cestu a pak přál hodně štěstí. Ve Washingtonu si nás při výjezdu z garáží fotil pán, protože jeho syn studuje v Michiganu a dělá nějakou práci kolem elektromobilů. Taky hned přál, ať se nám vše vydaří.
 
-<video controls src="/assets/stories/2024-07-new-york/video-001.mp4" style="max-width:100%"></video>
+Celkově jsme rádi, jak jsou tady lidé velmi často přátelští, přející a bezprostřední.
+
+## Uši na překalibrování
+
+Na jihu jsme zmiňovali, že lidé někdy mluví trochu ořvaně. Tady na severu mluví víc a víc mírně, a tím víc jim splývají slova — takže se zase snažíme trochu překalibrovat uši.
+
+![Nabíjení a setkání s lidmi v New Yorku, červenec 2024](/assets/stories/2024-07-new-york/023.webp)
+
+## Vlog: Boston, který nás překvapil
+
+Celkově nás Boston překvapil, a na konci videa je úžasné noční panorama. Metropole má asi **7,5 milionu obyvatel** a už při příjezdu nás trklo, že na obloze je ještě víc letadel než v Miami. Rafael má oblíbenou část Waterfront, kterou uvidíte na začátku videa.
+
+Nakonec jsme nestihli hlavní mrakodrap, pojmenovaný John Hancock Tower po pašerákovi čaje. Domnívám se, že rozdělení budovy na dvě části je navždy metaforou pro daňový a nedaňový náklad — nebo možná i pro „odklánění“, jak by řekli v našem hlavním městě.
+
+A samozřejmě tady „hostili“ bostonskou tea party. Kdo si vzpomene z dějepisu na rok 1773, tomu se to hezky doplní s tím dnem nezávislosti.
+
+<video controls preload="none" src="/assets/stories/2024-07-new-york/video-001.mp4" style="max-width:100%"></video>

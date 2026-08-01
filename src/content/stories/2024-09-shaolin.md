@@ -1,6 +1,6 @@
 ---
-title: "Shaolin: Ranní trénink s mistrem, hotel pro cizince a buddhistický chrám"
-description: "Jediný hotel uvnitř Shaolin Scenic Area, ranní trénink s mistrem Liang Jianminem a neuvěřitelné kung-fu před chrámem."
+title: "Shaolin: ranní trénink v šest a chrám na úpatí Sung-šanu"
+description: "Přijeli jsme bez rezervace k jedinému hotelu uvnitř areálu Shaolinu, chytli v chrámu zlatou hodinku a ráno v šest stihli trénink s mistrem."
 pubDate: 2024-09-04
 category: cesta
 continent: asie
@@ -8,137 +8,171 @@ country: "CN"
 tags: ["Shaolin", "kung-fu", "buddhistický chrám", "Čína", "Liang Jianmin"]
 featured: true
 heroImage: "/assets/stories/2024-09-shaolin/001.webp"
-heroImageAlt: "Shaolin: Ranní trénink s mistrem, hotel pro cizince a buddhistický chrám"
-prevSlug: "2024-09-kyrgyzstan-neplanovana-odbocka"
-nextSlug: "2024-09-uzbekistan-samarkand-buchara-chiva"
+heroImageAlt: "Děti v bílých tričkách a červených teplákách trénují na kamenných schodech v areálu Shaolinu, v pozadí hory"
+heroCaption: "Ranní trénink v areálu Shaolinu — dospělí zatím běhali někde v horách."
+readingTime: 9
 draft: false
 importedFrom: facebook
 ---
 
-Shaolinské zazitky!🤩
-Z: Občas mi někteří kámoši připomínají, že mam strašné stesti..😳?
-🍀 Neměli jsme domluvene žádné ubytko a az u vstupu do Shaolin scenic area jsem zjistil, ze pouze jediny hotel je uvnitř a nebylo jiste, jestli vubec bere cizince.😳
-🍀 Hotel je trochu zastaralý, ale je primo u arény, kde probíhají ukazky kung-fu💪🏻
-🍀 A 300 m od slavné kolébky bojových umeni - samotného Shaolinskeho chrámu🤩.
-🍀 Byli jsme unavení, tak jsme na prohlídku chrámu šli pozdě, ale tim jsme chytli zlatou ho
+Občas nám kamarádi připomínají, že máme strašné štěstí. V Shaolinu se to potvrdilo hned na vstupu: neměli jsme domluvené vůbec žádné ubytování a až na místě jsme zjistili, že uvnitř Shaolin Scenic Area stojí jediný hotel — a nebylo jasné, jestli vůbec bere cizince.
 
-![](/assets/stories/2024-09-shaolin/001.webp)
+## Jediný hotel uvnitř areálu
 
-Shaolinské zazitky 2 - aspoň jeden člen posádky stihl i ranní trénink v 6:00!🫡💪🏻
-Jak by rekl klasik: sláva mě!🤣
-A včera jsem se uplne zapomněl vyfotit s mistrem, tak se můžete pokochat na druhém obrázku - Liang Jianmin (senior coach of the international department of Shaolin Temple Martial Arts Hall in Sunshan)🙏🏻🙏🏻.
-Kazdopadne ho uz mam přidaného na WeChatu😉.
-Na třetí fotce je trenér ranního tréninku, ktery pracoval pred tim 14 let v Kalifornii v San Franciscu (v Shaolinu je fakt lepsi klima, takže se mu nedivime😄).
-A priznavam, ze jsem šel na dětský trénink. Dospělí přibehli po pul hodině kdesi od hor😅💪🏻.
-Na fotce na schodech je ve skoku ten klouček, co nám večer ukazoval protažení. Jmenuje se [ný sen], což si člověk muze polopřeložit jako dobrý sen..😉✨✨
+Bere. Hotel je sice trochu zastaralý, ale stojí přímo u arény, kde probíhají ukázky kung-fu, a je jen tři sta metrů od slavné kolébky bojových umění — samotného shaolinského chrámu. Lepší adresu jsme si vymyslet nemohli. Vše jsme měli jako na dlani, bydleli jsme přímo nad školou.
 
-Zaujalo mě, jak silná je místní tradice (připomnělo mi to i jine oblasti ve světě, kde nekolik set let jsou prostě lidi dobří v nejake konkretni cinnosti):
-Liang Jianmin se narodil ve vesnici Luotuoya (blízko Dengfeng), provincie Henan, 11. listopadu 1964. Vesnice Luo Tuoya je slavná "kolébka učitelů" a od počátku dynastie Ming (1368-1644) vychovala stovky talentů v civilních a vojenských oblastech🫡.
-Během Války odporu proti Japonsku (1937-45) mladí muži a ženy ve vesnici vytvořili velký oddíl s meči a další s oštěpy, aby odolali Japoncům a dalším jednotkám vstupujícím do vesnice💪🏻💪🏻.
-Národní top ten učitel bojových umění, shaolinský mistr Liang Yiquan, je také odtud👍🏻.
+## Zlatá hodinka v chrámu a vybouraná zeď
 
-<div class="gallery">
-  <img src="/assets/stories/2024-09-shaolin/001.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/002.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/003.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/004.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/005.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/006.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/007.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/008.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/009.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/010.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/011.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/012.webp" alt="" loading="lazy" />
-</div>
+Byli jsme unavení, takže jsme na prohlídku chrámu vyrazili pozdě — a právě tím jsme chytli zlatou hodinku. Nakonec nás tam hlídači zamkli, takže jsme s další skupinkou turistů hledali cestu venku. Pro případ, že by se to někomu stalo taky: vpravo od brány je po asi sto metrech vybouraná zeď.
 
-Ani chrám Shaolin nebyl nikdy klidným místem. Jde o buddhistický chrám stojící na úpatí posvátné hory Sung-šan. Tu obklopují terasovité lány kukuřice a menší zahradní města. Byl založen v 5 století n. l. Mniši z tohoto chrámu se proslavili díky svému studiu bojových umění a vytvoření šaolinské školy kung fu. Mezi chrámy přežil všechna drancování v minulosti třeba ohromný, 1500 let starý jinan, 1200 let staré jalovce, 300 let staré jerlíny a thuje.. dotvářející atmosféru místa. Měli jsme možnost poznat mistry i disciplinované a snad gumové děti 🙂 na místní škole. Většina z nich už teď ví, kde je Česká republika a Pelhřimov. 🙂 Vše jsme měli, jak na dlani, bydleli jsme přímo nad školou. Jen večer zamkli část areálu, proto to přelézání brány 🤦‍♀️, když jsme se šli podívat na večerní trénink.. 😅
+Večer zamkli část areálu znovu, a tak jsme lezli přes bránu, když jsme se šli podívat na trénink.
 
-<video controls src="/assets/stories/2024-09-shaolin/video-002.mp4" style="max-width:100%"></video>
+## Chrám na úpatí posvátné hory
 
-Běžný čínský taxík..??⚡️
-Pořád mi to nedá a vyptavám se taxikarů, jak jim to jezdí. Tady je docela jasný zaver na konci druheho videa..😁
-A popravdě jsem sam vice a vice zaskočený celkovou úrovní těch místních aut. Tohle kdyby nekdo prodával v Evropě, tak je po debatách o nástupu elektro⚡️⚡️.
-Ps: Asi muzu udelat maly teaser, ze jsem pred chvili prolezl auta 2 jiných značek a byl jsem zaskočený, teda spíš mi zaskocilo úplně..🤯
+Ani chrám Shaolin nebyl nikdy klidným místem. Jde o buddhistický chrám na úpatí posvátné hory Sung-šan, kterou obklopují terasovité lány kukuřice a menší zahradní města. Byl založen v 5. století našeho letopočtu a mniši z něj se proslavili studiem bojových umění a vytvořením šaolinské školy kung-fu.
+
+Mezi chrámy přežil všechna drancování v minulosti ohromný, 1 500 let starý jinan, 1 200 let staré jalovce a 300 let staré jerlíny a thuje — a právě ty dotvářejí atmosféru místa.
+
+<video controls preload="none" src="/assets/stories/2024-09-shaolin/video-002.mp4" style="max-width:100%"></video>
+
+## Trenér, který má za sebou Shaolin Temple
+
+Cestou zpátky od chrámu jsme u arény narazili na skupinku cvičících dětí a jejich trenér nás požádal o fotku. Až potom se ukázalo, koho jsme vlastně potkali: připravuje tam všechny na ukázky kung-fu a sám má za sebou úžasnou kariéru. V jednom článku se dokonce zmiňuje, že měl roli v tom slavném původním filmu *Shaolin temple* — tam mimo jiné debutoval Jet Li.
+
+Po večeři jsme se k aréně vrátili a sledovali trénink. Když Hanička ukázala své protažení, jiný trenér zavolal malého kloučka, že prý předvede shaolinskou jógu. To se musí vidět.
+
+<video controls preload="none" src="/assets/stories/2024-09-shaolin/video-001.mp4" style="max-width:100%"></video>
+
+## Ranní trénink v šest — aspoň jeden z posádky
+
+Ráno jsme mohli přijít na trénink. Prý v šest. Aspoň jeden člen posádky to nakonec stihl, takže: sláva mě.
+
+Přiznávám ovšem, že jsem šel na dětský trénink. Dospělí přiběhli po půl hodině kdesi od hor. Trenér ranního tréninku předtím čtrnáct let pracoval v Kalifornii v San Franciscu — v Shaolinu je ale fakt lepší klima, takže se mu nedivíme. A na fotce na schodech je ve skoku ten klouček, co nám večer ukazoval protažení. Jmenuje se [ný sen], což si člověk může polopřeložit jako dobrý sen.
+
+Měli jsme možnost poznat mistry i disciplinované a snad gumové děti na místní škole. Většina z nich už teď ví, kde je Česká republika a Pelhřimov.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-shaolin/013.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/014.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/015.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/016.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/017.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/002.webp" alt="Shaolin a ranní trénink, září 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/003.webp" alt="Shaolin a ranní trénink, září 2024 (3)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/004.webp" alt="Shaolin a ranní trénink, září 2024 (4)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/005.webp" alt="Shaolin a ranní trénink, září 2024 (5)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/006.webp" alt="Shaolin a ranní trénink, září 2024 (6)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/007.webp" alt="Shaolin a ranní trénink, září 2024 (7)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/008.webp" alt="Shaolin a ranní trénink, září 2024 (8)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/009.webp" alt="Shaolin a ranní trénink, září 2024 (9)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/010.webp" alt="Shaolin a ranní trénink, září 2024 (10)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/011.webp" alt="Shaolin a ranní trénink, září 2024 (11)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/012.webp" alt="Shaolin a ranní trénink, září 2024 (12)" loading="lazy" />
 </div>
 
-<video controls src="/assets/stories/2024-09-shaolin/video-003.mp4" style="max-width:100%"></video>
+## Mistr Liang Jianmin a vesnice učitelů
 
-<video controls src="/assets/stories/2024-09-shaolin/video-004.mp4" style="max-width:100%"></video>
+S mistrem jsme se zapomněli vyfotit, takže se dá pokochat jen na fotce v galerii — **Liang Jianmin**, senior coach of the international department of Shaolin Temple Martial Arts Hall in Sunshan. Každopádně ho už mám přidaného na WeChatu.
 
-Minule tady bylo dost ohlasů, tak jsem zpovidal čínské taxikáře dal.. vice ve videu.
-Pro mě je to velmi slušné a dostupné auto a fakt nas zaskocilo to zpracovani👍🏻.
+Zaujalo mě, jak silná je místní tradice. Připomnělo mi to i jiné oblasti ve světě, kde jsou lidé několik set let prostě dobří v jedné konkrétní činnosti:
 
-Minule tady bylo dost ohlasů, tak jsem zpovidal čínské taxikáře dal.. vice ve videu.
-Pro mě je to velmi slušné a dostupné auto a fakt nas zaskocilo to zpracovani👍🏻.
+- **Liang Jianmin** se narodil 11. listopadu 1964 ve vesnici Luotuoya blízko Dengfengu v provincii Henan.
+- Vesnice Luo Tuoya je slavná „kolébka učitelů“ — od počátku dynastie Ming (1368–1644) vychovala stovky talentů v civilních i vojenských oblastech.
+- Během Války odporu proti Japonsku (1937–1945) vytvořili mladí muži a ženy ve vesnici jeden velký oddíl s meči a další s oštěpy, aby odolali Japoncům a dalším jednotkám vstupujícím do vesnice.
+- Národní top ten učitel bojových umění, shaolinský mistr **Liang Yiquan**, je také odtud.
 
-1. Ekonomická pohádka na neděli..💵
-Z: Od Hongkongu chci napsat neco vice k ekonomice. Tam to byl asi nejvetsi naraz - ceny jak v USA a vsude minimum místa🤯.
-Staci otevřít Wikipedii a Statista a zjistíte:
-- HDP maji stejne jak cela ČR, ale je jich jen 7 mil. (a žijí na par ostrovech)
-- stejne jako ostatni vyrostli po 2. světové válce prakticky z ničeho😳
-- v letech 1961-97 vzrostlo HDP 180-krát🤯🤯
-- nyni maji průměrnou mzdu téměř 100.000,- Kč!! (proto ty ceny)
-- puvodne vyrostli jako přístav (dopravní uzel), levná vyroba a jak bohatli, tak posilovali financni sektor a ustupovali z vyroby
-- zaroven investovali do vzdelani a infrastruktury💪🏻👍🏻👍🏻
+## Běžný čínský taxík?
 
-Pak jsem si to porovnal s ostatními ekon. tygry (J. Korea, Taiwan, Singapur) a vsichni to meli velmi podobne.
-J. Korea to mela nejdivnejsi - tam vládl general, ale stavěl silnice, podporoval podnikani (vznikly tam ale olygopoly) a za 18 let jeho autoritativní vlady vzrostlo HDP 4x (o cca 300%)!!!😳🤯
-Pak zacali investovat do IT a zaroven přešli na demokracii v 80. letech.
-Taiwan vsadil take na elektroniku, IT a vzdělanost. Dnes je největším producentem chipů na světě. Pred 5-ti lety jsem mel moznost navštívit jejich ITRI (neco jako akademie věd) a od te doby to beru jako chrám vzdělanosti a inovaci👌🏻.
+Pořád mi to nedá a vyptávám se taxikářů, jak jim to jezdí. Na konci druhého videa je docela jasný závěr. A popravdě jsem sám víc a víc zaskočený celkovou úrovní těch místních aut — tohle kdyby někdo prodával v Evropě, tak je po debatách o nástupu elektro.
 
-A vlastne jakoby "mimochodem" vsechny tyto země patri k zemím s nejvetsi životní úrovní, očekávanou délkou doziti a rozvojem lidkskeho potenciálu (velmi často patri mezi TOP 10 na světě👍🏻👍🏻).
-
-Kazdopadne kombinace HDP a průměrné mzdy tvoří docela zřetelné obrysy cen za produkty a sluzby.
-
-Nejvíc mě ale překvapilo, ze kdyz to clovek zažije, promluví s místními lidmi a pročte Wikipedii, tak je to jak otevřená učebnice ekonomického úspěchu!🤯🤩🤩
-Neskutečný mazec..👍🏻✨
+Můžu k tomu udělat i malý teaser: před chvílí jsem prolezl auta dvou jiných značek a byl jsem zaskočený, teda spíš mi zaskočilo úplně.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-shaolin/019.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/020.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/021.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/013.webp" alt="Čínské taxíky v Shaolinu, září 2024 (13)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/014.webp" alt="Čínské taxíky v Shaolinu, září 2024 (14)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/015.webp" alt="Čínské taxíky v Shaolinu, září 2024 (15)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/016.webp" alt="Čínské taxíky v Shaolinu, září 2024 (16)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/017.webp" alt="Čínské taxíky v Shaolinu, září 2024 (17)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/018.webp" alt="Čínské taxíky v Shaolinu, září 2024 (18)" loading="lazy" />
 </div>
 
-2. Ekonomická pohádka - tentokrát o Číně..💵
-Z: Hodně statistik i na dobrých zdrojích mi pripada zkreslených (tvrdí např. přes 95.000,- Kč průměrnou mzdu v Číně). Denně neco resim a vidim ten rozptyl cen. Ve velkých městech má údajně běžný pracující cca jako u nas. Proste neco kolem 30-40 tis. Kč (hrubého). Nicmene v malých městech a uvnitr Ciny to bude na úrovni nasi minimální mzdy cca do 20 tis. Kč. Zároveň bude dost lidi, kteří mají třeba jen do 10 tis. Kč.
-Ve velkých korporacích je to jak u nás - platy maji až statisíce měsíčně.
+<video controls preload="none" src="/assets/stories/2024-09-shaolin/video-003.mp4" style="max-width:100%"></video>
 
-Trocha dat:
-- nejvetsi výrobce na světě (28% všeho na světě je vyrobeno zde)
-- HDP maji tesne za USA (v běžných cenach)💪🏻
-- přepočtené na jejich kupní sílu maji nejvetsi na světě už dávno😳
-- i Wikipedie uvádí, že to HDP nesedí uz když se zacne pocitat od mezd. Pritom firmy vydělávají jeste vice.
-- maji velmi nízké ceny, takze v podstatě kazdy ekonomicky ukazatel se najednou o poloviny zvýší, jen když to prepoctete na paritu kupní síly!😳
-- HDP - cca 5% růst každý rok (drive i 10%)
-- inflace - cílí na 2% (měli 1,5-2,9%)
-= z toho jasně vyplývá zajímavý prostor (když si dovolim až urcitou "bulvárnost", tak vlastně bohatnou o 3% ročně po odečtení inflace👍🏻)
+Minule tady bylo dost ohlasů, tak jsem zpovídal čínské taxikáře dál. Pro mě je to velmi slušné a dostupné auto a fakt nás zaskočilo to zpracování.
 
-U asijských tygrů jsem psal o infrastruktuře a vzdělanosti.
-Tady se mi líbí jeste dalsi rozměry:
-- podle mě naprostá většina lidi si vykládá infrastrukturu podle minulého století - tady uz v roce 2022 melo 500 mil. lidi 5G pripojeni na internet!!⚡️👍🏻 (to přeci dnes propojuje lidi a zmenšuje vzdálenosti nejvic!!)
-- a ta "stará infrastruktura" je tady taky mazec - jejich rychlovlaky jsme si oblíbili nejvice (prejeli jsme s nimi celou Činu napric), všude staví nové dalnice, letiště, železnice..👍🏻
+<video controls preload="none" src="/assets/stories/2024-09-shaolin/video-004.mp4" style="max-width:100%"></video>
 
-Přidávám obrázek - známý Big Mac index - a mam navrh - zavedl bych ovocný index - třeba banánový, protoze:
-- prekvapilo me, ze ovoce ma na celém světě spíše vyšší hodnotu než jsem čekal (melouny, jahody i banany stojí velmi podobně všude - možná je to dane logistikou a maržemi nadnárodních řetězců)
-- je to zdravější než zpracované potraviny (tzn. při vyšší dostupnosti bych očekával pozitivní dopad na zdravi obyvatel)
-- jím je nejčastěji😉
+## Ekonomická pohádka na neděli: Hongkong
+
+Od Hongkongu chci napsat něco víc k ekonomice. Tam to byl asi největší náraz — ceny jako v USA a všude minimum místa. Stačí přitom otevřít Wikipedii a Statistu:
+
+| Hongkong | Údaj |
+|---|---|
+| HDP | stejné jako celá ČR |
+| Počet obyvatel | jen 7 mil. (a žijí na pár ostrovech) |
+| Růst HDP v letech 1961–1997 | 180× |
+| Průměrná mzda dnes | téměř 100 000 Kč |
+
+Stejně jako ostatní vyrostli po druhé světové válce prakticky z ničeho. Původně jako přístav, tedy dopravní uzel, a levná výroba; jak bohatli, posilovali finanční sektor a z výroby ustupovali. Zároveň investovali do vzdělání a infrastruktury.
+
+## A ostatní asijští tygři
+
+Pak jsem si to porovnal s dalšími ekonomickými tygry — Jižní Koreou, Tchaj-wanem a Singapurem — a všichni to měli velmi podobné.
+
+Jižní Korea to měla nejdivnější: vládl tam generál, ale stavěl silnice a podporoval podnikání (vznikly tam ovšem oligopoly), a za osmnáct let jeho autoritativní vlády vzrostlo HDP čtyřnásobně, tedy o asi 300 %. Pak začali investovat do IT a v 80. letech přešli na demokracii.
+
+Tchaj-wan vsadil také na elektroniku, IT a vzdělanost. Dnes je největším producentem čipů na světě. Před pěti lety jsem měl možnost navštívit jejich ITRI, něco jako akademii věd, a od té doby to beru jako chrám vzdělanosti a inovací.
+
+A vlastně jakoby mimochodem: všechny tyhle země patří k zemím s největší životní úrovní, očekávanou délkou dožití a rozvojem lidského potenciálu — velmi často jsou v TOP 10 na světě. Kombinace HDP a průměrné mzdy pak tvoří docela zřetelné obrysy cen za produkty a služby.
+
+Nejvíc mě ale překvapilo, že když to člověk zažije, promluví s místními lidmi a pročte Wikipedii, je to jako otevřená učebnice ekonomického úspěchu.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-09-shaolin/022.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/023.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/024.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-09-shaolin/025.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/019.webp" alt="Ekonomika Číny a asijských tygrů, září 2024 (19)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/020.webp" alt="Ekonomika Číny a asijských tygrů, září 2024 (20)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/021.webp" alt="Ekonomika Číny a asijských tygrů, září 2024 (21)" loading="lazy" />
 </div>
 
-Kdo chcete slyšet hodinu vyprávět, co Vám tady postupně davame, tak nas zpovidal nejvetsi popularizátor EV - ElectroDad:
-https://youtu.be/78CLJ-k_xO0?si=iiIalgCp_X732EGP
-Děkujeme!🙏🏻
+## Ekonomická pohádka 2: Čína a rozptyl mezd
+
+Hodně statistik i na dobrých zdrojích mi připadá zkreslených — některé tvrdí přes 95 000 Kč průměrnou mzdu v Číně. Denně tu něco řeším a vidím ten rozptyl cen, takže spíš odhaduju takto:
+
+| Kde | Mzda (hrubého) |
+|---|---|
+| Velká města | 30–40 tis. Kč (přibližně jako u nás) |
+| Malá města a vnitrozemí | do 20 tis. Kč, tedy naše minimální mzda |
+| Dost lidí | i jen do 10 tis. Kč |
+| Velké korporace | jako u nás, až statisíce měsíčně |
+
+A trocha dat k celé zemi:
+
+| Ukazatel | Čína |
+|---|---|
+| Podíl na světové výrobě | 28 % všeho, co se na světě vyrobí |
+| HDP v běžných cenách | těsně za USA |
+| HDP v paritě kupní síly | největší na světě už dávno |
+| Růst HDP | cca 5 % ročně (dříve i 10 %) |
+| Inflace | cíl 2 %, skutečnost 1,5–2,9 % |
+| 5G připojení k internetu v roce 2022 | 500 mil. lidí |
+
+I Wikipedie uvádí, že to HDP nesedí, už když se začne počítat od mezd — přitom firmy vydělávají ještě víc. Mají velmi nízké ceny, takže v podstatě každý ekonomický ukazatel se najednou o polovinu zvýší, jen když to přepočtete na paritu kupní síly. Z kombinace růstu a inflace pak vyplývá zajímavý prostor: když si dovolím určitou bulvárnost, vlastně bohatnou o 3 % ročně po odečtení inflace.
+
+## Infrastruktura po čínsku
+
+U asijských tygrů jsem psal o infrastruktuře a vzdělanosti. Tady se mi líbí ještě další rozměry. Podle mě si naprostá většina lidí vykládá infrastrukturu podle minulého století — a přitom tady už v roce 2022 mělo pět set milionů lidí 5G připojení na internet. To přece dnes propojuje lidi a zmenšuje vzdálenosti nejvíc.
+
+A ta „stará infrastruktura“ je tu taky mazec. Jejich rychlovlaky jsme si oblíbili nejvíc, přejeli jsme s nimi celou Čínu napříč, a všude staví nové dálnice, letiště i železnice.
+
+## Návrh na banánový index
+
+Přidáváme obrázek známého Big Mac indexu — a k tomu návrh: zavedl bych ovocný index, třeba banánový. Proč?
+
+- Překvapilo mě, že ovoce má na celém světě spíš vyšší hodnotu, než jsem čekal. Melouny, jahody i banány stojí velmi podobně všude, možná je to dané logistikou a maržemi nadnárodních řetězců.
+- Je zdravější než zpracované potraviny, takže při vyšší dostupnosti bych očekával pozitivní dopad na zdraví obyvatel.
+- A jím ho nejčastěji.
+
+<div class="gallery">
+  <img src="/assets/stories/2024-09-shaolin/022.webp" alt="Big Mac index a ceny v Číně, září 2024 (22)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/023.webp" alt="Big Mac index a ceny v Číně, září 2024 (23)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/024.webp" alt="Big Mac index a ceny v Číně, září 2024 (24)" loading="lazy" />
+  <img src="/assets/stories/2024-09-shaolin/025.webp" alt="Big Mac index a ceny v Číně, září 2024 (25)" loading="lazy" />
+</div>
+
+## Hodina vyprávění na jednom místě
+
+Kdo chcete slyšet celou hodinu toho, co tady dáváme po částech, zpovídal nás největší popularizátor EV [ElectroDad](https://youtu.be/78CLJ-k_xO0?si=iiIalgCp_X732EGP). Děkujeme!

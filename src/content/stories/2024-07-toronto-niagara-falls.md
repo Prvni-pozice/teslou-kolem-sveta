@@ -1,73 +1,104 @@
 ---
-title: "Toronto, Niagarské vodopády a Nikola Tesla"
-description: "Socha Nikoly Tesly u Niagary, největší pohyblivá střecha světa, Tesla sraz v Hamiltonu a překvapivé setkání se Stefanem — 82letým Čechem z Kanady."
+title: "Toronto, Niagara a Stefan, který v 82 letech jezdí Model X"
+description: "Socha Nikoly Tesly u Niagary, hydroelektrárna z roku 1895 a sraz v Hamiltonu, kde jsme potkali 82letého Stefana s Teslou Model X."
 pubDate: 2024-07-21
 category: cesta
 continent: ameriky
 country: "CA"
 tags: ["Toronto", "Niagara", "Nikola Tesla", "Tesla sraz", "Kanada"]
 heroImage: "/assets/stories/2024-07-toronto-niagara-falls/001.webp"
-heroImageAlt: "Toronto, Niagarské vodopády a Nikola Tesla"
-prevSlug: "2024-07-stredni-usa-route-66"
-nextSlug: "2024-07-vermont-jezero-fairlee"
+heroImageAlt: "Starší pán za volantem červené Tesly Model X na srazu klubu Tesla Owners Club of Ontario"
+heroCaption: "Stefanovi je 82 let a na sraz přijel tisícikoňovým SUV."
+readingTime: 5
 draft: false
 importedFrom: facebook
 ---
 
-To si takhle normálně jedete Torontem, míjíme největší pohyblivou střechu světa, nejvyšší  budovu světa do roku 2009.. a vedle Vás se začne legálně kouřit z auta 😂😄
+Kanada nám dala hned několik věcí, které jsme nečekali: Niagarské vodopády jako poutní místo pro majitele Tesel, torontské ulice, ve kterých si připadáte jako v Indii, a jedno setkání, na které nezapomeneme.
 
-![](/assets/stories/2024-07-toronto-niagara-falls/001.webp)
+## Torontem kolem CN Tower — a auto, ze kterého se legálně kouří
 
-Našli jsme CN Tower (do 2009 nejvyšší stavba Světa) a zašli naproti do The Rec Room (herna)..🙈🤣
+To si takhle normálně jedete Torontem, míjíte největší pohyblivou střechu světa a nejvyšší budovu světa do roku 2009 — a vedle vás se z auta začne úplně legálně kouřit.
 
-<video controls src="/assets/stories/2024-07-toronto-niagara-falls/video-001.mp4" style="max-width:100%"></video>
+Když jsme pak CN Tower, do roku 2009 nejvyšší stavbu světa, konečně našli, zamířili jsme naproti do herny The Rec Room. Dá se tomu říkat kulturní program.
 
-Kanada - Češi - Němci - komunisti - Tesla ..??
-To na setkání teslaownersontario mimo mnoha dalsich lidi potkáte Stefana (a pred tím i poprvé 2 lidi z československé komunity).
-Je mu 82 let, takže už těžce chodí, ale na sraz přijel tisíci-koňovým SUV - Tesla Model X🤩🤩. Ještě před par lety prý projel Evropu za 24 hod v půjčené Tesle na trase: Vídeň - Praha - Berlín - Bordó👍🏻. Do Kanady se dostal tak, ze rodiče s ním utekli do záp. Berlína pouze s malou taškou v ruce - pry žádali rodiče o dovolenou opakovaně, až jednou zmátli úředníky a ty pustili celou rodinu naraz (jinak vždy jen jedno dite s jedním rodičem).
-Drive delal pro IBM a létal po celém Světě. V 70. letech byl pracovně v Paříži a kolegové chtěli, ať jim ukaze východní Německo a zap. Berlín. Vsichni meli kanadské pasy a půjčili si obyčejného maleho Citroena - kachnu. Kdyz přijížděli k hranicím, tak se vsichni trochu báli, co nastane. Najednou si pred ne stoupla stráž a zasalutovala se zbraněmi a dala pokyn, aby projeli😳.
-Nevěděli, co se deje a pak jim došlo, ze měli na aute Kanadskou vlajku a červené spz (to mela pry turistická auta ve Francii), takze je považovali za diplomaty😂.
-Všichni jim říkali, ať si daji pozor na rychlostní limit na dalnici ve vých. Německu a stejně pry hned dostali pokutu (resp. policista asi potreboval valuty).
-Kazdopadne při vjezdu do záp. Berlína se vše opakovalo a trochu s tím už počítali😅.
+<video controls preload="none" src="/assets/stories/2024-07-toronto-niagara-falls/video-001.mp4" style="max-width:100%"></video>
 
-Na svém autě si sám dodělává různé vychytávky (el. otevírání a zavíráni předního kufru, osvětlení, packy pod volantem atd.). Prostě se evidentně nenudí😀.
+<video controls preload="none" src="/assets/stories/2024-07-toronto-niagara-falls/video-002.mp4" style="max-width:100%"></video>
 
-Jsem zvědavý, kdo z nás bude jezdit v 82 letech s 1000 koňovým autem..✨
+## Stefan: 82 let, Model X a útěk do západního Berlína
+
+Kanada, Češi, Němci, komunisti a Tesla — tohle všechno se sešlo v jednom rozhovoru. Na setkání Tesla Owners Ontario jsme mimo mnoha dalších lidí potkali Stefana. A předtím taky poprvé dva lidi z československé komunity.
+
+Stefanovi je 82 let, takže už těžce chodí, ale na sraz přijel tisícikoňovým SUV — Teslou Model X. Ještě před pár lety prý projel Evropu za 24 hodin v půjčené Tesle na trase Vídeň — Praha — Berlín — Bordeaux.
+
+Do Kanady se dostal tak, že s ním rodiče utekli do západního Berlína jen s malou taškou v ruce. Opakovaně žádali o dovolenou, až jednou zmátli úředníky a ti pustili celou rodinu naráz — jinak vždycky směli jet jen jedno dítě s jedním rodičem.
+
+### Kachna s kanadskou vlajkou a salutující stráž
+
+Dřív Stefan pracoval pro IBM a létal po celém světě. V 70. letech byl pracovně v Paříži a kolegové po něm chtěli, ať jim ukáže východní Německo a západní Berlín. Všichni měli kanadské pasy a půjčili si obyčejného malého Citroëna — kachnu.
+
+Když přijížděli k hranicím, trochu se báli, co nastane. Najednou se před ně postavila stráž, zasalutovala se zbraněmi a dala pokyn, aby projeli. Nevěděli, co se děje, a pak jim došlo, že mají na autě kanadskou vlajku a červenou značku — tu prý ve Francii měla turistická auta —, takže je považovali za diplomaty.
+
+Všichni jim předtím říkali, ať si dají pozor na rychlostní limit na dálnici ve východním Německu. Pokutu dostali hned tak jako tak, policista asi potřeboval valuty. Při vjezdu do západního Berlína se pak celé to salutování zopakovalo a už s tím trochu počítali.
+
+### Nenudí se
+
+Na svém autě si Stefan sám dodělává různé vychytávky: elektrické otevírání a zavírání předního kufru, osvětlení, packy pod volantem a další. Evidentně se nenudí.
+
+Jsem zvědavý, kdo z nás bude v 82 letech jezdit s tisícikoňovým autem.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-07-toronto-niagara-falls/001.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-toronto-niagara-falls/002.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-toronto-niagara-falls/003.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-toronto-niagara-falls/004.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-toronto-niagara-falls/005.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/002.webp" alt="Toronto, Niagara a Tesla sraz v Kanadě, červenec 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/003.webp" alt="Toronto, Niagara a Tesla sraz v Kanadě, červenec 2024 (3)" loading="lazy" />
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/004.webp" alt="Toronto, Niagara a Tesla sraz v Kanadě, červenec 2024 (4)" loading="lazy" />
+  <img src="/assets/stories/2024-07-toronto-niagara-falls/005.webp" alt="Toronto, Niagara a Tesla sraz v Kanadě, červenec 2024 (5)" loading="lazy" />
 </div>
 
-Niagarské vodopády jsme neměli spojené s Nikolou Teslou. Na jeho soše je ale vytesáno: "Možnosti vůle a sebeovládání ohromně oslovily moji živou představivost, až se nakonec moje vůle a přání staly jedním. Jsou takové i dnes a v tom spočívá tajemství jakéhokoli úspěchu, kterého jsem dosáhl: Moje představy byly rovnocenné realitě."Navíc prý už jako 12ti letý prohlásil, že jednou využije sílu Niagár pro lidi.V roce 1895 zde postavil první významnou hydroelektrárnu na světě😳👍🏻. V podstatě funguje dodnes!😳😳Tím vším chceme říct, že zastávka zde se stává v podstatě ikonickou i povinnou pro auta naší značky😁.
+## Niagara a Nikola Tesla: nápis na soše a hydroelektrárna z roku 1895
 
-<video controls src="/assets/stories/2024-07-toronto-niagara-falls/video-003.mp4" style="max-width:100%"></video>
+Niagarské vodopády jsme si s Nikolou Teslou vůbec nespojovali. Stojí tu ale jeho socha a na ní je vytesáno:
 
-Díky poctě N. Teslovi se pro nás staly Niagarské vodopády v podstatě ikonickou zastávkou..🤩👍🏻⚡️
-A rozhodně doporucujeme pro vsechny nadšence, nejen Teslisty..😉⚡️
+> „Možnosti vůle a sebeovládání ohromně oslovily moji živou představivost, až se nakonec moje vůle a přání staly jedním. Jsou takové i dnes a v tom spočívá tajemství jakéhokoli úspěchu, kterého jsem dosáhl: Moje představy byly rovnocenné realitě."
 
-Toronto - město jakoby leželo u moře, ale je to ,,jen” obrovské Lake Ontario s ostrůvky, na které se dostanete plachetnicí nebo lodním taxíkem. Na náměstích, v parcích to žije živou hudbou. Když míjíte lidi v ulicích, připadáte si spíš, jako v Indii. 
-Měli jsme tady sraz s Alenou, která v Kanadě žije asi od 15 let, studuje zde architekturu a pracuje pro místní architektonický atelier. Moc děkujeme za skvělý doprovod a náhled do místního života. Moc jí přejeme, aby byla šťastná ♥️🙂
+Prý už jako dvanáctiletý prohlásil, že jednou využije sílu Niagár pro lidi. V roce 1895 tady postavil první významnou hydroelektrárnu na světě — a ta v podstatě funguje dodnes.
 
-<video controls src="/assets/stories/2024-07-toronto-niagara-falls/video-004.mp4" style="max-width:100%"></video>
+Tím vším chceme říct, že zastávka u Niagary se pro auta naší značky stává v podstatě ikonickou, ne-li povinnou. A doporučujeme ji všem nadšencům, nejen Teslistům.
 
-Québec - pod nohama se nám ukrývaly zbytky pevnosti a Chateau Saint-Louis. Stavby sloužily v letech 1620-1834 jako koloniální sídla guvernérů a vydávala se odtud rozhodnutí, která ovlivnila  velkou část severoamerického kontinentu. 
-Dnes je i toto místo zasvěcené umění. 
-Od Montréalu nás například baví pan Pink, růžový, pryskyřicový nebo nafouknutý pupkatý chlapík, který parkouruje po střechách, kochá se v korunách stromů, nebo je v různých srandovních polohách. Je od francouzského umělce Philippe Katerine a podle něj oslavuje krásu v jednoduchosti a úžas v každodenním životě.
-V místním Tesla servisu nám prohlédli auto a půjčili nám náhradní Teslu s parádním automatem. Za to jsme jim vysázeli par třešní před prodejnou 🙂 a z města nás vyprovodil místní Tesla taxík.
+<video controls preload="none" src="/assets/stories/2024-07-toronto-niagara-falls/video-003.mp4" style="max-width:100%"></video>
+
+## Toronto jako město u moře a průvodkyně Alena
+
+Toronto vypadá, jako by leželo u moře. Je to ale „jen" obrovské Lake Ontario s ostrůvky, na které se dostanete plachetnicí nebo lodním taxíkem. Na náměstích a v parcích to žije živou hudbou a když míjíte lidi v ulicích, připadáte si spíš jako v Indii.
+
+Měli jsme tady sraz s Alenou, která v Kanadě žije asi od svých 15 let, studuje tu architekturu a pracuje pro místní architektonický ateliér. Moc děkujeme za skvělý doprovod a náhled do místního života — a přejeme jí, aby byla šťastná.
+
+<video controls preload="none" src="/assets/stories/2024-07-toronto-niagara-falls/video-004.mp4" style="max-width:100%"></video>
+
+## Québec: Chateau Saint-Louis, pan Pink a třešně před prodejnou
+
+V Québecu se nám pod nohama ukrývaly zbytky pevnosti a Chateau Saint-Louis. Stavby sloužily v letech 1620–1834 jako koloniální sídla guvernérů a vydávala se odtud rozhodnutí, která ovlivnila velkou část severoamerického kontinentu. Dnes je i tohle místo zasvěcené umění.
+
+Od Montréalu nás pak baví pan Pink — růžový, pryskyřicový nafouknutý pupkatý chlapík, který parkouruje po střechách, kochá se v korunách stromů nebo se povaluje v různých srandovních polohách. Je od francouzského umělce Philippa Katerine a podle něj oslavuje krásu v jednoduchosti a úžas v každodenním životě.
+
+V místním Tesla servisu nám prohlédli auto a půjčili nám náhradní Teslu s parádním automatem. Za to jsme jim před prodejnou vysázeli pár třešní. Z města nás vyprovodil místní Tesla taxík.
 
 ![Rodina s týmem Tesla servisu v Québecu](/images/c9507c33-rodina.jpeg)
 
-<video controls src="/assets/stories/2024-07-toronto-niagara-falls/video-005.mp4" style="max-width:100%"></video>
+<video controls preload="none" src="/assets/stories/2024-07-toronto-niagara-falls/video-005.mp4" style="max-width:100%"></video>
 
-Ještě ohlédnutí za Tesla srazem v Hamiltonu Tesla Owners Club of Ontario (official) v Kanadě. Bylo to opět moc příjemné setkání. 👍
-A nejen tady, ale i na dálnici, chargerech, parkovištích,.. všude potkáváme lidi, které zajímá naše cesta 🙂
+## Sraz v Hamiltonu a lidé, které naše cesta zajímá
 
-<video controls src="/assets/stories/2024-07-toronto-niagara-falls/video-006.mp4" style="max-width:100%"></video>
+Ještě ohlédnutí za Tesla srazem v Hamiltonu, který pořádal Tesla Owners Club of Ontario. Bylo to zase moc příjemné setkání. A nejen tady — lidi, které naše cesta zajímá, potkáváme i na dálnici, na chargerech nebo na parkovištích.
 
-Město Columbus - navštívili jsme Bicentennial Park, kde dominují vodní prvky (děti klasicky nejdřív nikam nechtěly, pak jsme je odtamtud nemohli dostat🙂), hned vedle je park s obří horolezeckou stěnou, ten zkusíme třeba příště a další, co stojí za návštěvu je pro kytkomily  třeba Columbus Park of Roses, s velkým rozáriem 🙂
+<video controls preload="none" src="/assets/stories/2024-07-toronto-niagara-falls/video-006.mp4" style="max-width:100%"></video>
 
-<video controls src="/assets/stories/2024-07-toronto-niagara-falls/video-008.mp4" style="max-width:100%"></video>
+<video controls preload="none" src="/assets/stories/2024-07-toronto-niagara-falls/video-007.mp4" style="max-width:100%"></video>
+
+## Columbus: fontány, ze kterých nešlo děti dostat
+
+V Columbusu jsme navštívili Bicentennial Park, kde dominují vodní prvky. Děti klasicky nejdřív nikam nechtěly a pak jsme je odtamtud nemohli dostat.
+
+Hned vedle je park s obří horolezeckou stěnou — ten zkusíme třeba příště. A kdyby vás zajímaly kytky, stojí za návštěvu Columbus Park of Roses s velkým rozáriem.
+
+<video controls preload="none" src="/assets/stories/2024-07-toronto-niagara-falls/video-008.mp4" style="max-width:100%"></video>

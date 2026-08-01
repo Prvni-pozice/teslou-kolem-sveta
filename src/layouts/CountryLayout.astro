@@ -4,6 +4,7 @@ import StoryCard from '../components/travel/StoryCard.astro';
 import Badge from '../components/ui/Badge.astro';
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
+import imageDims from '../data/image-dims.json';
 
 interface Props {
   country: CollectionEntry<'countries'>;
@@ -53,7 +54,13 @@ const continentLabels: Record<string, string> = {
   <!-- Country hero -->
   {heroImage && (
     <div class="country-hero">
-      <img src={heroImage} alt={heroImageAlt ?? `${nameCs} — cestování Teslou`} loading="eager" />
+      <img
+        src={heroImage}
+        alt={heroImageAlt ?? `${nameCs} — cestování Teslou`}
+        width={(imageDims as Record<string, [number, number]>)[heroImage]?.[0]}
+        height={(imageDims as Record<string, [number, number]>)[heroImage]?.[1]}
+        loading="eager"
+      />
       {heroCaption && <p class="hero-caption">{heroCaption}</p>}
     </div>
   )}

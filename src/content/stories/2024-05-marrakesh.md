@@ -1,72 +1,97 @@
 ---
-title: "Marrakesh: Orientální šrumec potřetí"
-description: "Tři návštěvy Marrakeshe — trhy, park Menara, největší orientální šrumec a kontrast reality kolem."
+title: "Marrakesh potřetí: orientální šrumec a dobíjení"
+description: "Medina, Jama el fna a park Menara při třetí návštěvě Marrakeshe — a k tomu praktické srovnání, jak rychle se v Maroku dobíjí a co dělá Portabox."
 pubDate: 2024-05-10
 category: cesta
 continent: afrika
 country: "MA"
-tags: ["Marrakesh", "Maroko", "medina", "Menara"]
+tags: ["Marrakesh", "Maroko", "medina", "Menara", "dobíjení"]
 heroImage: "/assets/stories/2024-05-marrakesh/001.webp"
-heroImageAlt: "Marrakesh: Orientální šrumec potřetí"
-prevSlug: "2024-04-spanelsko-bilbao-porto"
-nextSlug: "2024-05-prekaroceni-afriky"
+heroImageAlt: "Tmavě modrá Tesla Model 3 s logy partnerů a nálepkou 80eDays v noci u brány s cimbuřím, připojená k nabíječce"
+heroCaption: "Ubytování s nabíječkou — pro nás ta nejlepší kombinace."
+readingTime: 5
 draft: false
 importedFrom: facebook
 ---
 
-Dobíjení..
-Z: Připravte se na dalsi "nudný" prispevek o dobíjení. Začnu trochu obecně, protože to většina lidí nezmiňuje.
-Když jedete takový trip a krome spotřeby můžete porovnat i rychlost nabijeni na SC (super chargerech = rychlých nabijeckach), tak opet zjistíte, jak Tesla 3 je skvele auto. Do 50% nabijí cca 145-100kW (na v2 stojanech, jinak rychleji ve spodním pásmu) a pak zpomaluje na cca 80kW a nekde pres 80% uz nabijí jen cca 40kW.
-Nicmene pokazde me Rafael upozorňuje, ze vsechny starsi Modely S nabíjí kolem 100kW do 50% a pak to spadne vzdy na polovinu. Navic platí, ze čím starsi baterie, tak je to jeste horsi. On ma najeto 600 tis. km a mel ji jednou měněnou v zaruce (myslim) a ted pred cestou zminoval nejakou drobnou opravu.
-Kazdopadne ve Španělsku s nami jel i Jirka Vlk, ktery ma najeto cca stejne s původní baterkou a tomu to nabijelo jeste pomaleji.
-Friedwart jel tady po Maroku s nami s Kiou Niro a nemohl využívat Tesla rychle nabíječky. Tzn. nevidel jsem v praxi jeho rychlost nabijeni, ale sam mluvil o tom, ze i tak nabijí proudem max 100kW, ale nejčastěji využívá pomalé (AC) nabijeni a hleda i stojany zdarma.
-Krome celkove rychlosti nabijeni tim chci ilustrovat i realitu toho, ze kdyz je nekde síť nabijeni jako ma Tesla, tak je to najednou uplne "jina hra" a čím novejsi model, tak lepe.
-Na druhou stranu v odlehlých oblastech musime nabijet vsichni stejne a z Evropy je uplne jinak predstavitelné, ze najednou i 2kW pres noc staci, abych dalsi den ujel zase 150-200km a prozkoumal jinou oázu/mesto/plaz. Proste to vlastne musi stacit a staci..
+Marrakesh jsme zažili už třikrát, takže začínáme mít dojem, že aspoň trochu tušíme, jak to tam frčí. A přidáváme k tomu i to, co v cestopisech nenajdete: jak se v Maroku reálně dobíjí.
 
-![](/assets/stories/2024-05-marrakesh/001.webp)
+## Největší orientální šrumec, jaký jsme viděli
 
-Marrakesh jeste rozepiseme vice - toto je takový silný kontrast k realitě kolem..😀
+Když si zpětně promítám všechna místa, jednoznačně je v Marrakeshi ten největší „orientální šrumec". Kdo tohle považuje za exotiku a chce ji, ten tam musí. Nikde jinde to není tak intenzivní — a je to intenzivní úplně ve všem:
 
-Marrakesh jsme zažili již 3x,
-tak zaciname mit dojem, ze trochu tusime, jak to tam frčí..
-Z: Kdyz si zpetne promítám všechna místa, tak jednoznačně je tam největší "orientální šrumec". Tzn. kdo toto považuje za exotiku a chce to, tak musí určitě tam. Nikde jinde to není tak intenzivní..
-Je to ale intenzivní úplně vsude a ve vsem:
-- vysoké teploty (včera 39, auto ukazovalo i 45)
-- nacpané ulice vším provozem
-- blízko centra míjíte parky, paláce, obrovské bulváry a najednou se musíte protáhnout úzkou bránou..
-- když se vydáte do úplného centra (vetsinou to nazývají "medina"), tak jsou to jen pěší uličky, kde ale co chvili z davu vyletí motorka a zmizí v nejake jine uličce, porad se valí davy turistů i místních ze vsech myslitelnych směrů, na kazdem metru nekdo neco prodává a tyto uličky maji v součtu nekolik kilometrů😳
-- kdyz mate stesti a trefite na hlavní namesti (Jama el fna), tak tam je snad cely orientální Svět😀 - čerstvé džusy z 20 druhů ovoce po 2 €, pečené masa ze vseho co znáte (nebo i nechcete znát), kytky, kabelky, skleněné veci, oblečení, krotitelé hadů, proste všechno.. Všechno je dobré a nemusíte se bát jist u stánků skoro cokoliv..
-- kdo je tam poprvé, tak se zpravidla cítí trochu pomačkaný, vyčerpaný, překvapený, neví kam dřív koukat..
-..prostě je to mazec.
-A pak staci jen vstoupit do nejake zahrady a zažijete opak. Když u toho zapadá slunce, tak je to jen o to silnější..🤩🤩
+- **Vysoké teploty** — včera 39 °C, auto ukazovalo i 45.
+- **Nacpané ulice** vším možným provozem.
+- **Prudké přechody:** blízko centra míjíte parky, paláce a obrovské bulváry, a najednou se musíte protáhnout úzkou bránou.
+- **Medina**, jak úplnému centru většinou říkají, jsou jen pěší uličky. Co chvíli z davu vyletí motorka a zmizí v jiné uličce, pořád se valí davy turistů i místních ze všech myslitelných směrů, na každém metru někdo něco prodává — a ty uličky mají v součtu několik kilometrů.
+- **Jama el fna:** když máte štěstí a trefíte na hlavní náměstí, je tam snad celý orientální svět. Čerstvé džusy z dvaceti druhů ovoce po 2 €, pečená masa ze všeho, co znáte (nebo i nechcete znát), kytky, kabelky, skleněné věci, oblečení, krotitelé hadů, prostě všechno. Všechno je dobré a nemusíte se bát jíst u stánků skoro cokoliv.
+
+Kdo je tam poprvé, cítí se zpravidla trochu pomačkaný, vyčerpaný a překvapený a neví, kam se dřív koukat. Prostě je to mazec.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-05-marrakesh/010.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/011.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/012.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/013.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/014.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/015.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/016.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/017.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/018.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-05-marrakesh/019.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/002.webp" alt="Marrakesh, květen 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/003.webp" alt="Marrakesh, květen 2024 (3)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/004.webp" alt="Marrakesh, květen 2024 (4)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/005.webp" alt="Marrakesh, květen 2024 (5)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/006.webp" alt="Marrakesh, květen 2024 (6)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/007.webp" alt="Marrakesh, květen 2024 (7)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/008.webp" alt="Marrakesh, květen 2024 (8)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/009.webp" alt="Marrakesh, květen 2024 (9)" loading="lazy" />
 </div>
 
-Náklaďák otočil Audi na dálnici u Barcelony🚨
-📅 Datum: 24. 4. 2024,  ⏰ Čas: 12:24
+## A pak stačí vstoupit do zahrady
 
-Dneska jsme byli svědkem děsivé nehody na dálnici nedaleko Barcelony. Kamion začal náhle tlačit Audi A3 bokem před sebou, to se dále otočilo a skončilo přímo před námi. Naštěstí jsme dokázali včas zareagovat..
+Nejsilnější na tom je ten kontrast. Stačí vejít do nějaké zahrady a zažijete přesný opak toho, co se děje pár metrů za zdí. Když u toho ještě zapadá slunce, je to o to silnější.
 
-Bylo to prakticky na prvních kilometrech naší cesty kolem Světa, při výjezdu z Barcelony směrem na Bilbao.
+Marrakesh ještě rozepíšeme víc — tohle je takový silný kontrast k realitě kolem.
 
-Španělští řidiči jezdí trochu více "na tělo", takže si naopak necháváme větší prostor, kde to jde a tentokrát se to velmi vyplatilo..👍🏻
+<div class="gallery">
+  <img src="/assets/stories/2024-05-marrakesh/010.webp" alt="Marrakesh, květen 2024 (10)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/011.webp" alt="Marrakesh, květen 2024 (11)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/012.webp" alt="Marrakesh, květen 2024 (12)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/013.webp" alt="Marrakesh, květen 2024 (13)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/014.webp" alt="Marrakesh, květen 2024 (14)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/015.webp" alt="Marrakesh, květen 2024 (15)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/016.webp" alt="Marrakesh, květen 2024 (16)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/017.webp" alt="Marrakesh, květen 2024 (17)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/018.webp" alt="Marrakesh, květen 2024 (18)" loading="lazy" />
+  <img src="/assets/stories/2024-05-marrakesh/019.webp" alt="Marrakesh, květen 2024 (19)" loading="lazy" />
+</div>
 
-Všem přejeme jen samé šťastné a bezpečné kilometry!
+## Park Menara, aneb když nejdeme pro pomeranče na trh
 
-#dopravníbezpečnost #nehoda #Barcelona #80edays #TeslouKolemSveta
+Park Menara v Marrakeshi je přesně ten druhý svět. A jeden prodavač nám tam tvrdil, že je tady „lepší slunce" než ve městech na pobřeží — že i král to tak má radši, protože je to tu zdravější.
 
-https://youtu.be/jOrnwrfderg?si=CTCzDGemjMYKkmKY
+## Dobíjení: čísla, o kterých se většinou nemluví
 
-Park Menara v Marrakeshi - aneb jak to vypada, když nejdeme pro pomeranče na trh..😅
-Btw. jeden prodavač nám tvrdil, že je tady "lepší slunce" než ve městech na pobřeží, že i král to má radši, že je tady zdravější..🤷🏻‍♂️
+Připravte se na další „nudný" příspěvek o dobíjení. Začnu trochu obecně, protože to většina lidí nezmiňuje. Když jedete takový trip a kromě spotřeby můžete porovnat i rychlost nabíjení na superchargerech, znovu zjistíte, jak skvělé auto Tesla Model 3 je.
+
+| Stav baterie | Model 3 na v2 stojanu |
+|---|---|
+| do 50 % | cca 145–100 kW (na jiných stojanech rychleji ve spodním pásmu) |
+| nad 50 % | cca 80 kW |
+| někde nad 80 % | cca 40 kW |
+
+Rafael mě přitom pokaždé upozorňuje, že všechny starší Modely S nabíjí kolem 100 kW do 50 % a pak to spadne vždy na polovinu. Navíc platí, že čím starší baterie, tím je to ještě horší. On má najeto 600 tisíc kilometrů, baterii měl jednou měněnou v záruce (myslím) a teď před cestou zmiňoval nějakou drobnou opravu.
+
+Ve Španělsku s námi jel i **Jirka Vlk**, který má najeto přibližně stejně s původní baterkou, a tomu to nabíjelo ještě pomaleji. **Friedwart** jel tady po Maroku s námi s Kiou Niro a nemohl využívat rychlonabíječky Tesla. Jeho rychlost nabíjení jsem tedy v praxi neviděl, ale sám mluvil o tom, že i tak nabíjí proudem maximálně 100 kW a nejčastěji využívá pomalé AC nabíjení, případně hledá stojany zdarma.
+
+Kromě celkové rychlosti nabíjení tím chci ilustrovat i realitu, že když je někde síť nabíjení jako má Tesla, je to najednou úplně „jiná hra" — a čím novější model, tím lépe. Na druhou stranu v odlehlých oblastech musíme nabíjet všichni stejně a z Evropy je úplně jinak představitelné, že najednou i 2 kW přes noc stačí, abych další den ujel zase 150–200 km a prozkoumal jinou oázu, město nebo pláž. Prostě to vlastně musí stačit — a stačí.
+
+## Otočené dráty v každé zásuvce
+
+A teď ještě nějaká legrace k síti. Rafael objel několikrát celý svět a umí si poradit s mnoha situacemi. Jen jedinkrát v životě viděl někde ve Francii pro nás „špatné zapojení" — a tady je minimálně na jihu všude. V běžné zásuvce mají otočené dráty.
+
+Pro většinu zařízení to nevadí, ale na Portaboxu od Inchanetu je vidět, jak svítí červeně. Takto se zachovaly všechny nabíječky, které jsme zkusili. Rafael se většinou šel podívat až do rozvaděče a viděl, že je tak zapojený třeba celý kemp. A navíc velmi často jen na jedné fázi. Obvykle u toho ještě prohodil, že to tak bývá vždycky, že Francouzi prostě jen dělají všechno složitě a pak to nefunguje.
+
+## Lidé, kteří zvednou telefon
+
+Zároveň máme velkou výhodu, že šéf firmy na nabíječky **kilowatt.ma Ali Lakrakbi** je velmi ochotný pomoci — občas jsme mu zavolali i s dotazem na nějaké chování místních. Rafael má zase kontakt na šéfa **FastVolt**, což je asi největší síť nabíječek tady. Všem moc děkujeme za ochotu.
+
+## Náklaďák otočil Audi na dálnici u Barcelony
+
+Ještě se vrátíme na začátek cesty. **24. 4. 2024 v 12:24** jsme byli svědky děsivé nehody na dálnici nedaleko Barcelony. Kamion začal náhle tlačit Audi A3 bokem před sebou, to se dále otočilo a skončilo přímo před námi. Naštěstí jsme dokázali včas zareagovat.
+
+Bylo to prakticky na prvních kilometrech naší cesty kolem světa, při výjezdu z Barcelony směrem na Bilbao. Španělští řidiči jezdí trochu víc „na tělo", takže si naopak necháváme větší prostor, kde to jde — a tentokrát se to velmi vyplatilo.
+
+Všem přejeme jen samé šťastné a bezpečné kilometry. Záznam je [na YouTube](https://youtu.be/jOrnwrfderg?si=CTCzDGemjMYKkmKY).

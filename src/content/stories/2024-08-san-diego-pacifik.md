@@ -1,131 +1,120 @@
 ---
-title: "San Diego: Přejeli jsme Ameriku — 12 500 km od pobřeží k pobřeží"
-description: "Cíl na Pacifiku v San Diegu, ranč na okraji Mohavské pouště, čeští emigranti a zemětřesení za jízdy."
+title: "San Diego: přejeli jsme Ameriku od pobřeží k pobřeží"
+description: "Pacifik v San Diegu po 12 500 km, dílna Gruber Motors zevnitř, ranč na okraji Mohavské pouště a noční zemětřesení na dálnici."
 pubDate: 2024-08-03
 category: cesta
 continent: ameriky
 country: "US"
 tags: ["San Diego", "Pacifik", "Mohavská poušť", "ranč", "zemětřesení"]
 heroImage: "/assets/stories/2024-08-san-diego-pacifik/001.webp"
-heroImageAlt: "San Diego: Přejeli jsme Ameriku — 12 500 km od pobřeží k pobřeží"
-prevSlug: "2024-08-los-angeles-gruber-motors"
-nextSlug: "2024-08-silicon-valley"
+heroImageAlt: "Tmavě modrá Tesla Model 3 s logy 80edays a partnerů pod palmami v ulici v San Diegu"
+heroCaption: "Konec cesty přes americký kontinent — 12 500 kilometrů od Atlantiku k Pacifiku."
+readingTime: 8
 draft: false
 importedFrom: facebook
 ---
 
-Přejeli jsme Ameriku!!⚡️🤩
-Dorazili jsme k Pacifiku v San Diegu👍🏻:
-- právě jsme překonali celkově ujetých 20.000 km😳
-- z toho 12.500 na americkém kontinentu
-- celková spotřeba nám klesá a i s naší aerodynamickou brzdou za autem mame 17,7 kWh/100km⚡️⚡️
-- dobijeli jsme skoro porad jen na pomalých AC (je to nejspolehlivější zpusob napříč všemi standardy a sítěmi)
-- ted to jdeme "oslavit" snídaní na plazi..😁
-PS: neptejte se, kde jsme dnes spali..🙈 (hotely byly plné)
-PS2: Laurinka ma dnes narozeniny!🎉
+Přejeli jsme Ameriku. Dorazili jsme k Pacifiku v San Diegu, a k tomu jsme si na cestě odbyli premiéru, kterou jsme si dopředu neuměli představit: zemětřesení za jízdy.
 
-![](/assets/stories/2024-08-san-diego-pacifik/001.webp)
+## Čísla u Pacifiku
 
-A naše cesta pokračuje.. Včera jsme si trochu zazávodili 🙂 Děkujeme moc za perfektní servis 👍👍👍 K1 Speed
+Milník se sešel hned s několika dalšími:
 
-<video controls src="/assets/stories/2024-08-san-diego-pacifik/video-001.mp4" style="max-width:100%"></video>
+| Údaj | Hodnota |
+|---|---|
+| Celkově ujeto | 20 000 km |
+| Z toho na americkém kontinentu | 12 500 km |
+| Průměrná spotřeba (s aerodynamickou brzdou za autem) | 17,7 kWh/100 km |
 
-Největší a nejstarší nezávislý Tesla servis na světě?😳⚡️
-Gruber Motors Shorts
-Pete byl tak hodný, že nám dovolil prolézt jeho království i s dětmi🙈.
-Kdo je neznáte, tak si dohledejte jejich YouTube nebo Instagram⚡️.
-Jsou to neuvěřitelní borci a jelikož Tesla Roadsterů bylo vyrobeno pouze 2450 ks, tak pravdepodobne nikde jinde na Světě neni misto, kde jich najdete vice pohromadě..
-..a když jsme prošli tuto halu, tak nas vzal do druhé!🤯👍🏻.
-Opravuji i jina auta, takze můžete na dílně potkat i Model S.
-Nema smysl zde vypisovat technicke udaje, protoze to maji moc pekne popsané na svých kanálech.
-Spis nas (opet) překvapila otevřenost a ukazani vseho, co jsme znali jen z YT (napr. battery bunker).
-V druhé hale maji i sběratelské unikáty, to jeste zverejnime zvlášť.
-A ukázali nam i jeden supertajny projekt, kdy jsou schopni opravit a vylepšit součást pohonu jednoho z nejdražších aut planety😳🤯.
-Mezitím zveřejnili na IG svůj vlastní trochu legrační projekt prestavby Tesly na tiny house😂, takze take jeste zverejnime..😉
-Opravdu neskutečné..✨✨
+Celková spotřeba nám tedy pořád klesá. Dobíjeli jsme přitom skoro pořád jen na pomalých AC — napříč všemi standardy a sítěmi je to nejspolehlivější způsob. Slavit jsme šli snídaní na pláži.
 
-Kdo jste si někdy o Teslacich myslel, ze jsou/jsme "sekta", tak radeji nikdy nemluvte s lidmi kolem Roadsterů. To jsou takoví geekové a ultras v jednom🤣🤣. A tady jsme byli v jejich Mekce 😳😂.
-Ale musim uznat, ze je to vlastne oprávněné - kdyby Tesla uměla opet vyrobit takové nekompromisní auto a ostatni to kopírovali, tak bude na Světě vice elektrických úsměvů😄⚡️.
+Neptejte se, kde jsme té noci spali — hotely byly plné. A Laurinka měla zrovna narozeniny.
 
-Kdo chcete vidět více podobných zajímavostí, tak, prosím, zvažte naší podporu:
-https://herohero.co/tesloukolemsveta
-(Děkujeme za první odvážné🙏🏻🙏🏻)
+## Zazávodili jsme si
 
-<video controls src="/assets/stories/2024-08-san-diego-pacifik/video-002.mp4" style="max-width:100%"></video>
+Cesta pokračuje a den po Pacifiku jsme si trochu zazávodili. Díky **K1 Speed** za perfektní servis.
 
-Kdo jste doteď neznali Gruber Motors, tak urcite doporucujeme skouknout. My jsme jim prolezli dílnu cela rodina, takze nas spis překvapila velká otevřenost a ochota👍🏻👍🏻.
+<video controls preload="none" src="/assets/stories/2024-08-san-diego-pacifik/video-001.mp4" style="max-width:100%"></video>
 
-Kdo jste doteď neznali Gruber Motors, tak urcite doporucujeme skouknout. My jsme jim prolezli dílnu cela rodina, takze nas spis překvapila velká otevřenost a ochota👍🏻👍🏻.
+## Gruber Motors: dvě haly a 2450 vyrobených Roadsterů
 
-Kdo jste doteď neznali Gruber Motors, tak urcite doporucujeme skouknout. My jsme jim prolezli dílnu cela rodina, takze nas spis překvapila velká otevřenost a ochota👍🏻👍🏻.
+Největší a nejstarší nezávislý Tesla servis na světě? **Pete** byl tak hodný, že nám dovolil prolézt své království — a to i s dětmi. Kdo Gruber Motors nezná, ať si dohledá jejich YouTube nebo Instagram, technické údaje tam mají popsané mnohem lépe, než bychom je tu vypsali my.
 
-Poznáváme nová místa. Chlapci šli na letadlovou loď.. holky si udělaly pěkný den v zeleném centru San Diega 🙂 Balboa Park
+Jsou to neuvěřitelní borci. Tesla Roadsterů bylo vyrobeno pouze **2450 kusů**, takže pravděpodobně nikde jinde na světě není místo, kde byste jich našli víc pohromadě. A když jsme prošli tuhle halu, vzal nás do druhé. Opravují i jiná auta, takže na dílně můžete potkat i Model S.
 
-Park obsahuje Alkazar zahradu, botanickou, japonskou zahradu,.. x muzeí a pavilonů.
+Spíš než technika nás znovu překvapila otevřenost a ochota — ukázali nám všechno, co jsme dosud znali jen z YouTube, například **battery bunker**. V druhé hale mají sběratelské unikáty a viděli jsme i jeden supertajný projekt: dokážou opravit a vylepšit součást pohonu jednoho z nejdražších aut planety. Mezitím na Instagramu zveřejnili svůj vlastní, trochu legrační projekt přestavby Tesly na tiny house.
 
-<video controls src="/assets/stories/2024-08-san-diego-pacifik/video-003.mp4" style="max-width:100%"></video>
+<video controls preload="none" src="/assets/stories/2024-08-san-diego-pacifik/video-002.mp4" style="max-width:100%"></video>
 
-Dnes večer nás chrání před chřestýši jen psi a kočky..😳😳
-Jak to začalo? Bernard (1. foto) zna kazdeho od San Diega po Los Angeles..
-A poslal nás za Antonínem do kempu - ve skutečnosti je to ranch na okraji Mohavske pouště.
-Konecne mluvíme s někým česky!🙏🏻
-Akorat jsme se asi nemeli tolik ptát:
-- pred kojoty nas chrání 3 vlčáci✅
-- jak to poznáme? Pry je uslyšíme moc dobře..😳
-- chrestyse v okoli pry uz vymlátili..
+## Mekka Roadsterů
 
-Laurinka pak hladila jejich koťata a mama se jmenuje Krteček. Její mama, kdyz mela koťata, tak je bránila pred chrestýšem - a ubránila, ale sama pak zemřela.
-Sestra Krtečka take jednou bránila své malé a take chrestyse přemohla, ale kousnul ji do krku. Tři dny pry stala za oknem jak socha (a zároveň otekla), ale nakonec to přežila. Pečovali o ni dalsi dny a postupne otoky ubyvaly..
-Asi po 2 tydnech se kočce odloupnul cely obličej a normalne spadnul na zem😱😱!
-Španělsky brigádník, kdyz to viděl, tak sebou riznul o zem tak, ze nevěděli, koho maji zachraňovat prvního.
-Speciální pudr zachránil kočku a Španěl to pry později taky rozchodil..🙈😅.
+Kdo jste si někdy o teslistech mysleli, že jsme sekta, raději nikdy nemluvte s lidmi kolem Roadsterů. To jsou geekové a ultras v jednom — a my jsme byli v jejich Mekce.
 
-Příběhů zaznělo jeste hodne..
-Napr. jejich snacha miluje všechna zvířata a nikdy by žádnému neublížila. Antonín ji jednou zahlédl, jak strašně nadává a do neceho mlátí násadou. Kdyz tam doběhl, tak našel jen zmasakrovaneho chrestyse, ktery pry zaútočil na jejího pejska - Ťapku😅😅
+Musím ale uznat, že je to vlastně oprávněné. Kdyby Tesla uměla znovu vyrobit takové nekompromisní auto a ostatní to kopírovali, bylo by na světě víc elektrických úsměvů.
 
-Je to tady takový rázovitý kraj..🤣🤣🤣
-
-Ps: uz asi chápete, proc na fotkách si udobrujeme hlídače pro tuto noc..
-Ps2: rikaji tomu tady 1000-hvězdičkový hotel..😉✨
+Kdo chce vidět víc podobných zajímavostí, může nás podpořit na [herohero](https://herohero.co/tesloukolemsveta). Děkujeme prvním odvážným.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-08-san-diego-pacifik/004.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-08-san-diego-pacifik/005.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-08-san-diego-pacifik/006.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-08-san-diego-pacifik/007.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-08-san-diego-pacifik/008.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-08-san-diego-pacifik/009.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/002.webp" alt="San Diego a Pacifik, srpen 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/003.webp" alt="San Diego a Pacifik, srpen 2024 (3)" loading="lazy" />
 </div>
 
-Očekávali jsme neočekávané,👉🏻
-ale ze si projedeme i zemětřesením jsme nejak neuměli dohlédnout😳.
-To si jedete v noci po dalnici mezi LA a Santa Barbarou a najednou Vam začnou pipat vsechny telefony v aute - i ten, co nepoužíváte (což působilo jak z beckoveho hororu) a na vsech naskakovat nejaka zprava začínající: Warning..
-Koukate po ostatních autech a jen jedno jedine zapne výstražné blinkry a trochu zpomalí.
-Btw. i tato notifikace dojde ve španělštině (jako všechno v anglicky mluvicich USA🤣).
-Bylo to divné, nevěděli jsme, jestli mame někam sjet, naštěstí kolem nebyly žádné vysoké budovy.
-Zrovna jsme mířili k nabíječce a tam potkali nejakeho Itala. Ptám se ho na to a on, ze to uz proběhlo. Ze volal synovi a ten to doma trochu citil. Tvrdil, ze epicentrum bylo 4 hod od nás ve vnitrozemí. Jak vidíte na obrázku tak bylo jen 30 km od nás..
-Tak jsme poprvé v životě projeli autem i zemetresenim..🙈🙈
+## Letadlová loď versus Balboa Park
+
+V San Diegu se výprava rozdělila podle zájmů: kluci šli na letadlovou loď, holky si udělaly pěkný den v zeleném centru města — v **Balboa Parku**. Ten obsahuje Alkazar zahradu, botanickou i japonskou zahradu a nespočet muzeí a pavilonů.
+
+<video controls preload="none" src="/assets/stories/2024-08-san-diego-pacifik/video-003.mp4" style="max-width:100%"></video>
+
+## Tisícihvězdičkový hotel na okraji Mohavské pouště
+
+Dnes večer nás před chřestýši chrání jen psi a kočky. Jak to začalo? **Bernard** (na první fotce) zná každého od San Diega po Los Angeles — a poslal nás za **Antonínem** do kempu, který je ve skutečnosti ranč na okraji **Mohavské pouště**. Konečně mluvíme s někým česky.
+
+Akorát jsme se asi neměli tolik vyptávat:
+
+- **Před kojoty nás chrání tři vlčáci.**
+- **Jak to poznáme?** Prý je uslyšíme moc dobře.
+- **Chřestýše** v okolí už prý vymlátili.
+
+## Kočka jménem Krteček a rodinná chřestýší kronika
+
+Laurinka pak hladila jejich koťata. Máma se jmenuje Krteček — a její vlastní máma, když měla koťata, bránila je před chřestýšem. Ubránila je, ale sama pak zemřela.
+
+Sestra Krtečka taky jednou bránila svoje malé a chřestýše přemohla, ale kousl ji do krku. Tři dny prý stála za oknem jak socha a otékala, nakonec to ale přežila. Pečovali o ni další dny a otoky postupně ubývaly. A pak, asi po dvou týdnech, se kočce odloupl celý obličej a normálně spadl na zem. Španělský brigádník, když to viděl, sebou řízl o zem tak, že nevěděli, koho mají zachraňovat prvního. Kočku zachránil speciální pudr a Španěl to prý později taky rozchodil.
+
+Příběhů zaznělo ještě hodně. Třeba jejich snacha miluje všechna zvířata a nikdy by žádnému neublížila. Antonín ji jednou zahlédl, jak strašně nadává a mlátí do něčeho násadou — když tam doběhl, našel jen zmasakrovaného chřestýše, který prý zaútočil na jejího pejska Ťapku.
+
+Je to tady takový rázovitý kraj. Už asi chápete, proč si na fotkách udobřujeme hlídače pro tuhle noc. Říkají tomu tady tisícihvězdičkový hotel.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-08-san-diego-pacifik/010.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-08-san-diego-pacifik/011.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/004.webp" alt="San Diego a Pacifik, srpen 2024 (4)" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/005.webp" alt="San Diego a Pacifik, srpen 2024 (5)" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/006.webp" alt="San Diego a Pacifik, srpen 2024 (6)" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/007.webp" alt="San Diego a Pacifik, srpen 2024 (7)" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/008.webp" alt="San Diego a Pacifik, srpen 2024 (8)" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/009.webp" alt="San Diego a Pacifik, srpen 2024 (9)" loading="lazy" />
 </div>
 
-Pete Gruber se o nas zminuje a moc pekne pripomina, ze cesty jako naše a setkávání s místními tvořil silné vazby napříč kontinenty.
-Podobně často mluví i Rafael de Mestre
-A je vlastně neuvěřitelně zajímavé, že čím vice lidi potkáváme, tak se tato myšlenka neustále prohlubuje..✨✨
-Clovek najednou nahlíží na spoustu filozofií, politik, náboženství trochu jinak..
-A ve vzduchu visí jedna z nejtěžších otázek - co lidi skutečně spojuje a co je ve skutečnosti rozděluje??🧐
+## Warning: zemětřesení mezi LA a Santa Barbarou
 
-Pete Gruber nam umožnil natočit u nej i par specialitek..👌🏻
-Kdo mate par penez navic a jste pořádný "Tesla ultras", tak je tu takový jedinečný bundle.. (Model S i Roadster s cislem 3😳)
+Očekávali jsme neočekávané, ale že si projedeme i zemětřesením, jsme nějak neuměli dohlédnout. Jedete v noci po dálnici mezi Los Angeles a Santa Barbarou a najednou vám začnou pípat všechny telefony v autě — i ten, který nepoužíváte, což působilo jak z béčkového hororu — a na všech naskakuje zpráva začínající slovem „Warning“.
 
-Roadster s cislem 2 ma Martin Eberhard:
-https://www.businessinsider.com/second-tesla-roadster-ever-made-custom-colors-photos-martin-eberhard-2023-2?amp
-Cislo 1 ma Musk..
+Koukáte po ostatních autech a jen jedno jediné zapne výstražné blinkry a trochu zpomalí. Mimochodem, i tahle notifikace přijde ve španělštině, jako všechno v anglicky mluvících USA. Bylo to divné, nevěděli jsme, jestli máme někam sjet. Naštěstí kolem nebyly žádné vysoké budovy.
 
-A v poslednim zaberu vzadu je videt modrý Roadster, na ktery jim volal primo hlavní designer Tesly - Franz von Holzhausen: https://en.m.wikipedia.org/wiki/Franz_von_Holzhausen
+Zrovna jsme mířili k nabíječce a tam potkali nějakého Itala. Ptám se ho na to a on, že už to proběhlo — volal synovi a ten to doma trochu cítil. Tvrdil, že epicentrum bylo čtyři hodiny od nás ve vnitrozemí. Jak je vidět na obrázku, bylo jen **30 kilometrů** od nás. Takže jsme poprvé v životě projeli autem i zemětřesením.
 
-.. kdo si prichvatne, tak muze jeste neco Franzovi vyfouknout😉⚡️✨.
+<div class="gallery">
+  <img src="/assets/stories/2024-08-san-diego-pacifik/010.webp" alt="San Diego a Pacifik, srpen 2024 (10)" loading="lazy" />
+  <img src="/assets/stories/2024-08-san-diego-pacifik/011.webp" alt="San Diego a Pacifik, srpen 2024 (11)" loading="lazy" />
+</div>
 
-<video controls src="/assets/stories/2024-08-san-diego-pacifik/video-004.mp4" style="max-width:100%"></video>
+## Co lidi spojuje
+
+Pete Gruber se o nás zmiňuje a moc pěkně připomíná, že cesty jako ta naše a setkávání s místními tvořily silné vazby napříč kontinenty. Podobně často mluví i Rafael de Mestre. A je vlastně neuvěřitelně zajímavé, že čím víc lidí potkáváme, tím víc se tahle myšlenka prohlubuje.
+
+Člověk najednou nahlíží na spoustu filozofií, politik i náboženství trochu jinak. A ve vzduchu visí jedna z nejtěžších otázek: co lidi skutečně spojuje a co je ve skutečnosti rozděluje?
+
+## Specialitky z druhé haly
+
+U Peta jsme nakonec směli natočit i pár specialitek — mezi nimi jedinečný bundle pro pořádné „Tesla ultras“: Model S a Roadster s číslem 3. Podrobněji je rozebíráme v samostatném zápisu z Los Angeles.
+
+<video controls preload="none" src="/assets/stories/2024-08-san-diego-pacifik/video-004.mp4" style="max-width:100%"></video>

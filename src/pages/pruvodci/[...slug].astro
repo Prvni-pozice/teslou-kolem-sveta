@@ -33,7 +33,13 @@ const categoryLabels: Record<string, string> = {
 
   {heroImage && (
     <div class="guide-hero">
-      <img src={heroImage} alt={heroImageAlt ?? title} loading="eager" />
+      <img
+        src={heroImage}
+        alt={heroImageAlt ?? title}
+        width={(imageDims as Record<string, [number, number]>)[heroImage]?.[0]}
+        height={(imageDims as Record<string, [number, number]>)[heroImage]?.[1]}
+        loading="eager"
+      />
     </div>
   )}
 

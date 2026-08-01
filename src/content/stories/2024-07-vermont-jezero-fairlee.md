@@ -1,75 +1,84 @@
 ---
 title: "Vermont: Henry Sharp, jezero Fairlee a Tesla Roadster"
-description: "U Henry Sharpa v Amermontu — konstruktéra adaptérů, který nám půjčil svého Roadstera. A setkání u krásného jezerního kempu."
+description: "U jezera Fairlee jsme strávili den u Henryho Sharpa, konstruktéra adaptérů pro Roadstery. A on nám svého Roadstera na chvíli půjčil."
 pubDate: 2024-07-09
 category: cesta
 continent: ameriky
 country: "US"
 tags: ["Vermont", "jezero Fairlee", "Henry Sharp", "Tesla Roadster"]
 heroImage: "/assets/stories/2024-07-vermont-jezero-fairlee/001.webp"
-heroImageAlt: "Vermont: Henry Sharp, jezero Fairlee a Tesla Roadster"
-prevSlug: "2024-07-toronto-niagara-falls"
-nextSlug: "2024-08-grand-canyon-arizona"
+heroImageAlt: "Červený Tesla Roadster na trávě u silnice ve Vermontu, za ním naše modrá Tesla Model 3 s logy 80edays"
+heroCaption: "Mini Tesla sraz u jezera Fairlee — a Roadster, který jsme si směli půjčit."
+readingTime: 3
 draft: false
 importedFrom: facebook
 ---
 
-Jezero Fairlee vypada jako kdyz jedete za kamarády na chatu za Rynárec..Kolem husté lesy, řídce osídlené vesničky a příjemně teplá voda.A nesmí Vás překvapit křik Loona🦤 - řve něco mezi zebrou a kachnou😳😂. Prý se umí potápět až do 75 m💪🏻.
+Vermont pro nás znamenal tři věci: jezero, které vypadá jako chata za Rynárcem, jednoho z nejzajímavějších lidí, se kterými jsme se na cestě potkali, a půjčeného Tesla Roadstera.
 
-![](/assets/stories/2024-07-vermont-jezero-fairlee/001.webp)
+## Jezero Fairlee: jako chata za Rynárcem
 
-Mini Tesla sraz u jezera Fairlee🤩
-Henry Sharp je znamy konstruktér speciálních adaptérů pro nabijeni Tesla Roadsterů. Bylo nam velkou ctí strávit u něj den a zaroven přivítat i velkého podporovatele Teda🙏🏻.
-Vznikl tak vlastne lokalni sraz cca 6-ti aut👍🏻
-Kdo chce videt vice zajímavých setkání, tak nas podpořte:
-https://herohero.co/tesloukolemsveta
+Jezero Fairlee vypadá jako když jedete za kamarády na chatu za Rynárec. Kolem husté lesy, řídce osídlené vesničky a příjemně teplá voda. Jen vás nesmí překvapit křik loona — řve něco mezi zebrou a kachnou. Prý se umí potápět až do **75 metrů**.
 
-EDIT: doplněny popisky k fotkám, nejvetsi mazec je rozebraný jeden adaptér pro rychle nabijeni🤯🙈
+<video controls preload="none" src="/assets/stories/2024-07-vermont-jezero-fairlee/video-001.mp4" style="max-width:100%"></video>
+
+## Mini Tesla sraz a Henry Sharp
+
+**Henry Sharp** je známý konstruktér speciálních adaptérů pro nabíjení Tesla Roadsterů. Bylo nám velkou ctí strávit u něj den a zároveň přivítat i velkého podporovatele Teda. Vznikl tak vlastně lokální sraz asi šesti aut.
+
+Největší mazec je na fotkách jeden rozebraný adaptér pro rychlé nabíjení — z toho jde hlava kolem.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/001.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/002.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/003.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/004.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/005.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/006.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/007.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/008.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/009.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/010.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/002.webp" alt="Vermont a jezero Fairlee, červenec 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/003.webp" alt="Vermont a jezero Fairlee, červenec 2024 (3)" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/004.webp" alt="Vermont a jezero Fairlee, červenec 2024 (4)" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/005.webp" alt="Vermont a jezero Fairlee, červenec 2024 (5)" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/006.webp" alt="Vermont a jezero Fairlee, červenec 2024 (6)" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/007.webp" alt="Vermont a jezero Fairlee, červenec 2024 (7)" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/008.webp" alt="Vermont a jezero Fairlee, červenec 2024 (8)" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/009.webp" alt="Vermont a jezero Fairlee, červenec 2024 (9)" loading="lazy" />
+  <img src="/assets/stories/2024-07-vermont-jezero-fairlee/010.webp" alt="Vermont a jezero Fairlee, červenec 2024 (10)" loading="lazy" />
 </div>
 
-Tesla Roadster🤩
-Henry byl tak hodný, že nám na chvili půjčil svého Roadstera👍🏻.
-Konecne jsem mel moznost pochopit ty nadšené majitele. Je to proste sportak, ktery hned po nasednuti dá najevo podobne veci jako typické cupové auto. Vše cítíte tvrdě, jasně a bez kompromisu jako v motokare. Vykon je i po letech na okresky rozhodne dostatečný🙏🏻.
-Při vysedani jsem mel pocit, ze odcházím od staršího Ferrari..
-A tim pádem si opravdu stojím za tím, co rikam na konci.
+<video controls preload="none" src="/assets/stories/2024-07-vermont-jezero-fairlee/video-002.mp4" style="max-width:100%"></video>
 
-Kdo chcete vidět více podobných zajímavostí, tak, prosím, zvažte naší podporu:
-https://herohero.co/tesloukolemsveta
+## Jízda Roadsterem: jako odcházet od staršího Ferrari
 
-<video controls src="/assets/stories/2024-07-vermont-jezero-fairlee/video-003.mp4" style="max-width:100%"></video>
+Henry byl navíc tak hodný, že nám na chvíli půjčil svého **Roadstera**. Konečně jsem měl možnost pochopit ty nadšené majitele. Je to prostě sporťák, který hned po nasednutí dá najevo podobné věci jako typické cupové auto: všechno cítíte tvrdě, jasně a bez kompromisu jako v motokáře. Výkon je i po letech na okresky rozhodně dostatečný.
 
-Ještě poslední pohoda u Lake Fairlee ve Vermontu 🙂
-Z počátku děti měly strach, jestli tam nejsou piraně a jiné vodní potvory.. nakonec byla nejstrašidelnější jen jedna už zmíněná ,,kachna” loon, která v noci děsivě hučela 🙂
+Při vysedání jsem měl pocit, že odcházím od staršího Ferrari. A tím pádem si opravdu stojím za tím, co říkám ve videu na konci.
 
-<video controls src="/assets/stories/2024-07-vermont-jezero-fairlee/video-004.mp4" style="max-width:100%"></video>
+<video controls preload="none" src="/assets/stories/2024-07-vermont-jezero-fairlee/video-003.mp4" style="max-width:100%"></video>
 
-Konecne zase nabijime rychle!⚡️⚡️
+## Piraně, které tam nebyly
 
-<video controls src="/assets/stories/2024-07-vermont-jezero-fairlee/video-005.mp4" style="max-width:100%"></video>
+Ještě jsme si u Lake Fairlee dopřáli poslední pohodu. Z počátku měly děti strach, jestli v jezeře nejsou piraně a jiné vodní potvory. Nakonec byla nejstrašidelnější jen ta už zmíněná „kachna“ loon, která v noci děsivě hučela.
 
-Holčičí okénko..
+<video controls preload="none" src="/assets/stories/2024-07-vermont-jezero-fairlee/video-004.mp4" style="max-width:100%"></video>
 
-kromě toho, že by Laura chtěla: 
-umět počítat do konečna, prodat Teslu a koupit si Lambo, tak chce být taky krásná.. k tomu prý potřebuje rytěnku 😂 a další zkrášlovadla..
+Konečně taky zase nabíjíme rychle.
 
-2 hodiny v drogerce ve 2 minutách.. prý mají trpět pro krásu ženy a né chlapi čekáním.. 🤔😋
+<video controls preload="none" src="/assets/stories/2024-07-vermont-jezero-fairlee/video-005.mp4" style="max-width:100%"></video>
 
-<video controls src="/assets/stories/2024-07-vermont-jezero-fairlee/video-006.mp4" style="max-width:100%"></video>
+## Holčičí okénko: dvě hodiny v drogerce ve dvou minutách
 
-Představte si, že jste v Africe na předměstí Casablancy u nabíječky elektromobilů, když se před Vámi na obrazovce objeví Radek Kolman z Pelhřimova 🤩 Takto jsem se setkal s Rafaelem de Mestre a Radek nám nadhodil témata, které ho zajímala, především o možnostech rozvoje a podpory elektromobility u nás ⚡🌳 Diskutovali jsme o výzvách a příležitostech, které nás čekají, a jak technologie a inovace mohou měnit svět k lepšímu. Díky za skvělý rozhovor, Rafaeli, a Radku, za skvělé otevření debaty 👏
+Laura má poměrně jasně strukturovaný seznam přání. Kromě toho, že by chtěla:
 
-Rozhovor přidáváme se zpožděním kvůli problémům se zvukem a postprodukcí, doufáme ale že Vám video s titulky něco předá a poslouží jako takové ohlédnutí za tím, jaké myšlenky jsme měli po cestě Afrikou..
+- **umět počítat do konečna**,
+- **prodat Teslu a koupit si Lambo**,
 
-<video controls src="/assets/stories/2024-07-vermont-jezero-fairlee/video-007.mp4" style="max-width:100%"></video>
+chce být taky krásná. K tomu prý potřebuje rytěnku a další zkrášlovadla. Takže dvě hodiny v drogerce ve dvou minutách — prý mají trpět pro krásu ženy a ne chlapi čekáním.
+
+<video controls preload="none" src="/assets/stories/2024-07-vermont-jezero-fairlee/video-006.mp4" style="max-width:100%"></video>
+
+## Ohlédnutí: rozhovor od nabíječky u Casablancy
+
+Nakonec něco, co nám leželo ve střihu delší dobu. Představte si, že jste v Africe na předměstí Casablancy u nabíječky elektromobilů, a na obrazovce se před vámi objeví **Radek Kolman z Pelhřimova**. Takhle jsem se setkal s **Rafaelem de Mestre** a Radek nám nadhodil témata, která ho zajímala — především možnosti rozvoje a podpory elektromobility u nás. Diskutovali jsme o výzvách a příležitostech, které nás čekají, a o tom, jak technologie a inovace mohou měnit svět k lepšímu. Díky za skvělý rozhovor, Rafaeli, a Radku za skvělé otevření debaty.
+
+Rozhovor přidáváme se zpožděním kvůli problémům se zvukem a postprodukcí. Doufáme ale, že vám video s titulky něco předá a poslouží jako ohlédnutí za tím, jaké myšlenky jsme měli po cestě Afrikou.
+
+<video controls preload="none" src="/assets/stories/2024-07-vermont-jezero-fairlee/video-007.mp4" style="max-width:100%"></video>
+
+## A jak bychom shrnuli východ Kanady
+
+„Kdybych to neviděl, tak by mi to chybělo, ale nevěděl bych o tom.“ Tak bychom shrnuli východ Kanady od velkých měst k Atlantiku. Delší popis jsme dali na [herohero](https://herohero.co/tesloukolemsveta) — kdo chce vidět víc podobných zajímavostí a setkání, může nás tam podpořit. Děkujeme za první odvážné.

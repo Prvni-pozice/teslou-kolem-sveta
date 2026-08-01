@@ -1,164 +1,153 @@
 ---
-title: "Atlantická Kanada: Bay of Fundy, Tesla servis v Québecu a Ottawa"
-description: "Nejvyšší příliv světa, 200 km pustinou, Tesla servis v Québecu, Ottawa Tesla klub a mechanik v Plaster Rock, který nás zachránil."
+title: "Bay of Fundy, uvolněný třmen a servis v Plaster Rock"
+description: "Jeden z nejvyšších přílivů na světě, 200 km pustinou bez signálu s klepajícím třmenem a mechanik, který si pro správný šroub dojel vlastním autem."
 pubDate: 2024-07-15
 category: cesta
 continent: ameriky
 country: "CA"
 tags: ["Bay of Fundy", "Kanada", "Atlantik", "Plaster Rock", "servis", "Ottawa", "Tesla klub"]
 heroImage: "/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/001.webp"
-heroImageAlt: "Atlantická Kanada: Bay of Fundy, Tesla servis v Québecu a Ottawa"
-prevSlug: "2024-06-miami-prvni-dojmy"
-nextSlug: "2024-07-montreal-quebec"
+heroImageAlt: "Modrá Tesla Model 3 s polepem 80edays na zvedáku s odmontovaným předním kolem a červeným třmenem"
+heroCaption: "Plaster Rock: kolo dole, třmen venku a mechanik, který si pro šroub dojel do jiné firmy."
+readingTime: 7
 draft: false
 importedFrom: facebook
 ---
 
-Dojeli jsme na konec Světa🌎..
-Aspoň tak to tady vypadá😅. Krásná příroda kolem, jsme v zálivu Fundy a kromě úžasných skalních útvarů je zde jeden z nejvyšších přílivů na Světě - až 14 metrů😳. A nastává obvykle 2x za den😳😳.
-Ubytovali jsme se v shepodybayinn a překvapila nás opět ochota a přátelská atmosféra👍🏻. A nabijeni primo u vchodu!⚡️
+Východ Kanady jsme projeli od velkých měst až k Atlantiku — a vešel se do toho jeden z nejvyšších přílivů na světě, docela nepříjemná porucha na podvozku uprostřed pustiny, dva servisy a setkání Tesla klubu v Ottawě.
 
-![](/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/001.webp)
+## Dojeli jsme na konec světa. Aspoň tak to tady vypadá
 
-Uff, jedete 200 km pustinou v Kanadě a v tom začne v autě občas něco mlátit..🤯Zastavíte, zkontrolujete auto a nevidite problem..🤷🏻‍♂️Jedete dál opatrně, ale v podstatě na každém vymolu se ozve kovová rána.Před výjezdem se na autě měnilo na podvozku prakticky vše, takže človeka nenapadá, v čem může být problém..Při další zastávce pri dobrždění se auto úplně divně zaškube..🤯Btw. v tom místě nebyl ani signál mobilu..😳Kola, brzdy, vše vypadá pevné, ale najednou je vidět divně odřené kolo zevnitř.... v tom chytnu za spodni část třmenu a ta se hýbe už při zatlačení prstem 😳😳😳Nakonec jsme pomalu dojeli do prvního městečka a na kraji mají servis, takže se tam na ně hned ráno vrhneme! Držte nám palce!🙏🏻🙏🏻
+Jsme v **zálivu Fundy** a kolem je krásná příroda. Kromě úžasných skalních útvarů je tady jeden z nejvyšších přílivů na světě — **až 14 metrů**. A nastává obvykle dvakrát za den.
 
-<video controls src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-002.mp4" style="max-width:100%"></video>
+Ubytovali jsme se v Shepody Bay Inn a znovu nás překvapila ochota a přátelská atmosféra. A nabíjení přímo u vchodu. V objevování podobných rekordů nás mimo jiné podporuje Muzeum rekordů.
 
-From first moment was Seydou very helpful and very kind👍🏻.
-Talk with everybody and offer anything to assure, that all guests are happy👍🏻.
-Breakfest was with fresh prepared pancakes (and cornflakes, yoghurt, cookies, juices, coffee, tea, cocoa...etc.)
-Absolute excelent service!
+<video controls preload="none" src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-001.mp4" style="max-width:100%"></video>
 
-V Americe jsme se potýkali s různými problémy s dobíjením 😬⚡ Jak ale zlepšit nabíjecí infrastrukturu zejména u nás? Tuto otázku jsme si jistě pokládali nejen my s Radkem. V další části rozhovoru z Casablancy Rafael navrhuje řešení, které usnadní život všem elektromobilistům a celkově zefektivní nabíjecí proces 🤓
+Do recenze ubytování jsme napsali to, co si zaslouží: **Seydou** byl od prvního momentu velmi ochotný a milý. Se všemi mluvil a nabízel cokoli, jen aby byli hosté v pohodě. Ke snídani byly čerstvě připravené palačinky a k tomu cornflakes, jogurt, sušenky, džusy, káva, čaj, kakao a tak dál. Absolutně vynikající služba.
 
-<video controls src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-003.mp4" style="max-width:100%"></video>
+## Dvě stě kilometrů pustinou a kovová rána na každém výmolu
 
-Jsme záchraněni!🙏🏻🙏🏻
-V městečku Plaster Rock mají naštěstí servisy na osobáky i náklaďáky.
-Když jsem vešel: "Objednavame na pristi pondeli..😳"
-Nakonec jeden mechanik se hned vrhnul na nase auto. Vedel, ze šroub na trmenu ma jine stoupání, takze skočil do svého auta, dojel do jiné firmy a za chvili namontoval zpět.
-Šéfa servisu jsem překvapil, když jsem vytahnul svůj momentovy klíč 😀 (jen se ptali na hodnotu dotažení).
-Moc dekujeme servisu: Mcdonalds za rychlost a ochotu!👍🏻🙏🏻
+A pak přišel den, který jsme si nepřáli. Jedete 200 kilometrů pustinou v Kanadě a v autě začne občas něco mlátit. Zastavíte, zkontrolujete auto a problém nevidíte. Jedete dál opatrně, ale v podstatě na každém výmolu se ozve kovová rána.
 
-Na fotkách krome servisu přidávám záběry "z města". Proste je tu jedna velká křižovatka, pak jedete 2 km lesem a objevi se servis😀. Nicmene ty nejvetsi budovy na fotkách jsou: centrum pro rodinu, hokejový stadion (pry hrajou světový pohár hokeje na rybnících), radnice/restaurace.
-Přerostlá srna a kamion nejlépe vystihují to, co tady potkáte častěji nez lidi.
-V noci jsme viděli ještě 4 losy a 2 zajíce na té 200 km silnici bez signálu😅.
+Před výjezdem se na autě měnilo na podvozku prakticky vše, takže člověka vůbec nenapadá, v čem by mohl být problém. Při další zastávce se auto při dobržďování úplně divně zaškube. Mimochodem, v tom místě nebyl ani signál mobilu.
 
-<div class="gallery">
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/001.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/002.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/003.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/004.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/005.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/006.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/007.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/008.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/009.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/010.webp" alt="" loading="lazy" />
-</div>
+Kola, brzdy, všechno vypadá pevně, ale najednou je vidět divně odřené kolo zevnitř. A v tom chytnu za spodní část třmenu — a ta se hýbe už při zatlačení prstem. Nakonec jsme pomalu dojeli do prvního městečka, kde na kraji mají servis. Hned ráno se na ně vrhneme.
 
-Kdybych to neviděl, tak by mi to chybělo, ale nevěděl bych o tom..🤷🏻‍♂️😀
-..tak bychom shrnuli východ Kanady od velkých měst k Atlantiku.
+<video controls preload="none" src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-002.mp4" style="max-width:100%"></video>
 
-Delsi popis jsme dali na herohero. Kdo chcete vidět více podobných zajímavostí, tak, prosím, zvažte naší podporu:
-https://herohero.co/tesloukolemsveta
-(Děkujeme za první odvážné🙏🏻🙏🏻)
+## Plaster Rock: „objednáváme na příští pondělí"
+
+Jsme zachráněni. V městečku **Plaster Rock** mají naštěstí servisy na osobáky i na náklaďáky. Když jsem vešel, padlo: „Objednáváme na příští pondělí."
+
+Nakonec se jeden mechanik na naše auto vrhnul hned. Věděl, že šroub na třmenu má jiné stoupání, takže skočil do svého auta, dojel do jiné firmy a za chvíli měl vše namontované zpátky. Šéfa servisu jsem překvapil, když jsem vytáhl svůj momentový klíč — jen se ptali na hodnotu dotažení. Moc děkujeme servisu McDonalds za rychlost a ochotu.
+
+Na fotkách je kromě servisu i pár záběrů „z města". Je tady jedna velká křižovatka, pak jedete dva kilometry lesem a objeví se servis. Ty největší budovy na fotkách jsou centrum pro rodinu, hokejový stadion (prý tady hrají světový pohár hokeje na rybnících) a radnice s restaurací.
+
+Přerostlá srna a kamion nejlíp vystihují to, co tady potkáte častěji než lidi. V noci jsme na té dvousetkilometrové silnici bez signálu viděli ještě čtyři losy a dva zajíce.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/011.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/012.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/013.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/002.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (2)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/003.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (3)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/004.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (4)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/005.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (5)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/006.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (6)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/007.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (7)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/008.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (8)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/009.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (9)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/010.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (10)" loading="lazy" />
 </div>
 
-Amerika je plná různorodého umění.. někdo si postaví Bílý dům z bračského vápence.. tady majitel asi miluje melouny.. 🙂 (ještě ohlédnutí za Washingtonem)
+## Jak zlepšit nabíjecí infrastrukturu
 
-80edays
+V Americe jsme se potýkali s různými problémy s dobíjením. Jak ale zlepšit nabíjecí infrastrukturu, hlavně tu naši? Tuhle otázku jsme si s Radkem určitě nepokládali jako první. V další části rozhovoru z Casablanky Rafael navrhuje řešení, které by usnadnilo život všem elektromobilistům a celkově zefektivnilo nabíjecí proces.
+
+<video controls preload="none" src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-003.mp4" style="max-width:100%"></video>
+
+## Kdybych to neviděl, chybělo by mi to — ale nevěděl bych o tom
+
+Takhle bychom shrnuli východ Kanady od velkých měst k Atlantiku. Delší popis jsme dali na [herohero](https://herohero.co/tesloukolemsveta) — pokud chcete vidět víc podobných zajímavostí, zvažte, prosím, naši podporu. Děkujeme za první odvážné.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/014.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/015.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/016.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/017.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/018.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/011.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (11)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/012.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (12)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/013.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (13)" loading="lazy" />
 </div>
 
-Cestou necestou.. 🙂 80edays
+## Dům, jehož majitel asi miluje melouny
+
+Amerika je plná různorodého umění. Někdo si postaví Bílý dům z bračského vápence, tady majitel asi miluje melouny. Je to ještě ohlédnutí za Washingtonem — a kdo byste jel kolem, stavte se.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/019.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/020.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/021.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/022.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/023.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/024.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/025.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/026.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/027.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/028.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/014.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (14)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/015.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (15)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/016.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (16)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/017.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (17)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/018.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (18)" loading="lazy" />
 </div>
 
-Kdo byste jel kolem, tak se stavte..😉
+## Parc Clair Soleil v Cabanu: vesmír, rozárium a užitková zahrada
 
-A ve ctvrtek navecer nas zastihnete tady: 😉😀⚡️
-
-Parc Clair Soleil v Cabano navazující na jezero. Byl trošku, co do kompozice a myšlenky přeplácaný - prvky zasvěcené vesmíru, takže jste tam našli různé skulptury planet, ne moc povedené a různé info tabule k tématu, hned vedle rozarium,.. , které by si zasloužilo dosázet, dětské hřiště takový standard 20 let zpět, ale posilovna a vodní prvky bavily 👍 
-A co se nám moc líbilo, byla užitková zahrada 💚
-
-<video controls src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-004.mp4" style="max-width:100%"></video>
-
-Tesla servis teslaquebec "vypustili" na naše auto hned několik techniků a během snad hodiny bylo vše zkontrolováno na podvozku, brzdách a kolech.
-Pro jistotu nám vyměnili PP kameru, protože občas zazlobila.
-PP podběh držel nějak nejistě, tak jej přepasovali👍🏻.
-Vlevo jsme měli natržený a uvolněný práh, tak navrhli kompletní výměnu a stejně tak pravý.
-Vzadu byl trochu natržený kryt pod zadním motorem, ale nakonec se ukázalo, že to ničemu nevadí (podle pravidla: co odpadne, bylo asi zbytečné..🤷🏻‍♂️).
-Navíc nám půjčili zdarma úplně nový model Y s FSD (automatické řízení), takže se těšte na video z ježdění po Québecu🤩.
-
-Vyřídili jsme pozdravy od Tesla Owners Club CZ🙋🏻‍♂️.
-
-Moc děkujeme nadšené vedouci servisu Marie-Lise za reakce i mimo otevírací dobu a prohlídku servisu a celého zázemí (tam se nesmí fotit)👍🏻🙏🏻.
-
-80edays
+Park navazuje na jezero a co do kompozice i myšlenky byl trošku přeplácaný. Jsou tam prvky zasvěcené vesmíru, takže najdete různé skulptury planet — ne moc povedené — a k tomu info tabule k tématu. Hned vedle je rozárium, které by si zasloužilo dosázet, a dětské hřiště je standard tak dvacet let zpátky. Posilovna a vodní prvky ale bavily. A co se nám moc líbilo, byla užitková zahrada.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/029.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/030.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/031.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/032.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/033.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/019.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (19)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/020.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (20)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/021.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (21)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/022.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (22)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/023.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (23)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/024.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (24)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/025.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (25)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/026.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (26)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/027.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (27)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/028.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (28)" loading="lazy" />
 </div>
 
-Sylvain nas přijal neohlasene ve firmě Simon Andre👍🏻.
-Vybudovali na naše poměry velký nezávislý servis elektroaut (fungují přes 8 let). Provedl mě a ukázal cokoliv, na co jsem se zeptal a mohl jsem fotit i točit.
+<video controls preload="none" src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-004.mp4" style="max-width:100%"></video>
 
-Vybudovali i vývojovou firmu Ingenext.ca, která ladí a upravuje EV.
+## Tesla servis Québec: několik techniků na jedno auto
 
-Před 2-ma lety jejich Plaid vytáhnul téměř 350km/h😳⚡️:
-https://youtu.be/T7mQW0OeUJ8?si=oBF2LDrHj4AiPp2c
-..do týdne od zveřejnění jim zavolal jeden šéf z Tesly s dotazem: "Nechcete to normálně prodávat lidem, že ne?"🙈
+V Tesla servisu v Québecu na naše auto „vypustili" hned několik techniků a během snad hodiny bylo zkontrolováno vše na podvozku, brzdách a kolech.
 
-Jinak udělali i konverzi Honda S2000 na ⚡️:
-https://youtu.be/ZRD3lnbkBZY?si=LBi0XwnOo8OJqaMk
+| Co našli | Co s tím udělali |
+|---|---|
+| Pravá přední kamera občas zlobila | pro jistotu vyměnili |
+| Pravý přední podběh držel nejistě | přepasovali |
+| Vlevo natržený a uvolněný práh | navrhli kompletní výměnu, stejně tak pravý |
+| Vzadu trochu natržený kryt pod zadním motorem | nakonec se ukázalo, že to ničemu nevadí |
 
-Každopádně prodávají i spoustu "krabiček", které běžné Tesle přidají zrychlení, drift mód, predehrev baterie atd.
+U toho posledního platí naše pravidlo: co odpadne, bylo asi zbytečné. Navíc nám zdarma půjčili úplně nový Model Y s FSD, tedy automatickým řízením, takže se těšte na video z ježdění po Québecu.
 
-A spoustu dalších bláznovin👍🏻👍🏻😀.
+Vyřídili jsme pozdravy od Tesla Owners Club CZ. A moc děkujeme nadšené vedoucí servisu **Marie-Lise** za reakce i mimo otevírací dobu a za prohlídku servisu a celého zázemí — tam se ovšem nesmí fotit.
 
 <div class="gallery">
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/034.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/035.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/036.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/037.webp" alt="" loading="lazy" />
-  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/038.webp" alt="" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/029.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (29)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/030.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (30)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/031.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (31)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/032.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (32)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/033.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (33)" loading="lazy" />
 </div>
 
-Komu by nestačil výkon, tak jsme potkali par dobrých šílenců..⚡️⚡️😀
+## Simon André a Ingenext: Plaid, který vytáhl skoro 350 km/h
 
-Setkání Tesla klubu v Ottawě proběhlo ve velmi přátelském duchu. 🙂 Všichni byli zvědaví na průběh naší cesty a dlouze se diskutovalo o úskalích při dobíjení aut. Také se možná podaří vysadit strom v místním arboretu, jako v jiných městech při předchozích cestách kolem světa, které podnikl Rafael. 🙂 Moc děkujeme 👍
+Ve firmě Simon André nás neohlášeně přijal **Sylvain**. Vybudovali na naše poměry velký nezávislý servis elektroaut a fungují přes osm let. Provedl mě a ukázal cokoli, na co jsem se zeptal, a mohl jsem fotit i točit.
 
-Andrew, majitel Moto Spa Club Inc. byl tak hodný, že nám umyl auta. Konecne jsme se zase leskli, jak vsichni kolem🤩👍🏻🙏🏻.
+Vybudovali i vývojovou firmu [Ingenext](https://ingenext.ca), která ladí a upravuje elektromobily. Před dvěma lety jejich [Plaid vytáhl téměř 350 km/h](https://youtu.be/T7mQW0OeUJ8) — a do týdne od zveřejnění jim zavolal jeden šéf z Tesly s dotazem: „Nechcete to normálně prodávat lidem, že ne?"
 
-Dekujeme:
-Tesla Owners Club of Ontario (official) 
-80edays
+Udělali taky [konverzi Hondy S2000 na elektro](https://youtu.be/ZRD3lnbkBZY). A prodávají spoustu „krabiček", které běžné Tesle přidají zrychlení, drift mód, předehřev baterie a podobně. Plus spoustu dalších bláznovin. Komu by tedy nestačil výkon, potkali jsme pár dobrých šílenců.
 
-<video controls src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-005.mp4" style="max-width:100%"></video>
+<div class="gallery">
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/034.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (34)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/035.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (35)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/036.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (36)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/037.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (37)" loading="lazy" />
+  <img src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/038.webp" alt="Atlantická Kanada a servis v Plaster Rock, červenec 2024 (38)" loading="lazy" />
+</div>
+
+## Tesla klub v Ottawě a leštěná auta
+
+Setkání Tesla klubu v Ottawě proběhlo ve velmi přátelském duchu. Všichni byli zvědaví na průběh naší cesty a dlouze se diskutovalo o úskalích při dobíjení aut. Možná se také podaří vysadit strom v místním arboretu, jako v jiných městech při předchozích cestách kolem světa, které podnikl Rafael.
+
+Andrew, majitel Moto Spa Club Inc., byl navíc tak hodný, že nám umyl auta. Konečně jsme se zase leskli jako všichni kolem. Děkujeme Tesla Owners Club of Ontario.
+
+<video controls preload="none" src="/assets/stories/2024-07-kanada-atlantik-bay-of-fundy/video-005.mp4" style="max-width:100%"></video>

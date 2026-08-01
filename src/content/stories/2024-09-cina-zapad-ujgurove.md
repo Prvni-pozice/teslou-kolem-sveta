@@ -17,7 +17,20 @@ importedFrom: facebook
 3) Čínské pokračování rozhovoru..🫡😉
 (omlouvam se za trochu monotónní hlas u druheho videa - musel jsem to předabovat na pokoji)
 
+Diky České rekordy 👍🏻
+
 ![](/assets/stories/2024-09-cina-zapad-ujgurove/001.webp)
+
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-018.mp4" style="max-width:100%"></video>
+
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-019.mp4" style="max-width:100%"></video>
+
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-020.mp4" style="max-width:100%"></video>
+
+9.9. - den, kdy jsme získali všechna povolení pro naše auto!🙏🏻🙏🏻
+Po minutách je to vidět od rána 6:35 do cca 12:40, kdy jsme získali vse. Pred tim bylo samozrejme spoustu dokumentu naposilano predem.
+
+<video controls src="/assets/stories/2024-09-cina-zapad-ujgurove/video-017.mp4" style="max-width:100%"></video>
 
 Co jsme včera jeste zažili na čínské policejní stanici? A mají tam také STK?😉😅
 

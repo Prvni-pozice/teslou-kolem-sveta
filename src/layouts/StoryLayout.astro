@@ -4,6 +4,7 @@ import RelatedStories from '../components/travel/RelatedStories.astro';
 import Badge from '../components/ui/Badge.astro';
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
+import imageDims from '../data/image-dims.json';
 
 interface Props {
   story: CollectionEntry<'stories'>;
@@ -27,6 +28,11 @@ const related = allStories
   .filter(s => s.id !== story.id && (s.data.continent === continent || s.data.country === country))
   .sort((a, b) => pairHash(story.id, a.id) - pairHash(story.id, b.id))
   .slice(0, 3);
+
+/* Rozměry hero fotky — bez nich prohlížeč nezná výšku a stránka poskočí (CLS). */
+const heroDims = heroImage
+  ? (imageDims as Record<string, [number, number]>)[heroImage]
+  : undefined;
 
 const formattedDate = pubDate.toLocaleDateString('cs-CZ', {
   day: 'numeric', month: 'long', year: 'numeric',
@@ -55,6 +61,7 @@ const continentLabels: Record<string, string> = {
   pubDate={pubDate}
   continent={continent}
   country={country}
+  brandInTitle={false}
 >
   <!-- Schema: Article + BreadcrumbList -->
   <script type="application/ld+json" slot="head" set:html={JSON.stringify({
@@ -96,7 +103,13 @@ const continentLabels: Record<string, string> = {
   <!-- Story hero -->
   {heroImage && (
     <div class="story-hero-image">
-      <img src={heroImage} alt={heroImageAlt ?? title} loading="eager" />
+      <img
+        src={heroImage}
+        alt={heroImageAlt ?? title}
+        width={heroDims?.[0]}
+        height={heroDims?.[1]}
+        loading="eager"
+      />
       {heroCaption && <p class="hero-caption">{heroCaption}</p>}
     </div>
   )}

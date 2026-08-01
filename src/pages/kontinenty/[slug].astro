@@ -37,7 +37,13 @@ const sortedCountries = allCountries.sort((a, b) => a.data.sortOrder - b.data.so
 
   {heroImage && (
     <div class="cont-hero">
-      <img src={heroImage} alt={heroImageAlt ?? nameCs} loading="eager" />
+      <img
+        src={heroImage}
+        alt={heroImageAlt ?? nameCs}
+        width={(imageDims as Record<string, [number, number]>)[heroImage]?.[0]}
+        height={(imageDims as Record<string, [number, number]>)[heroImage]?.[1]}
+        loading="eager"
+      />
       {heroCaption && <p class="hero-caption">{heroCaption}</p>}
     </div>
   )}
