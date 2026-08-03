@@ -5,8 +5,13 @@ import { getCollection } from 'astro:content';
 const routes = await getCollection('routes', ({ data }) => !data.draft);
 const sorted = routes.sort((a, b) => b.data.startDate.valueOf() - a.data.startDate.valueOf());
 
+// Barvy bodů na časové ose (dekorativní).
 const statusColors: Record<string, string> = {
   completed: 'var(--green)', active: 'var(--sky)', planned: 'var(--amber)',
+};
+// Textové varianty — původní odstíny měly na bílé jen 2,15–2,77:1 (WCAG AA chce 4,5:1).
+const statusTextColors: Record<string, string> = {
+  completed: '#15803d', active: 'var(--accent-text)', planned: '#b45309',
 };
 const statusLabels: Record<string, string> = {
   completed: 'Dokončeno', active: 'Probíhá', planned: 'Plánováno',
@@ -33,7 +38,7 @@ const statusLabels: Record<string, string> = {
               <div class="timeline-card card">
                 <div class="timeline-header">
                   <div>
-                    <span class="status-badge" style={`color: ${statusColors[status]}`}>
+                    <span class="status-badge" style={`color: ${statusTextColors[status]}`}>
                       {statusLabels[status]}
                     </span>
                     <h2 class="expedition-name">{expeditionName}</h2>
