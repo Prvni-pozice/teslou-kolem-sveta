@@ -1,6 +1,6 @@
 # FINDINGS — Teslou kolem světa, fáze 0–4
 
-> Stav k 3. 8. 2026. Opravy v commitu 65f6993. Legenda: ✅ opraveno · ⏸ čeká na podklady · 📋 otázka pro klienta
+> Stav k 3. 8. 2026. Opravy v commitech e82e8a3, 21251d9 a f316b0b. Opakované proměření fáze 0: **129 → 0 nálezů**. Legenda: ✅ opraveno · ⏸ čeká na podklady · 📋 otázka pro klienta
 > Detailní nálezy per fáze: `findings-f1-integrita.md`, `findings-f2-ctenar.md`, `findings-f3-ux.md`, `findings-f3-copy.md`, `findings-f4-konkurence.md`
 
 ## P0

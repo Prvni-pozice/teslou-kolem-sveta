@@ -14,7 +14,7 @@ Web prošel kompletním protokolem předávací kontroly:
 
 ## Co se našlo a opravilo
 
-Automatická kontrola našla před opravami **129 tvrdých nálezů**, po opravách jich zůstalo v jednotkách — a jde už jen o věci vyžadující vaše rozhodnutí. Personální fáze doplnily dalších zhruba 60 nálezů. Opraveno bylo 38 z nich:
+Automatická kontrola našla před opravami **129 tvrdých nálezů**; po opravách a opakovaném proměření celého webu **nezůstal ani jeden** (89 stránek, pět šířek displeje, přístupnost, odkazy, konzole). Personální fáze doplnily dalších zhruba 60 nálezů. Opraveno bylo 38 z nich:
 
 **Filtrování příběhů vůbec nefungovalo.** Na stránce s příběhy je sedm záložek (Cesta, Průvodce, Technika…). Web je statický, takže se filtr vyhodnocoval už při sestavení stránky — kliknutí na záložku tedy nikdy nic nezměnilo, jen se znovu načetl kompletní seznam. Filtr nyní běží přímo v prohlížeči a funguje.
 
