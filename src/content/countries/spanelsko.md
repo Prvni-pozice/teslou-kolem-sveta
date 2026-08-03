@@ -1,6 +1,6 @@
 ---
 title: "Španělsko — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Španělsko: zažitky, nabíjení, tipy a fotografie."
+description: "Španělsko elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Španělsko"
 nameEn: "Spain"
 isoCode: "ES"
@@ -20,7 +20,7 @@ draft: false
 
 ## Španělsko na naší cestě
 
-Navštívili jsme Španělsko jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Španělsko jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

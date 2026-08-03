@@ -5,13 +5,16 @@ import type { CollectionEntry } from 'astro:content';
 interface Props {
   story: CollectionEntry<'stories'>;
   featured?: boolean;
+  headingLevel?: 2 | 3;
 }
 
-const { story, featured = false } = Astro.props;
+const { story, featured = false, headingLevel = 3 } = Astro.props;
+const Heading = `h${headingLevel}` as 'h2' | 'h3';
 const { title, description, pubDate, category, tags, heroImage, heroImageAlt, readingTime, continent } = story.data;
 
 const categoryLabels: Record<string, string> = {
   cesta: 'Cesta', pruvodce: 'Průvodce', technika: 'Technika', zamysleni: 'Zamyšlení',
+  aktualita: 'Aktuality', 'nova-vyprava': 'Nové výpravy',
 };
 
 const formattedDate = pubDate.toLocaleDateString('cs-CZ', {
@@ -19,7 +22,7 @@ const formattedDate = pubDate.toLocaleDateString('cs-CZ', {
 });
 ---
 
-<article class:list={['story-card card', { 'story-card--featured': featured }]}>
+<article class:list={['story-card card', { 'story-card--featured': featured }]} data-category={category}>
   <a href={`/pribehy/${story.id}/`} class="card-link" tabindex="-1" aria-hidden="true">
     <div class="card-image-wrap">
       {heroImage
@@ -38,9 +41,9 @@ const formattedDate = pubDate.toLocaleDateString('cs-CZ', {
       {readingTime && <span class="card-reading">{readingTime} min</span>}
     </div>
 
-    <h3 class="card-title">
+    <Heading class="card-title">
       <a href={`/pribehy/${story.id}/`}>{title}</a>
-    </h3>
+    </Heading>
 
     <p class="card-desc">{description}</p>
 
@@ -150,7 +153,7 @@ const formattedDate = pubDate.toLocaleDateString('cs-CZ', {
 
   .card-tag {
     font-size: 0.72rem;
-    color: var(--text-dim);
+    color: var(--slate-600);   /* na slate-100 podkladu potřeba tmavší než --text-dim */
     background: var(--slate-100);
     padding: 0.15rem 0.5rem;
     border-radius: 100px;

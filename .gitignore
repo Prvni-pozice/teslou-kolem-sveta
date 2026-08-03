@@ -47,3 +47,8 @@ source-data/normalized/
 !source-data/youtube/.gitkeep
 !source-data/media-staging/.gitkeep
 source-data/__pycache__/
+
+# Pracovní výstupy předávací kontroly (velké soubory, nepatří do repa)
+review/phase0.json
+review/shots/
+review-after/

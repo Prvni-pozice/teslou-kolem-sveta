@@ -1,6 +1,6 @@
 ---
 title: "Turecko — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Turecko: zažitky, nabíjení, tipy a fotografie."
+description: "Turecko elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Turecko"
 nameEn: "Turkey"
 isoCode: "TR"
@@ -20,7 +20,7 @@ draft: false
 
 ## Turecko na naší cestě
 
-Navštívili jsme Turecko jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Turecko jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

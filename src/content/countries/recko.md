@@ -1,6 +1,6 @@
 ---
 title: "Řecko — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Řecko: zažitky, nabíjení, tipy a fotografie."
+description: "Řecko elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Řecko"
 nameEn: "Greece"
 isoCode: "GR"
@@ -20,7 +20,7 @@ draft: false
 
 ## Řecko na naší cestě
 
-Navštívili jsme Řecko jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Řecko jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

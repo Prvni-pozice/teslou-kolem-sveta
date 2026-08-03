@@ -94,6 +94,11 @@ const ogImageAbs = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`
     <!-- Extra head content (page-level schemas) -->
     <slot name="head" />
 
+    <!-- Reveal animace se aktivují jen s JS; bez něj zůstane obsah viditelný. -->
+    <script is:inline>
+      document.documentElement.classList.add('js');
+    </script>
+
     <!-- Motion system -->
     <script>
       import '../scripts/motion.js';

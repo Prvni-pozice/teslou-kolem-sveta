@@ -47,7 +47,7 @@ Kromě samotné rychlosti tím chci ilustrovat i jednu realitu: kde je síť jak
 
 ## Kde jsme právě teď
 
-Takhle se nahání pár Tesel po Pyrenejském poloostrově. Tím chceme říct, že už snad funguje tracking naší cesty a průběžně se dá sledovat online na [track.80edays.com](https://track.80edays.com). A ano, v tuhle chvíli jsme už v Portugalsku.
+Takhle se nahání pár Tesel po Pyrenejském poloostrově. Tím chceme říct, že tehdy už fungoval tracking naší cesty a dala se průběžně sledovat online. A ano, v tuhle chvíli jsme už v Portugalsku.
 
 ![Tesly na Pyrenejském poloostrově během sledování trasy 80edays](/assets/stories/technika-nabijeni-po-svete/003.webp)
 

@@ -1,6 +1,6 @@
 ---
 title: "Francie — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Francie: zažitky, nabíjení, tipy a fotografie."
+description: "Francie elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Francie"
 nameEn: "France"
 isoCode: "FR"
@@ -20,7 +20,7 @@ draft: false
 
 ## Francie na naší cestě
 
-Navštívili jsme Francie jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Francii jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

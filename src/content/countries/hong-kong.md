@@ -1,6 +1,6 @@
 ---
 title: "Hong Kong — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Hong Kong: zažitky, nabíjení, tipy a fotografie."
+description: "Hong Kong elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Hong Kong"
 nameEn: "Hong Kong"
 isoCode: "HK"
@@ -20,7 +20,7 @@ draft: false
 
 ## Hong Kong na naší cestě
 
-Navštívili jsme Hong Kong jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Hongkong jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

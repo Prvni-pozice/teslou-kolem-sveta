@@ -1,6 +1,6 @@
 ---
 title: "Uzbekistán — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Uzbekistán: zažitky, nabíjení, tipy a fotografie."
+description: "Uzbekistán elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Uzbekistán"
 nameEn: "Uzbekistan"
 isoCode: "UZ"
@@ -9,7 +9,7 @@ visited: true
 visitedDate: 2024-09-26
 visitCount: 1
 evInfrastructure: limited
-chargerNetworks: ["Tesla Supercharger"]
+chargerNetworks: ["lokální DC stanice","AC nabíjení ze zásuvky"]
 highlights: ["Samarkand", "Buchara", "Khiva", "Aralské moře", "Nejhorší hranice světa"]
 capital: "Taškent"
 currency: "UZS"
@@ -20,7 +20,7 @@ draft: false
 
 ## Uzbekistán na naší cestě
 
-Navštívili jsme Uzbekistán jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Uzbekistán jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

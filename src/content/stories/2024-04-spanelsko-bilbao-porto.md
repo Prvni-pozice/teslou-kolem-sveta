@@ -8,7 +8,7 @@ country: "ES"
 tags: ["Bilbao", "Porto", "Lisabon", "Španělsko", "Portugalsko", "nabíjení v4"]
 heroImage: "/assets/stories/2024-04-spanelsko-bilbao-porto/001.webp"
 heroImageAlt: "Screenshot trackeru 80edays s ikonami Tesel s vlajkami týmů rozesetými po severu Španělska a Portugalska"
-heroCaption: "Takhle se nahání pár Tesel po Pyrenejském poloostrově — živý tracking na track.80edays.com."
+heroCaption: "Takhle se nahání pár Tesel po Pyrenejském poloostrově — všechny vozy 80edays na jedné mapě."
 readingTime: 9
 draft: false
 importedFrom: facebook
@@ -39,7 +39,7 @@ Na trase z Bilbaa do Ovieda jsme se ještě krátce zastavili na **pláži Lared
 
 ## Tracking konečně funguje
 
-Snad už funguje tracking naší cesty, takže se dá průběžně sledovat online na [track.80edays.com](https://track.80edays.com). Na mapě to vypadá, jako by se po Pyrenejském poloostrově naháněla parta Tesel — a v podstatě je to tak. A ano, v tuhle chvíli už jsme v Portugalsku.
+Tehdy už fungoval tracking naší cesty, takže se dala průběžně sledovat online. Na mapě to vypadá, jako by se po Pyrenejském poloostrově naháněla parta Tesel — a v podstatě je to tak. A ano, v tuhle chvíli už jsme v Portugalsku.
 
 ## Podruhé s mobilní nabíječkou a vyhozený jistič
 

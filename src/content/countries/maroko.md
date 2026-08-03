@@ -1,6 +1,6 @@
 ---
 title: "Maroko — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Maroko: zažitky, nabíjení, tipy a fotografie."
+description: "Maroko elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Maroko"
 nameEn: "Morocco"
 isoCode: "MA"
@@ -9,18 +9,18 @@ visited: true
 visitedDate: 2024-05-01
 visitCount: 1
 evInfrastructure: poor
-chargerNetworks: ["Tesla Supercharger"]
+chargerNetworks: ["AC nabíjení ze zásuvky","hotelové nabíjení","ojedinělé DC stanice"]
 highlights: ["RIVE Maroc rallye", "Sahara s elektromobilem", "Marrakesh", "Agadir"]
 capital: "Rabat"
 currency: "MAD"
-language: "arabština, berberie, francouzština"
+language: "arabština, berberština, francouzština"
 sortOrder: 1
 draft: false
 ---
 
 ## Maroko na naší cestě
 
-Navštívili jsme Maroko jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Maroko jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

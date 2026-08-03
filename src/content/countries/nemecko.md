@@ -1,6 +1,6 @@
 ---
 title: "Německo — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Německo: zažitky, nabíjení, tipy a fotografie."
+description: "Německo elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Německo"
 nameEn: "Germany"
 isoCode: "DE"
@@ -20,7 +20,7 @@ draft: false
 
 ## Německo na naší cestě
 
-Navštívili jsme Německo jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Německo jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

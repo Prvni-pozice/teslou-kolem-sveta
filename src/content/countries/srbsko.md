@@ -1,6 +1,6 @@
 ---
 title: "Srbsko — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Srbsko: zažitky, nabíjení, tipy a fotografie."
+description: "Srbsko elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Srbsko"
 nameEn: "Serbia"
 isoCode: "RS"
@@ -20,7 +20,7 @@ draft: false
 
 ## Srbsko na naší cestě
 
-Navštívili jsme Srbsko jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Srbsko jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

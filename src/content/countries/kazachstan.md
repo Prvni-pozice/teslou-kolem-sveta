@@ -1,6 +1,6 @@
 ---
 title: "Kazachstán — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Kazachstán: zažitky, nabíjení, tipy a fotografie."
+description: "Kazachstán elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Kazachstán"
 nameEn: "Kazakhstan"
 isoCode: "KZ"
@@ -9,7 +9,7 @@ visited: true
 visitedDate: 2024-09-19
 visitCount: 1
 evInfrastructure: limited
-chargerNetworks: ["Tesla Supercharger"]
+chargerNetworks: ["lokální DC stanice","AC nabíjení ze zásuvky"]
 highlights: ["Almaty", "Pohostinnost u Ramila", "Aktau", "Kaspické moře", "Aralské moře"]
 capital: "Astana"
 currency: "KZT"
@@ -20,7 +20,7 @@ draft: false
 
 ## Kazachstán na naší cestě
 
-Navštívili jsme Kazachstán jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Kazachstán jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

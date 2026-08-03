@@ -1,6 +1,6 @@
 ---
 title: "Česká republika — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Česká republika: zažitky, nabíjení, tipy a fotografie."
+description: "Česká republika elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Česká republika"
 nameEn: "Czech Republic"
 isoCode: "CZ"
@@ -20,7 +20,7 @@ draft: false
 
 ## Česká republika na naší cestě
 
-Navštívili jsme Česká republika jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Českou republiku jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

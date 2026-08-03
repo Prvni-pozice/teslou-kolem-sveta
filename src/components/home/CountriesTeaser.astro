@@ -31,12 +31,11 @@ const continentColors: Record<string, string> = {
   </div>
 
   <div class="scroll-track-wrap">
-    <div class="scroll-track" role="list">
+    <ul class="scroll-track">
       {visited.map(country => (
-        <a
+        <li><a
           href={`/zeme/${country.id}/`}
           class="country-chip"
-          role="listitem"
           style={`--chip-color: ${continentColors[country.data.continent] ?? 'var(--accent)'}`}
         >
           <span class="chip-dot" aria-hidden="true"></span>
@@ -46,9 +45,9 @@ const continentColors: Record<string, string> = {
               {country.data.storyCount}
             </span>
           )}
-        </a>
+        </a></li>
       ))}
-    </div>
+    </ul>
     <div class="scroll-fade-left"  aria-hidden="true"></div>
     <div class="scroll-fade-right" aria-hidden="true"></div>
   </div>
@@ -84,6 +83,9 @@ const continentColors: Record<string, string> = {
   }
 
   .scroll-track {
+    list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
     gap: 0.6rem;
     overflow-x: auto;

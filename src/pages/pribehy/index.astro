@@ -12,15 +12,13 @@ const categoryLabels: Record<string, string> = {
   aktualita: 'Aktuality', 'nova-vyprava': 'Nové výpravy',
 };
 
-const activeCategory = Astro.url.searchParams.get('kategorie') ?? 'vse';
-const filtered = activeCategory === 'vse'
-  ? sorted
-  : sorted.filter(s => s.data.category === activeCategory);
+// Filtrování běží na klientu (web je statický — query parametry se při buildu
+// nevyhodnotí, takže server-side filtr by vždy vrátil „Vše").
 ---
 
 <BaseLayout
   title="Příběhy z cest"
-  description="Všechny cestopisné reportáže, zápisky a průvodci z výprav Teslou. Seřazeno od nejnovějšího."
+  description="Všechny reportáže a zápisky z cesty kolem světa Teslou — od startu v Barceloně přes Maroko, USA a Čínu až po návrat domů. Řazeno od nejnovějšího."
 >
   <div class="page-wrap">
     <div class="container">
@@ -30,29 +28,21 @@ const filtered = activeCategory === 'vse'
       </div>
 
       <!-- Filter tabs -->
-      <div class="filter-tabs" role="tablist" aria-label="Filtr kategorií">
-        <a
-          href="/pribehy/"
-          class:list={['filter-tab', { active: activeCategory === 'vse' }]}
-          aria-selected={activeCategory === 'vse'}
-        >Vše ({sorted.length})</a>
+      <div class="filter-tabs" aria-label="Filtr kategorií">
+        <button type="button" class="filter-tab active" data-filter="vse" aria-pressed="true"
+        >Vše ({sorted.length})</button>
         {categories.map(cat => {
           const count = sorted.filter(s => s.data.category === cat).length;
           if (count === 0) return null;
           return (
-            <a
-              href={`/pribehy/?kategorie=${cat}`}
-              class:list={['filter-tab', { active: activeCategory === cat }]}
-              aria-selected={activeCategory === cat}
-            >{categoryLabels[cat]} ({count})</a>
+            <button type="button" class="filter-tab" data-filter={cat} aria-pressed="false"
+            >{categoryLabels[cat]} ({count})</button>
           );
         })}
       </div>
 
-      {filtered.length > 0
-        ? <div class="grid-3">{filtered.map(story => <StoryCard story={story} />)}</div>
-        : <p class="empty">Žádné příběhy v této kategorii.</p>
-      }
+      <div class="grid-3" id="stories-grid">{sorted.map(story => <StoryCard story={story} headingLevel={2} />)}</div>
+      <p class="empty" id="stories-empty" hidden>Žádné příběhy v této kategorii.</p>
     </div>
   </div>
 </BaseLayout>
@@ -70,13 +60,38 @@ const filtered = activeCategory === 'vse'
     font-family: var(--font-sans); font-size: 0.85rem; font-weight: 500;
     padding: 0.4rem 1rem; border-radius: 100px;
     border: 1.5px solid var(--border-strong);
+    background: none; cursor: pointer;
     color: var(--text-muted); text-decoration: none;
     transition: all var(--duration) var(--ease);
   }
-  .filter-tab:hover { border-color: var(--accent); color: var(--accent); }
+  .filter-tab:hover { border-color: var(--accent-text); color: var(--accent-text); }
   .filter-tab.active {
-    background: var(--accent); border-color: var(--accent);
+    background: var(--accent-text); border-color: var(--accent-text);
     color: #fff;
   }
   .empty { color: var(--text-muted); padding: 3rem 0; }
 </style>
+
+<script>
+  const tabs = document.querySelectorAll<HTMLButtonElement>('.filter-tab');
+  const cards = document.querySelectorAll<HTMLElement>('#stories-grid > *');
+  const empty = document.getElementById('stories-empty');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const filter = tab.dataset.filter ?? 'vse';
+      tabs.forEach(t => {
+        const on = t === tab;
+        t.classList.toggle('active', on);
+        t.setAttribute('aria-pressed', String(on));
+      });
+      let shown = 0;
+      cards.forEach(card => {
+        const match = filter === 'vse' || card.dataset.category === filter;
+        card.hidden = !match;
+        if (match) shown++;
+      });
+      if (empty) empty.hidden = shown > 0;
+    });
+  });
+</script>

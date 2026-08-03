@@ -1,6 +1,6 @@
 ---
 title: "Itálie — Teslou kolem světa"
-description: "Navštívené místo na cestě kolem světa v elektromobilu. Itálie: zažitky, nabíjení, tipy a fotografie."
+description: "Itálie elektromobilem: jak se tam nabíjí, co nás překvapilo a kudy jsme projeli. Zkušenosti z cesty kolem světa, tipy a všechny naše články."
 nameCs: "Itálie"
 nameEn: "Italy"
 isoCode: "IT"
@@ -20,7 +20,7 @@ draft: false
 
 ## Itálie na naší cestě
 
-Navštívili jsme Itálie jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
+Itálii jsme navštívili jako součást expedice 80edays — cesty kolem světa v elektromobilu Tesla Model 3.
 
 ### Highlights
 

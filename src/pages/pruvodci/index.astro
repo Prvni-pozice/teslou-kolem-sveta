@@ -6,6 +6,12 @@ import { getCollection } from 'astro:content';
 const allGuides = await getCollection('guides', ({ data }) => !data.draft);
 const sorted = allGuides.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
+// Průvodci vznikli jako příběhy (kategorie pruvodce/technika) — dokud je kolekce
+// `guides` prázdná, vypisujeme je odsud, ať stránka není slepá ulička.
+const guideStories = (await getCollection('stories', ({ data }) => !data.draft))
+  .filter(s => s.data.category === 'pruvodce' || s.data.category === 'technika')
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
 const categoryLabels: Record<string, string> = {
   nabijecky: 'Nabíječky', planovani: 'Plánování', ubytovani: 'Ubytování',
   finance: 'Finance', technika: 'Technika', zimni: 'Zimní jízda', ostatni: 'Ostatní',
@@ -14,7 +20,7 @@ const categoryLabels: Record<string, string> = {
 
 <BaseLayout
   title="Průvodci — praktické tipy pro EV cestování"
-  description="Praktické průvodce pro cestování elektromobilem. Nabíjení, plánování tras, ubytování, finance a technika."
+  description="Praktičtí průvodci pro cesty elektromobilem: nabíjení v Maroku a Číně, hranice a platby ve střední Asii. Vše vyzkoušené na vlastní kůži a baterii."
 >
   <div class="page-wrap">
     <div class="container">
@@ -29,7 +35,7 @@ const categoryLabels: Record<string, string> = {
             <a href={`/pruvodci/${guide.id}/`} class="guide-row card" data-reveal style={`transition-delay: ${i * 0.05}s`}>
               <div class="guide-cat">
                 <span class="cat-badge">{categoryLabels[guide.data.category] ?? guide.data.category}</span>
-                {guide.data.difficulty && <span class="diff-badge diff-{guide.data.difficulty}">{guide.data.difficulty}</span>}
+                {guide.data.difficulty && <span class={`diff-badge diff-${guide.data.difficulty}`}>{guide.data.difficulty}</span>}
               </div>
               <div class="guide-info">
                 <h2 class="guide-title">{guide.data.title}</h2>
@@ -43,7 +49,7 @@ const categoryLabels: Record<string, string> = {
           ))}
         </div>
       ) : (
-        <p class="empty">Průvodci se připravují.</p>
+        <div class="grid-3">{guideStories.map(story => <StoryCard story={story} headingLevel={2} />)}</div>
       )}
     </div>
   </div>

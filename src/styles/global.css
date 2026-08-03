@@ -35,9 +35,12 @@
 
   /* ── Semantic tokens ── */
   --accent:       var(--sky);
-  --accent-hover: var(--sky-hover);
+  --accent-hover: #075985;   /* tmavší pro hover — AA i na bílé */
   --accent-light: var(--sky-light);
   --accent-glow:  var(--sky-glow);
+  /* Textová varianta akcentu — #0ea5e9 má na bílé jen 2,77:1 (WCAG AA vyžaduje 4,5:1).
+     Používat všude, kde akcent nese text nebo je podkladem bílého textu. */
+  --accent-text:  #0369a1;
 
   --bg-base:       #ffffff;
   --bg-2:          var(--slate-50);
@@ -51,7 +54,7 @@
 
   --text:         var(--slate-800);
   --text-muted:   var(--slate-500);
-  --text-dim:     var(--slate-400);
+  --text-dim:     var(--slate-500);  /* slate-400 mělo 2,56:1 — pod AA */
   --text-heading: var(--slate-900);
 
   /* ── Continent palette ── */
@@ -125,7 +128,7 @@ img, video {
 }
 
 a {
-  color: var(--accent);
+  color: var(--accent-text);
   text-decoration: none;
   transition: color var(--duration) var(--ease);
 }
@@ -275,7 +278,7 @@ strong { font-weight: 600; color: var(--text-heading); }
 .btn:hover { transform: translateY(-1px); }
 
 .btn-primary {
-  background: var(--accent);
+  background: var(--accent-text);
   color: #fff;
 }
 
@@ -292,13 +295,13 @@ strong { font-weight: 600; color: var(--text-heading); }
 }
 
 .btn-outline:hover {
-  border-color: var(--accent);
-  color: var(--accent);
+  border-color: var(--accent-text);
+  color: var(--accent-text);
 }
 
 .btn-ghost {
   background: transparent;
-  color: var(--accent);
+  color: var(--accent-text);
   padding-inline: 0;
 }
 
@@ -326,7 +329,7 @@ strong { font-weight: 600; color: var(--text-heading); }
 
 .badge-sky {
   background: var(--sky-light);
-  color: var(--sky-hover);
+  color: #075985;   /* --sky-hover mělo na světlém podkladu jen 3,56:1 */
 }
 
 .badge-amber {
@@ -360,6 +363,27 @@ strong { font-weight: 600; color: var(--text-heading); }
   font-size: 1.05rem;
   line-height: 1.8;
   color: var(--text);
+  /* Bez min-width:0 roztáhne dlouhý řádek (URL, tabulka) grid rodiče a stránka
+     začne přetékat do stran — na mobilu pak text uteče mimo displej. */
+  min-width: 0;
+  overflow-wrap: break-word;
+}
+
+.prose table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+.prose pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.prose iframe,
+.prose video {
+  max-width: 100%;
 }
 
 .prose h2 {
@@ -391,7 +415,7 @@ strong { font-weight: 600; color: var(--text-heading); }
 }
 
 .prose a {
-  color: var(--accent);
+  color: var(--accent-text);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
@@ -479,7 +503,8 @@ strong { font-weight: 600; color: var(--text-heading); }
    SCROLL REVEAL ANIMATIONS
    ═══════════════════════════════════════════════ */
 
-[data-reveal] {
+/* Bez JS zůstane obsah viditelný — reveal se aktivuje až s třídou .js na <html>. */
+.js [data-reveal] {
   opacity: 0;
   transform: translateY(24px);
   transition:
@@ -487,24 +512,24 @@ strong { font-weight: 600; color: var(--text-heading); }
     transform 0.55s var(--ease);
 }
 
-[data-reveal].revealed {
+.js [data-reveal].revealed {
   opacity: 1;
   transform: translateY(0);
 }
 
-[data-reveal="left"] {
+.js [data-reveal="left"] {
   transform: translateX(-24px);
 }
 
-[data-reveal="left"].revealed {
+.js [data-reveal="left"].revealed {
   transform: translateX(0);
 }
 
-[data-reveal="right"] {
+.js [data-reveal="right"] {
   transform: translateX(24px);
 }
 
-[data-reveal="right"].revealed {
+.js [data-reveal="right"].revealed {
   transform: translateX(0);
 }
 
@@ -528,7 +553,7 @@ strong { font-weight: 600; color: var(--text-heading); }
 
 .text-muted  { color: var(--text-muted); }
 .text-dim    { color: var(--text-dim); }
-.text-accent { color: var(--accent); }
+.text-accent { color: var(--accent-text); }
 
 /* ═══════════════════════════════════════════════
    SKIP LINK
@@ -539,7 +564,7 @@ strong { font-weight: 600; color: var(--text-heading); }
   top: -100%;
   left: 1rem;
   z-index: 10000;
-  background: var(--accent);
+  background: var(--accent-text);
   color: #fff;
   font-weight: 700;
   font-size: 0.9rem;
