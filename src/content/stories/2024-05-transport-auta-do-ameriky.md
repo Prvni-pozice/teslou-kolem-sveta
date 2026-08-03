@@ -104,7 +104,7 @@ Africký výlet naší TM3 ve 20 sekundách:
 
 ## Všimli jsme si všivky
 
-Podle Googlu je to *Velella velella*, tedy paruska komůrkatá. Je známá svým modrým vzhledem a plaváním či plachtěním na hladině oceánů. Na rozdíl od *Physalia physalis* (portugalské válečné lodi) má paruska komůrkatá mnohem slabší jed, který obvykle není pro lidi nebezpečný. Víc informací najdete třeba na [Wikipedii](https://cs.wikipedia.org/wiki/Velella).
+Podle Googlu je to *Velella velella*, tedy paruska komůrkatá. Je známá svým modrým vzhledem a plaváním či plachtěním na hladině oceánů. Na rozdíl od *Physalia physalis* (portugalské válečné lodi) má paruska komůrkatá mnohem slabší jed, který obvykle není pro lidi nebezpečný. Víc informací najdete třeba na [Wikipedii](https://en.wikipedia.org/wiki/Velella).
 
 <div class="gallery">
   <img src="/assets/stories/2024-05-transport-auta-do-ameriky/017.webp" alt="Přeprava auta z Maroka do Ameriky, květen 2024 (17)" loading="lazy" />

@@ -1,6 +1,6 @@
 ---
 title: "Mexiko — Teslou kolem světa"
-description: "Zastávka v Mexiku na cestě kolem světa elektrickým autem. Krátká výjezdka za jižní hranici USA."
+description: "Mexiko elektromobilem: krátká výjezdka za jižní hranici USA během cesty kolem světa. Jak se tam nabíjí, co nás překvapilo a všechny naše články."
 nameCs: "Mexiko"
 nameEn: "Mexico"
 isoCode: "MX"
