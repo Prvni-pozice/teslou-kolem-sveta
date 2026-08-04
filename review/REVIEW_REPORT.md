@@ -51,3 +51,6 @@ Jsme jediný český web s kompletní, průběžně psanou kronikou cesty elektr
 Kde nás konkurence předbíhá: monetizace a udržení čtenáře. Přibáň má e-shop, stránku přednášek s kontaktní osobou a tiskovou sekci; Fotr na tripu má komunitu a členství; 80edays má newsletter a mapu.
 
 **Jedna změna s největším dopadem: interaktivní mapa trasy s body na jednotlivé příběhy.** Máme 50 článků pevně ukotvených v místech, ale objevit se dají jen chronologickým seznamem. Mapa by z archivu udělala zážitek, který nemá ani jeden ze tří konkurentů — a posílila by přesně to, v čem už vedeme. Hned za ní je stránka s nabídkou přednášek a sběr e-mailů na novinky.
+
+
+> **Upřesnění (4. 8. 2026):** § 435 NOZ vyžaduje na webu jméno a sídlo podnikatele. Údaj o zápisu v rejstříku včetně oddílu a vložky (spisová značka) zákon váže na **obchodní listiny** — faktury, smlouvy, objednávky — nikoli výslovně na web. Doporučení „doplnit spisovou značku do patičky" bylo v původním znění reportu přeceněné; do patičky patří jméno, sídlo a IČO.

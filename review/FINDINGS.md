@@ -47,3 +47,6 @@ Sjednotit „Amerika"/„Ameriky" a „Hongkong"; doplnit mapu na /trasa/ a chyb
 ## Fáze 4 — srovnání s oborem
 
 Konkurence: Žlutý cirkus (Dan Přibáň), Fotr na tripu, 80edays.com. Jsme jediný český web s kompletní psanou kronikou cesty elektromobilem kolem světa. Doporučení: interaktivní mapa trasy s piny na příběhy, landing page pro přednášky, newsletter, vložená videa do článků.
+
+
+> **Upřesnění (4. 8. 2026):** § 435 NOZ vyžaduje na webu jméno a sídlo podnikatele. Údaj o zápisu v rejstříku včetně oddílu a vložky (spisová značka) zákon váže na **obchodní listiny** — faktury, smlouvy, objednávky — nikoli výslovně na web. Doporučení „doplnit spisovou značku do patičky" bylo v původním znění reportu přeceněné; do patičky patří jméno, sídlo a IČO.

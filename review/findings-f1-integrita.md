@@ -27,3 +27,6 @@ P2 | StoryLayout:188 | CTA „Sledujte naše výpravy naživo" — expedice skon
 P2 | JSON-LD | author Person „Teslou kolem světa" | Organization | StoryLayout.astro:76-80
 
 OK: © dynamický, chronologie, sociální odkazy, jednotný hlas, žádné zbytky, 404 OK, žádná analytika=lišta netřeba.
+
+
+> **Upřesnění (4. 8. 2026):** § 435 NOZ vyžaduje na webu jméno a sídlo podnikatele. Údaj o zápisu v rejstříku včetně oddílu a vložky (spisová značka) zákon váže na **obchodní listiny** — faktury, smlouvy, objednávky — nikoli výslovně na web. Doporučení „doplnit spisovou značku do patičky" bylo v původním znění reportu přeceněné; do patičky patří jméno, sídlo a IČO.
